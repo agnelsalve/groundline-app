@@ -1,0 +1,325 @@
+[
+ {
+  "source": "Brand & competitor news (Google News searches)",
+  "folder": "data/verified/brand_news/",
+  "represents": "What the outside world publishes about Weave and its competitors: press, analyst ratings, M&A, insider trades, law-firm notices.",
+  "run_id": "20261009T052422Z",
+  "built_at": "2026-10-16T04:36:53Z",
+  "records": 56,
+  "by_feed": {
+   "gnews_weave": 35,
+   "gnews_podium": 17,
+   "gnews_birdeye": 2,
+   "gnews_nexhealth": 2
+  },
+  "feed_status": {
+   "gnews_weave": "ok",
+   "gnews_podium": "ok",
+   "gnews_birdeye": "ok",
+   "gnews_nexhealth": "ok"
+  },
+  "checks": [
+   {
+    "check": "Every record has title, URL, source and date",
+    "passed": true,
+    "detail": "0 missing"
+   },
+   {
+    "check": "Every date is YYYY-MM-DD and not in the future",
+    "passed": true,
+    "detail": "0 bad"
+   },
+   {
+    "check": "No duplicate record IDs",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "No duplicate URLs",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "No feed contributes more than 35 records",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "Every record names the company (matched_keywords filled)",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "Every record has an event / signal type",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "Weave feed has at least 10 records",
+    "passed": true,
+    "detail": "35 Weave records"
+   },
+   {
+    "check": "No more than 5 legal-notice records",
+    "passed": true,
+    "detail": "3 legal notices"
+   }
+  ],
+  "verdict": "pass"
+ },
+ {
+  "source": "Customer voice (Reddit, practice-owner communities)",
+  "folder": "data/verified/customer_voice/",
+  "represents": "What dental, vet and optometry practice owners say about the software they use, in their own words.",
+  "run_id": "20261009T052422Z",
+  "built_at": "2026-10-16T04:36:53Z",
+  "records": 3,
+  "by_feed": {
+   "reddit_practice_owners": 3
+  },
+  "feed_status": {
+   "reddit_practice_owners": "ok"
+  },
+  "checks": [
+   {
+    "check": "Every record has title, URL, source and date",
+    "passed": true,
+    "detail": "0 missing"
+   },
+   {
+    "check": "Every date is YYYY-MM-DD and not in the future",
+    "passed": true,
+    "detail": "0 bad"
+   },
+   {
+    "check": "No duplicate record IDs",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "No duplicate URLs",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "No feed contributes more than 35 records",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "Every post links to a Reddit thread",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "At least 3 posts (below that, quote individually and never generalize)",
+    "passed": true,
+    "detail": "3 posts"
+   }
+  ],
+  "verdict": "pass"
+ },
+ {
+  "source": "Market & category news (tech press RSS + Google News topic searches)",
+  "folder": "data/verified/market_news/",
+  "represents": "What is being announced in the market Weave sells into: AI receptionists, AI customer messaging, AI agents.",
+  "run_id": "20261009T052422Z",
+  "built_at": "2026-10-16T04:36:53Z",
+  "records": 140,
+  "by_feed": {
+   "techcrunch_ai": 17,
+   "mit_tech_review_ai": 10,
+   "the_verge_ai": 8,
+   "gnews_ai_agents": 35,
+   "gnews_ai_grounding": 35,
+   "gnews_ai_customer_comms": 35
+  },
+  "feed_status": {
+   "techcrunch_ai": "ok",
+   "mit_tech_review_ai": "ok",
+   "the_verge_ai": "ok",
+   "gnews_ai_agents": "ok",
+   "gnews_ai_grounding": "ok",
+   "gnews_ai_customer_comms": "ok"
+  },
+  "checks": [
+   {
+    "check": "Every record has title, URL, source and date",
+    "passed": true,
+    "detail": "0 missing"
+   },
+   {
+    "check": "Every date is YYYY-MM-DD and not in the future",
+    "passed": true,
+    "detail": "0 bad"
+   },
+   {
+    "check": "No duplicate record IDs",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "No duplicate URLs",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "No feed contributes more than 35 records",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "Every record has a topic from the fixed list",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "Every record has at least one matched keyword",
+    "passed": true,
+    "detail": ""
+   }
+  ],
+  "verdict": "pass"
+ },
+ {
+  "source": "Broad news backup (NewsAPI, optional)",
+  "folder": "data/verified/newsapi/",
+  "represents": "Extra breadth from outlets Google News may not surface. Never required for a brief to go out.",
+  "run_id": "20261009T052422Z",
+  "built_at": "2026-10-16T04:36:53Z",
+  "records": 0,
+  "by_feed": {
+   "newsapi_ai": 0,
+   "newsapi_weave": 0
+  },
+  "feed_status": {
+   "newsapi_ai": "unavailable",
+   "newsapi_weave": "unavailable"
+  },
+  "checks": [
+   {
+    "check": "Optional source: unavailable this run, gap disclosed",
+    "passed": true,
+    "detail": "newsapi_ai: unavailable; newsapi_weave: unavailable"
+   }
+  ],
+  "verdict": "pass"
+ },
+ {
+  "source": "Practitioner discussion (Hacker News via Algolia API)",
+  "folder": "data/verified/practitioner_discussion/",
+  "represents": "What the people who build software think about AI agents and their failures.",
+  "run_id": "20261009T052422Z",
+  "built_at": "2026-10-16T04:36:53Z",
+  "records": 60,
+  "by_feed": {
+   "hn_ai_agents": 20,
+   "hn_agentic": 16,
+   "hn_evals": 10,
+   "hn_ai_safety": 12,
+   "hn_hallucination": 2
+  },
+  "feed_status": {
+   "hn_ai_agents": "ok",
+   "hn_agentic": "ok",
+   "hn_evals": "ok",
+   "hn_ai_safety": "ok",
+   "hn_hallucination": "ok"
+  },
+  "checks": [
+   {
+    "check": "Every record has title, URL, source and date",
+    "passed": true,
+    "detail": "0 missing"
+   },
+   {
+    "check": "Every date is YYYY-MM-DD and not in the future",
+    "passed": true,
+    "detail": "0 bad"
+   },
+   {
+    "check": "No duplicate record IDs",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "No duplicate URLs",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "No feed contributes more than 35 records",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "Every story has more than 20 points",
+    "passed": true,
+    "detail": "0 at or below 20"
+   },
+   {
+    "check": "Every story has a discussion-thread URL",
+    "passed": true,
+    "detail": ""
+   }
+  ],
+  "verdict": "pass"
+ },
+ {
+  "source": "Research (arXiv API)",
+  "folder": "data/verified/research/",
+  "represents": "What has been proven, as opposed to announced, about whether AI answers can be trusted.",
+  "run_id": "20261009T052422Z",
+  "built_at": "2026-10-16T04:36:53Z",
+  "records": 35,
+  "by_feed": {
+   "arxiv_grounding_agents": 35
+  },
+  "feed_status": {
+   "arxiv_grounding_agents": "ok"
+  },
+  "checks": [
+   {
+    "check": "Every record has title, URL, source and date",
+    "passed": true,
+    "detail": "0 missing"
+   },
+   {
+    "check": "Every date is YYYY-MM-DD and not in the future",
+    "passed": true,
+    "detail": "0 bad"
+   },
+   {
+    "check": "No duplicate record IDs",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "No duplicate URLs",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "No feed contributes more than 35 records",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "Every record is an arXiv paper",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "Every paper has at least one author",
+    "passed": true,
+    "detail": ""
+   },
+   {
+    "check": "Every paper has an abstract summary",
+    "passed": true,
+    "detail": ""
+   }
+  ],
+  "verdict": "pass"
+ }
+]
