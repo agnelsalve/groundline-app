@@ -28,12 +28,7 @@
      "discussed": 2
     },
     "risks_high_or_medium": 8,
-    "opportunities_high_or_medium": 3,
-    "archetypes": {
-     "Ruler": 5,
-     "Hero": 2,
-     "Magician": 2
-    }
+    "opportunities_high_or_medium": 3
    },
    "evidence": [
     {
@@ -48,7 +43,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "high",
-     "archetype": "Ruler",
      "why": "Major acquisition event changes Weave's corporate status.",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVUlQd0lna0FzWHVRa2Z0cjhaNzFHNWZVRWxpclNkUVR3T2kxZF8taDFLaDRGcWNaUmQza0dDd3h3Nm1zQTNVRE9kY0NBVWlCaGZZY1FUejBFNHo0cF9IcktQc0h4dUdZNkRNcTBtbllXTlp2Y05nOWZYdnBJM1V1LU5mOFJmemlHNkJHblFWU3FSb1d6Y3JxU1g2SzdWVFNkeWc?oc=5"
     },
@@ -64,7 +58,6 @@
      "evidence": "reported",
      "risk": "high",
      "opportunity": "none",
-     "archetype": "Outlaw",
      "why": "Legal investigations pose severe risks to Weave's stock value and shareholder confidence.",
      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPbWxuOG90U19OVjRrRDZId3lFWFNYektpSGI5eGJtNi11SFBDT0l5cWJiMUFIUXBmR2w1MXlFZkZLTVUyOXRpaTZkaENhZHJXcFdqYzFxRVAwdUQxSlo2a1A2U1dFS0ZuZkZ0RGp4NEgzTjRuTUNmMDh1SlZvMVptWWRfRG1aY3RUbFZCSUVGXzVQMUo1TXUwekJxUUtXamxPZFRIRG0xOV9LcVZkanRhZ2FGYXFwU1hsYU55WjN3QW5NQ2IyUkNZdDZXTGlVUmh6cHBhODFBVThFLWhpSDBvN1BJb0VWLVB0d01PZEc3ZHU5UURKZHdGLWxBU0pJYXluLURPV21QM0tjQlNMRXZlRDRzNnhESjg?oc=5"
     },
@@ -80,7 +73,6 @@
      "evidence": "discussed",
      "risk": "none",
      "opportunity": "high",
-     "archetype": "Sage",
      "why": "Positive financial analysis highlighting Weave's business model shift.",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVnpDdDJmNWs0Xy02THVPbkQ0R1czcEpBVmVzUHhaRlh3ZlVEazhaRWZOaEFwQVFyMEdacTU4WTdrTHhIUFV6Vk9PemFEd2pwOWhBUm1ZZDZySmxIamd0QVFwZ0J4TXJLaVFjNy1CTEgybi1jRl9XREhSN3o3N3hFQ0RxekFieG54TVM4RWVJLWJhWE5XSzdvVDJqUVFnWmR4bkVuMHRaQ0pES0ZvX3p4TF9B?oc=5"
     },
@@ -96,7 +88,6 @@
      "evidence": "reported",
      "risk": "none",
      "opportunity": "high",
-     "archetype": "Hero",
      "why": "Positive stock performance enhances market confidence and investor relations.",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbXQ3N0FsZFludkFrTEltbGlLeWFYX0J2VG9mU2dVTEFVUkZhbFBOVlpQMFh2OHZBcGRXa1hFT2daVXZHc0Nob3F0WDlJd2kxRFB5LXJoN1VCSnRYU3lScldpRWJHc0NLdGptUWVOQ3Z0YmFWNW5PQ1lhb3lwTmUyTE1uQTRfX0VEa0dnaDIzcw?oc=5"
     },
@@ -112,7 +103,6 @@
      "evidence": "reported",
      "risk": "medium",
      "opportunity": "none",
-     "archetype": null,
      "why": "Guidance cut negatively impacted stock performance.",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbzVIVTdONmdlWU1nTWdIRHFla2J6cnFiSHJtQldMTVA1bUdwTG1hZ2FmYWRLSkphTWdqWlZvd2twOVc5V3R3X0dXY3FmRGtrWXhGZENGalJLRzNNNXl1QUZzSXpUbEpqQy1zWnE0ZXJFSWQ1WW9NSy1Da3FQcEFEZFRKeUluQjZseWdDOWlhRkM1SnRCdGJoX2xfSlVuQjN0Ri1RUEFvaXNlUGFDNVR4VEdGdFRfT0pJQ2dQWUtWaUw1N3ZxaERHd0p1OTk5QlRRbFAw0gHYAUFVX3lxTFBJMGJvdkZKN05UQ2pjUExNTnRMNG9NYzZTaDhYOTBUYnhzSEZVZ1k3S2h4UmU3RmlLdWRQSlBBbW9lRTkwT2tFb09XNV9XLUlCVzZfSGZsTjExbVBadTkwX0c1aFN3a0pQbEl5eW9ENDJZMV9abXFlREpoeDd1c0RmV3NhSW1OLXp3WlV0eF95VFU2bnJqYzVheEJzSldTMWhvMG5sRmVuRmFzLVlPOWU2SFgyMnVNZVgwclF0V2tRcWdwZTdTZjZUaWoxQVNRVGxOOE1Hd1lmYg?oc=5"
     },
@@ -128,7 +118,6 @@
      "evidence": "reported",
      "risk": "medium",
      "opportunity": "none",
-     "archetype": null,
      "why": "Shareholder class action investigation.",
      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOUVFaMGlWdVk5S1VhWjluN3UxNzhPLUFiQk90Qnl5NDB6THgwa2hnUnRmZXI5S3o5emN2eUhEQVZ1aURzbzJKOS1XTFM3Z3BtZkRmVVl2dzlVekxkOFhsUk96ZGpqRDhISjc1bkh5UjFURHNjdWc0QVVRZDJ5ZFBNX2FFTlRCZmZVTkJyZVNkb1lPM0RrbUpTc1dzeFdFS0twTHU3U3lmOGQ3SkxIa3Y2SW1ycnUzUWFYbEdybTgwNDk2Qk8wM3dBS0RpMjE2SUZzczg4c3o1Rnpsb1Foa2daYVBSaWRWYWJOY1Z3T0piR2lNTnRVZlJoTFF3UGpWVHM0bk9QNjRkTGdYWDJhc0RVcnhLR3hrQS00eUlxSE56NWtXb2l6NWFWVEtoY043N2Z4Rmc?oc=5"
     },
@@ -144,7 +133,6 @@
      "evidence": "reported",
      "risk": "medium",
      "opportunity": "none",
-     "archetype": null,
      "why": "Analyst rating adjustment on buyout.",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3l2YVhON2pDRnFoTkFWQTgzVTVZWVVMTE54TWF6R1lkc1Y5aXpJd21MVXltVW54SlM0am9mSkUxbTZWcS1HWXVUN2FtbFdaZjU0SXhndV9WbUs4cEd6M3BoU2w4MV9OS3lCZklkMnhNdXVpaGR0d2xGXzhZakF0a05MRmNQYURPdjNBYXFwSjg3dU5RSno4TVk4S3JjWVE0XzFSanJxZVlBbUU2N1dzSVZ1dWV3cHM?oc=5"
     },
@@ -160,7 +148,6 @@
      "evidence": "reported",
      "risk": "medium",
      "opportunity": "none",
-     "archetype": null,
      "why": "Downgrade reflecting acquisition constraints.",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTAwbGlJUTVnZE0wVkdVb0NvZndNQm5mRGFlazdteDVnWTI5XzlCYzBqREt5YTVkTHgtNkprZF9YMjNDbjQtZTdzSEctNDRLcUhvMXNHalR5WkZ0SlQxOThYMXQ5MjFtRzA1eG8yMHQxSHVPdTM2QzlBLXczaGZ4TFNoVm1fbG1ZbEFCc2Y3NHlGaWpuMGI0R0VsdDYwN3dKZjdQemJoYTNOS19wMnc?oc=5"
     },
@@ -176,7 +163,6 @@
      "evidence": "reported",
      "risk": "medium",
      "opportunity": "none",
-     "archetype": null,
      "why": "Analyst rating change.",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd0NNNzNuS3l1OFNTWFBVNW94NWcySWtuSklXMGZ1YkZXM2FnSDgyZkVRY0VIeDQwcHBvVlo4Z3B1cTNpVnZjTEpCRHRUS2FmTGs5NGo1OFpHU3BydS1KREh5UHY3eFVxODV5WF9mWnAxYnhhaFlGTVc0WUpQNFZucy1tWUtxLTR5YzgwYWxzbFFpcmRwdjFOS0tMZHlDVUpYVTlkdlNVYWdKcXlHb1ZF?oc=5"
     },
@@ -192,7 +178,6 @@
      "evidence": "reported",
      "risk": "medium",
      "opportunity": "none",
-     "archetype": null,
      "why": "Analyst downgrade following acquisition news.",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONEdXTUlndjE3akVydHRmNW1fX0RleVBZQVBTTlhqbUM1S2c2NzlZWEdvWDd1Wk5RMHVlOVBBejdXaWhoZzBHdzY4YVVHaFpfRHFJNV80Qy1mZmhYb2poX1ljd29WemQwUHhvVWdPclljYWI1bHhqZDZJR1lnaUw4c2FvM0dVN2FKaU56RHNqUG9sLXZNZUktazYwZ3dyRGI1NXlVZEdPcDd2enFMWnRr?oc=5"
     },
@@ -208,7 +193,6 @@
      "evidence": "reported",
      "risk": "medium",
      "opportunity": "none",
-     "archetype": null,
      "why": "Legal scrutiny on acquisition price.",
      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOaGNQR01NNHZGY0VLeFJfN0lLYmRBcmxacm5HdERuRlZ0S2l5VzI0WTh1RURuczFmSGd6eEpic2g4a24za1BMQVZWRVAybEhQM3BpRW9EcHZMdG9NTlNmWC1sRS1XbWh2M3E3NVJDLWxyTk1oelUxWjFycHphLWlFc0tiUWQydFpXT2FISXlWa3JUeUVuOVRkaER0NHlOb0tiaTlGYXhKdjZiSTBhQ2FMUVdnTGVROWo2MHR6NVdINU5BZE5zTEc0aTJ1TFJBUVloazlYY19RUkJKS1B3ektGdmNpWExYZGU3eGNBZXJSNXlqSFExUDBDX1JlUWdZaDdPUkxldkc2aE1qVm8?oc=5"
     },
@@ -224,7 +208,6 @@
      "evidence": "announced",
      "risk": "none",
      "opportunity": "low",
-     "archetype": "Ruler",
      "why": "Definitive acquisition agreement announced.",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGt5RXROUWNDT0ZnZS1sT241cDVzSkZ5NmwwUkthLUdVTzAwVzNKcXRfd28xZFB5bnFaU1RPWk15b0lFVmJFVnNoc2tHbUZLUUpYTjFRQjNDRk9mQ1hNX3dYTDE3NTJfQVdRTmNLNklqd1ZOdW9acXlfakhBYmQ0aWpnTlpXUElTdmtxMzh3RFVZaU01bWIzUG8xYTdnQTJS?oc=5"
     },
@@ -240,7 +223,6 @@
      "evidence": "announced",
      "risk": "none",
      "opportunity": "low",
-     "archetype": "Creator",
      "why": "Validates Weave's AI healthcare software value.",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU2Vva2RORVlfQk5OeHJVbkVWTThLQkJrOVBJSzcxcXloTmlMMGhIdjV0U3dIOTRQVm56bml6UFNGTzZSYjFPR2F4b19DWENLZE01dXVIMC1aQkNfZzlIMzJwUUJzZUUyemVIbmhiM1R6R000NHhnVk9iWTFpekgzcjBseURrMzdfQXlIMW5nMl9vbzJnd1ZOVHJCWWdqVUVSRmtZMHhxSFQtYVNTTXY3MUROWUR6Q3NmbTVn?oc=5"
     },
@@ -256,7 +238,6 @@
      "evidence": "reported",
      "risk": "none",
      "opportunity": "low",
-     "archetype": "Magician",
      "why": "Stock price increase due to acquisition.",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZmZXcGh3RUlHTk0wSDhVYmN0cmtLa1lqWDAxNFUxam96Z1Vvbzh6ZDlhVXpEdks5Yi1aYmVZZHY4RGxoME4yT1EyakxnNnBGNEQyeGp4b1Iyc3haVDVuZzlLVnJPQXlvRnEtVzJraGcxbFpjc3dTMVkzd3RUYk1DYzZJd3hfS05yRVpYUU1vSmRrZlViU0hQaXlGcUc?oc=5"
     },
@@ -272,7 +253,6 @@
      "evidence": "announced",
      "risk": "none",
      "opportunity": "low",
-     "archetype": "Ruler",
      "why": "Significant share price surge from buyout.",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkNfYjlDQTg2dXJKYy1CaWp6aTM1a1A0d0pUUXBMU0J4cXNnLURlbkoyVmVhY0w1RWhYUXVKQ3VGUmlFcmNTajRzZ21ZMk1CVXBmdXd6RDNsRFNVTnM2NXBsYXBFcDVfM2Y5V0thLWpCMVhNbHd5T0FLSm4tUmFaUFhlS2kxSGpYc0FGSnI3U2dLZkljOS1XZHJqOXQweFpoZU5NMkRqcUE1c2NnNkVGdFRMd295YlQwY3N6MUxubw?oc=5"
     },
@@ -288,7 +268,6 @@
      "evidence": "reported",
      "risk": "none",
      "opportunity": "low",
-     "archetype": "Hero",
      "why": "High stock performance driven by acquisition.",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTGpkUm03bU1LR01VRWQxQ1dTNDFtcnBmYmQzQl9uZW9ka1NNYTRERkhKaldTM1Axc1NYdmwxc0dlRnpWcExCYWp2NkxhQ3YxQXd1dERiQ2hqRkdWYnUtM2tlbVV0WXZ2QS1GeWxHUVRGX1Q3R0RlOE95azJFNzhYTVdLLXpHZTA5NVZOeHBFWHU4U1Z1c0hyMl8tVDVISndWTWF3XzlSeUhtQ1JtVVRSLWlWcXlaWko5?oc=5"
     },
@@ -304,7 +283,6 @@
      "evidence": "reported",
      "risk": "none",
      "opportunity": "low",
-     "archetype": "Magician",
      "why": "Market surge tied to buyout news.",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV1NRZTFYMXBTNVBucHNGaTFTVXhnZnFaLWw0OGFNOUZSQnpVVEtna0VleHFRbFNNWGMyeXpCUDNYQm1MajNEVE5NdkpmSjdBRDdlUnpxRFo4dmY5dkx5YmYyQ1NWY1JMM2pfeDd5OXNpNDVQTFhvU1ZaRWZ0TGx1bm56ZWl2ZDhZRDVDZU9xeG1lTVVIamJrZXFYRFdiaVl5b0ZaSzVZSENwdzhDMDNXc0Z2b0x3ZU95Z3RKandkMEdDb1E?oc=5"
     },
@@ -320,7 +298,6 @@
      "evidence": "announced",
      "risk": "none",
      "opportunity": "low",
-     "archetype": "Ruler",
      "why": "Weave is being acquired, changing its public status.",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPczRlbk45TVJ5MlViT0hvbktOR3FFek95UVlEWjhOMk5VSzhCcjFBbE8wdkxkTXkxM05XZ0V3c3dVUkNtOENlM2RXUFcxOGJEY1RSRUluYkd3Q0xaM3ZKNU01ZXJ3SnFMNnpHUk16ZkQ2NkRmQllaVFFheFpZb2RpVUlWMzFhQUJJMURNOWtDZkwyYlNabkRrUFNadTh4Tjk0YVZHVTVuZTR6cHVHY055bVFFNDJsLUhJVzViZzVPWDVYQ2s2ckNFbUZaRUM5dGF1WFJ1bkJ3?oc=5"
     },
@@ -336,7 +313,6 @@
      "evidence": "announced",
      "risk": "none",
      "opportunity": "low",
-     "archetype": "Ruler",
      "why": "Official confirmation of the acquisition deal.",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNFctaXpkc3FJOUdIQ19RYndRYUJ5VkRDcll5TnE3V0tKcVIxdVFYQ3Nwd0tjTmZEY0RPM01Wc292RmlNOGNUN1Q5bDBLS1hDajBZWkMwUEVseHpNb3NvMkNKZzdRbm5uMkRwc0FfczF3VlVDQ08teUhrMmIxQVJrd0ZRbnY2WFc4TXZjZFdWSjFMV3VnVTEtZW05MWtmWi1vb05UNUlYUFlTUQ?oc=5"
     },
@@ -352,7 +328,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "none",
-     "archetype": null,
      "why": "Routine executive stock grant reporting.",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZzQ5dFZHemVFaklCaXlEMGVSaTRPUWprSE9xVExSNkxXNEZmREFjTW1icU1xYmRiOVE3V19USjZvQUFCTFJkblFSMXJYVTEyR0djNXZZdHRUTl85YlRKTWllZWttamo2cVVFOFBKWE42SWVKS2ROWXpRZUZEWk5EVTB3ZWZfQjRrZy1lWTZvSXJLZUtTdUhxZnZuWHZJY29OSlZKNmdGSjNGMkdzbDdLSmhrdlpVY1VXeEpmUzA5TE1JMEN5aFZv?oc=5"
     },
@@ -368,7 +343,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "none",
-     "archetype": null,
      "why": "Analyst reaction to M&A.",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbGlzZU5kVVZnY2FhcGs2ZlhLMnBvYXBYbDdId1RYNHpnb3FId1VPWXcyRE9GMDdxaW83dExkWlBDcUJlOEpXWkxIVExmRFZXRk5KRFhySEE3WDBBRGRmb0k2S2lkYWdydE9mdU5CQ19UY0V2VzkyMC1SRUJ1QUJ2RHludDdEWFN4TnBtYUhLTm1HSzJWVGtlZVdRRVhZeFYybmxpTFZDcVVHbHIySTZTQkRic2EyMDBJbDZKNkhxTXRHaEVXTlFFeUNn?oc=5"
     },
@@ -384,7 +358,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "none",
-     "archetype": null,
      "why": "Standard insider transaction reporting.",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGFwQl9VY3hzNm9ZOHk2OWpMYlhCMTV4YWU4Ri01WkJIWk4wb0pqNXU0dU5OVTdiSDRlV1U3OGMzQ0gyNWFrUW94Z3FId3B3Q0ZiUlpSQWd5Q2ZZRDR3NFE5amQ4bVVHMFFSamRVRTBnZ2JkUDFxVmhVV2drQTNyLUhDVE5SR0JKc1ByQmJKUUJYd0FsdmNyOVdyanN4OFNhaHFYSzk3STd0UQ?oc=5"
     },
@@ -400,7 +373,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "none",
-     "archetype": null,
      "why": "Subdued earnings reaction.",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOGRiNDd5ZFhlaDNrYzBabXpwYmxLSkZSYnBTalhGRjl1c2hOaG8tcG83eU9VWXB6cUN6ZjFyQ1RjRFd1Y1JBajN3OUZER203ZE1BN2d2UnljR3lMRWoxUGE1YUtQTmtrUkdoT2RPMkx3RWQ3UkdSb01BVEQ1M2tRdXFpbUhjWmJadkRvaUM4SXRCaTdsa3U3NGwwNVFudER3R0xnb3IybUJnNHY0T3ZNVlBudkQ4T0g2aDlOQk1vRnVlVUFmcm4wbHlDa1djZEM3MG5Z?oc=5"
     },
@@ -416,7 +388,6 @@
      "evidence": "announced",
      "risk": "none",
      "opportunity": "low",
-     "archetype": null,
      "why": "Positive business growth metrics reported.",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVkc4cUl6MllYUHg2MVhxV3Y3d25oWlA5QUg4VVdHb20tYUxfajJCNUt3T1cyeUJyVktPSGFpY200YWU5eUFXcEU0Z3VfVk5SSk9rQjlKZllZMU96LXhabk5yOVVXUjQ3cWVWQUVNa1VGcDZjQ1FvYjY5Z1FIMXVQSDJjNzdHNWp4NHFBZUR0Z1lkRi11ZU4wRnhNZDVhdw?oc=5"
     },
@@ -432,7 +403,6 @@
      "evidence": "announced",
      "risk": "none",
      "opportunity": "low",
-     "archetype": null,
      "why": "Positive analyst coverage initiation.",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0FwQlhQd1FXR0F5TURaWWQxOXdPN3UwRVIyT2dNemR1T1lKQTR6LXkyWm5jTl9IVjZiSGlyQ2lnT1VSdUF6R3BORFVKckM2UDEtRTAzNDQ2NVpheDVTclFoSWl6bE83UDE4OFgwTURqRHQ5Q3VkVVNGa2lzZ3c3WkV1S2RTUUJEcUROWkZlcDNiTjhSZ3VqVTg3YTgyblYtc3p3WjFMZUFRR0t5MmFDdUJzV2VIZnBPVE5Z?oc=5"
     },
@@ -448,7 +418,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "high",
-     "archetype": null,
      "why": "Competitor partnership breakdown creates market opportunity.",
      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZFF2ZDhDYzFad0cwd3RXVWs4MGhzLUR6LVFpN1JNZW5xZ3BVdksxcXFBZVQ3bTZtQ1l5blhnRGd4Wko1Z1cwV1pWNi1VT1ZvZ1p1d1F3UTR5a051cVdnTnZpRkFKV3ZKVjd6ZUNtM1VROUVkUkJHTnJCV3RJTHltSEN4SmxFSkJZTUxZTFRhU2dfS2hrS3Zaa3J1VFJVN1d6ckdqcGNXWW9SbnlVdklwTkNrWUZ4Yy1KbTBPVFVWM0tnd3pYVk92Ql9UQ3p1eFp1OWZIUFBOT2xMS2IzTUgxREw1Rlh0SVU?oc=5"
     },
@@ -464,7 +433,6 @@
      "evidence": "announced",
      "risk": "medium",
      "opportunity": "low",
-     "archetype": "Creator",
      "why": "Competitor AI product launch increases pressure.",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeHdrYzB5RjhVSm9YM3VFeksyU1NTV011QU0zZUJ2QWU3SHVXTHRRX0M1YnlaZ193ZXJjOFpWNVVTNW5yOXk3X3JqMVhScm5aOUxLOTZpbXpIMTREYWZLd2NQSmZuZHBfbjFBY19Hd0RmZjRTVTNUVUplaUpFRm1MTGdPOXdOZkpyZFBCSHFYSjJRbWw4bF8tdzBMZ0VqZ19HamRUQlZKYktwd0YyQksyU1ZLZzVOZTJIYzFSTUtKX3ZSNzg?oc=5"
     },
@@ -480,7 +448,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": null,
      "why": "Competitor Podium lost a partnership, opening potential win opportunities.",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNV9tQ1JFamNaSDN1UGdTbHRGbDJxdERWTTI2cTVPa2R6eHdIejAzeVBjUGp2dzB4WWpFXzJ2WnBzS2MxanNiZG03bzV5X1hKZVNrd3R4VTA5VmpRcnlObS1zbVpfMzlfQkRLSElNMkhFV0RqQzFkYUZRWlVyNVp1by1LZ01vRWZxeXV6djc2XzNnOWtZWTYtY210SE9pdGxfUTRXMw?oc=5"
     },
@@ -496,7 +463,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "low",
-     "archetype": null,
      "why": "Competitor financial metrics update.",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tR0pzSXA5WEp2ZXVFNnhRWEVLVWVjdjJhdHhVc0xUNmthS0hPSy1EQzlEcVdFMzdHZWVWLXV0Q3ZlNDZoOEZoV2RORng2Y28?oc=5"
     },
@@ -512,7 +478,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "low",
-     "archetype": null,
      "why": "Competitor financial metrics update.",
      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EYl9EWnhTQVJ3dWw1aGpuWEk2WHctaWcwajVYaW9GREZFaDYteEVKRUlGSzhVbE1HUnd6NWlaRVpFY1QweFplOEE5emE3c2lZZ2YtcG9Jbw?oc=5"
     },
@@ -528,7 +493,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "none",
-     "archetype": "Creator",
      "why": "Competitor launched new AI product features.",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjJCRTdaejVhaFA4VXNxZVpaVTRkQlNYYWowbGJGMF9SQ1QzQ0NNSnQzR1FSanJtT0J6WG0wVDNJQ3d6a2JEZEdISWx4T2RnSFhHdjhGUGpsSzRzbFZmZUdURy1seXo0ZHA5MGI4SmtqWWJBX0ZzM05aYVQ5T0NjLW41b1d6WFZEbGl3UlZwcXctT2ZzTnNDdE41VDlrblhjM2g1SExKSUh6X1hWRVM5WE56bDV4dw?oc=5"
     },
@@ -544,7 +508,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "none",
-     "archetype": "Creator",
      "why": "Competitor expands its partnerships in gaming/racing technology.",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHlXNG1wMGN1VHlUMlFjT2ZZTFdaa1o3ODRucmhESC0zblNlcktmZWpFLVFlektVbzNOMk9PQ1pRZlQ3Ulk1bkFSeThQbnFnVThHX1JveThmS1VNNEk1UGZQOEc3MnZWQXVtaTNfblVrUFREMjlNcllvYi1WaEg3UEVCMF9aUzZZNlNtcDMtdVp3ODhhOHFBUFpMdm5LcTRHaGM5SnRmMVJUY0dhbUhFejdPd3Nidw?oc=5"
     },
@@ -560,7 +523,6 @@
      "evidence": "reported",
      "risk": "none",
      "opportunity": "low",
-     "archetype": "Outlaw",
      "why": "Competitor faces a legal/tax setback.",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYm5pU0xBTGF6aHpUWENjRW5uSGY4QVNGRmRlNE04ZEx3SlRhOXFCOGMzcTJvWHlyQ3dMUmtIV2pnTmd6d1ZkWnlXNnhYMUlUdTdyN0dtelJMWFR5cHo2YTVJVGY2ZlNsUWRDVUdiODBMNnd6OWRQZnlMQ0Q1dElSUWdtMWxVdVRIcXNmbE9YNU9iaGVYb2pETjNwN185WHVpYnBXdFFDbjI0dDliNXlCWTBvUDBkNXJCbHk0Q1dzSFJjRnRPaElRWXdCeGhleU1ubWF3SEtKYVZLWXVnSEZFNXBWa1Y4akxUSkJn?oc=5"
     }
@@ -576,13 +538,13 @@
   },
   "brief": {
    "headline": "Weave to go private in $650M acquisition amid shareholder price investigations",
-   "summary": "Weave Communications has entered a definitive agreement to be acquired by Francisco Partners for $650 million, shifting the company toward private status. While the deal initially caused a stock surge, it has triggered multiple legal investigations into price adequacy and led analysts to downgrade the stock to a hold rating.",
+   "summary": "Weave Communications has entered a definitive agreement to be acquired by Francisco Partners for $650 million, shifting the brand toward private ownership. While the deal validates Weave's AI healthcare software, it has triggered multiple legal investigations into whether the sale price is fair to shareholders.",
    "sections": [
     {
      "title": "What happened",
      "claims": [
       {
-       "text": "Weave Communications agreed to be acquired by Francisco Partners for $650 million to take the company private.",
+       "text": "Weave Communications agreed to a $650 million acquisition by Francisco Partners to take the company private.",
        "cite": [
         "GL-df38bbbc",
         "GL-1d306159"
@@ -590,23 +552,23 @@
        "verdict": "supported"
       },
       {
-       "text": "The company's activity during this period was dominated by 18 financial and 13 M&A themes across 36 total records.",
-       "cite": [
-        "GL-df38bbbc",
-        "GL-a307f792"
-       ],
-       "verdict": "supported"
-      },
-      {
-       "text": "Weave reported record location growth in Q2 2026, though a modest EPS beat failed to sustain stock momentum.",
+       "text": "The company reported record location growth in Q2 2026, though a guidance cut caused the stock to sink in early August.",
        "cite": [
         "GL-b17a0a67",
-        "GL-f9b40999"
+        "GL-1b852384"
        ],
        "verdict": "supported"
       },
       {
-       "text": "The brand is transitioning its business model toward consumption-based pricing.",
+       "text": "Multiple law firms, including Halper Sadeh LLC and Ademi LLP, launched investigations into the adequacy of the buyout price.",
+       "cite": [
+        "GL-6e17f34a",
+        "GL-d1464026"
+       ],
+       "verdict": "supported"
+      },
+      {
+       "text": "The brand shifted its business model toward consumption-based pricing.",
        "cite": [
         "GL-35c05d11"
        ],
@@ -618,28 +580,27 @@
      "title": "How the brand is perceived",
      "claims": [
       {
-       "text": "The acquisition is viewed as a validation of Weave's AI-powered healthcare software value.",
+       "text": "Analysts describe the brand as a 'buy opportunity' specifically due to its shift to consumption pricing.",
+       "cite": [
+        "GL-35c05d11"
+       ],
+       "verdict": "supported"
+      },
+      {
+       "text": "The company is recognized by media as a provider of 'AI-powered healthcare software.'",
        "cite": [
         "GL-429bbe37"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Market sentiment is currently averaged at 0.44, with 15 positive and 10 negative records identified.",
-       "cite": [
-        "GL-df38bbbc",
-        "GL-6e17f34a"
-       ],
-       "verdict": "supported"
-      },
-      {
-       "text": "Analysts from Raymond James and Loop Capital have downgraded the brand to Hold or Market Perform following the buyout news.",
+       "text": "Financial sentiment has cooled following the acquisition news, with firms like Raymond James and Loop Capital downgrading the stock to 'Hold' or 'Market Perform.'",
        "cite": [
         "GL-40e2d1d8",
-        "GL-5779e31b",
-        "GL-9cef8c1b"
+        "GL-9cef8c1b",
+        "GL-21a632b3"
        ],
-       "verdict": "supported"
+       "verdict": "partial"
       }
      ]
     },
@@ -647,26 +608,24 @@
      "title": "Risks to watch",
      "claims": [
       {
-       "text": "Multiple law firms, including Halper Sadeh LLC and Ademi LLP, are investigating if the $650 million acquisition price is fair to shareholders.",
+       "text": "Legal investigations into the 'adequacy of price and process' for the sale pose a high risk to shareholder confidence.",
        "cite": [
-        "GL-6e17f34a",
-        "GL-d1464026",
-        "GL-382969be"
-       ],
-       "verdict": "supported"
-      },
-      {
-       "text": "There are 8 high or medium risks currently identified, including legal scrutiny and a previous guidance cut that impacted stock performance.",
-       "cite": [
-        "GL-1b852384",
+        "GL-382969be",
         "GL-6e17f34a"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Competitor Podium has launched an AI operating system for home services, increasing product competition.",
+       "text": "Competitor Podium launched an 'AI operating system for home services,' increasing product pressure in the AI space.",
        "cite": [
         "GL-586d3724"
+       ],
+       "verdict": "supported"
+      },
+      {
+       "text": "A recent guidance cut negatively impacted stock performance despite the company reaching a profit milestone.",
+       "cite": [
+        "GL-1b852384"
        ],
        "verdict": "supported"
       }
@@ -676,7 +635,7 @@
      "title": "Openings for Weave",
      "claims": [
       {
-       "text": "A partnership breakdown between ServiceTitan and Podium has left approximately 1,000 shared customers without integration.",
+       "text": "Competitor Podium lost its integration with ServiceTitan after being labeled a 'direct competitor,' potentially displacing 1,000 shared customers.",
        "cite": [
         "GL-632fb91b",
         "GL-0e8c9c4d"
@@ -684,16 +643,16 @@
        "verdict": "supported"
       },
       {
-       "text": "Positive financial analysis suggests the shift to consumption pricing makes the company a buy opportunity.",
+       "text": "The $650 million acquisition is viewed as a major validation of the brand's AI-powered healthcare software strategy.",
        "cite": [
-        "GL-35c05d11"
+        "GL-429bbe37"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Competitor Podium faced a legal setback after the High Court of New Zealand denied a $2 million tax deduction.",
+       "text": "B. Riley initiated coverage with a 'buy' rating, indicating continued institutional interest in the brand's fundamentals.",
        "cite": [
-        "GL-48c4b8cb"
+        "GL-d7d307d6"
        ],
        "verdict": "supported"
       }
@@ -703,35 +662,34 @@
    "actions": [
     {
      "action": "Target the 1,000 customers affected by the ServiceTitan and Podium integration shutdown.",
-     "why": "This breakdown creates a specific opening to capture market share from a primary competitor.",
+     "why": "This partnership breakdown creates a direct opening to capture users looking for a stable alternative.",
      "cite": [
       "GL-632fb91b"
      ],
      "verdict": "supported"
     },
     {
-     "action": "Develop a communication strategy to address shareholder concerns regarding the acquisition price.",
-     "why": "Multiple legal investigations into the $650M deal pose a high risk to brand reputation and shareholder confidence.",
+     "action": "Emphasize the 'AI-powered healthcare software' positioning in marketing materials.",
+     "why": "This specific phrasing was used to justify a $650 million valuation and validates the brand's market value.",
+     "cite": [
+      "GL-429bbe37"
+     ],
+     "verdict": "supported"
+    },
+    {
+     "action": "Monitor the progress of shareholder investigations by Halper Sadeh LLC and others.",
+     "why": "These legal challenges are cited as high-risk events that could impact brand reputation during the transition to private ownership.",
      "cite": [
       "GL-6e17f34a",
       "GL-382969be"
      ],
      "verdict": "supported"
-    },
-    {
-     "action": "Emphasize the 'Ruler' and 'Creator' archetypes in marketing for AI healthcare software.",
-     "why": "The acquisition validates Weave's AI value and corporate status during the transition to private ownership.",
-     "cite": [
-      "GL-429bbe37",
-      "GL-df38bbbc"
-     ],
-     "verdict": "partial"
     }
    ],
    "archetype_read": null
   },
   "fact_check": {
-   "checker": "gemini-3.5-flash",
+   "checker": "gemini-3.1-flash-lite",
    "check_error": null,
    "status": "verified",
    "groundedness": 0.969,
@@ -740,216 +698,214 @@
    "partial": 1,
    "unsupported": 0,
    "unverified": 0,
-   "fabricated_citations": 0,
+   "fabricated_citations": 1,
    "log": [
     {
      "where": "s0.0",
      "section": "What happened",
-     "text": "Weave Communications agreed to be acquired by Francisco Partners for $650 million to take the company private.",
+     "text": "Weave Communications agreed to a $650 million acquisition by Francisco Partners to take the company private.",
      "cite": [
       "GL-df38bbbc",
       "GL-1d306159"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited records confirm Francisco Partners agreed to acquire Weave Communications for $650 million.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "Multiple sources confirm the $650 million acquisition agreement by Francisco Partners to take Weave private.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s0.1",
      "section": "What happened",
-     "text": "The company's activity during this period was dominated by 18 financial and 13 M&A themes across 36 total records.",
+     "text": "The company reported record location growth in Q2 2026, though a guidance cut caused the stock to sink in early August.",
      "cite": [
-      "GL-df38bbbc",
-      "GL-a307f792"
+      "GL-b17a0a67",
+      "GL-1b852384"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The claim matches the STATS for financial themes (18), M&A themes (13), and total records (36).",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "Earnings reports confirm record location growth and a subsequent stock decline following a guidance cut.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s0.2",
      "section": "What happened",
-     "text": "Weave reported record location growth in Q2 2026, though a modest EPS beat failed to sustain stock momentum.",
+     "text": "Multiple law firms, including Halper Sadeh LLC and Ademi LLP, launched investigations into the adequacy of the buyout price.",
      "cite": [
-      "GL-b17a0a67",
-      "GL-f9b40999"
+      "GL-6e17f34a",
+      "GL-d1464026"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited sources confirm record location growth and a modest Q2 2026 EPS beat that failed to spark momentum.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "Multiple law firms have publicly announced investigations into the fairness of the acquisition price.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s0.3",
      "section": "What happened",
-     "text": "The brand is transitioning its business model toward consumption-based pricing.",
+     "text": "The brand shifted its business model toward consumption-based pricing.",
      "cite": [
       "GL-35c05d11"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited source directly supports Weave's shift toward consumption pricing.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The cited source explicitly discusses the company's shift toward consumption-based pricing.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s1.0",
      "section": "How the brand is perceived",
-     "text": "The acquisition is viewed as a validation of Weave's AI-powered healthcare software value.",
+     "text": "Analysts describe the brand as a 'buy opportunity' specifically due to its shift to consumption pricing.",
+     "cite": [
+      "GL-35c05d11"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "The cited article title and content directly link the 'buy opportunity' rating to the pricing shift.",
+     "checked_by": "gemini-3.1-flash-lite"
+    },
+    {
+     "where": "s1.1",
+     "section": "How the brand is perceived",
+     "text": "The company is recognized by media as a provider of 'AI-powered healthcare software.'",
      "cite": [
       "GL-429bbe37"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited record describes the acquisition as a $650M bet on AI-powered healthcare software.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s1.1",
-     "section": "How the brand is perceived",
-     "text": "Market sentiment is currently averaged at 0.44, with 15 positive and 10 negative records identified.",
-     "cite": [
-      "GL-df38bbbc",
-      "GL-6e17f34a"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Average sentiment (0.44), positive records (15), and negative records (10) match STATS.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "Media coverage explicitly characterizes the acquisition as a bet on 'AI-powered healthcare software.'",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s1.2",
      "section": "How the brand is perceived",
-     "text": "Analysts from Raymond James and Loop Capital have downgraded the brand to Hold or Market Perform following the buyout news.",
+     "text": "Financial sentiment has cooled following the acquisition news, with firms like Raymond James and Loop Capital downgrading the stock to 'Hold' or 'Market Perform.'",
      "cite": [
       "GL-40e2d1d8",
-      "GL-5779e31b",
-      "GL-9cef8c1b"
+      "GL-9cef8c1b",
+      "GL-21a632b3"
      ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Cited sources confirm downgrades to Hold and Market Perform by Raymond James and Loop Capital.",
-     "checked_by": "gemini-3.5-flash"
+     "fabricated_cites": [
+      "GL-21a632b3"
+     ],
+     "verdict": "partial",
+     "reason": "Raymond James downgraded the stock, but the provided records do not mention Loop Capital.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s2.0",
      "section": "Risks to watch",
-     "text": "Multiple law firms, including Halper Sadeh LLC and Ademi LLP, are investigating if the $650 million acquisition price is fair to shareholders.",
+     "text": "Legal investigations into the 'adequacy of price and process' for the sale pose a high risk to shareholder confidence.",
      "cite": [
-      "GL-6e17f34a",
-      "GL-d1464026",
-      "GL-382969be"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Cited records confirm investigations by Halper Sadeh LLC, Ademi LLP, and Kahn Swick & Foti.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s2.1",
-     "section": "Risks to watch",
-     "text": "There are 8 high or medium risks currently identified, including legal scrutiny and a previous guidance cut that impacted stock performance.",
-     "cite": [
-      "GL-1b852384",
+      "GL-382969be",
       "GL-6e17f34a"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Matches 8 high/medium risks in STATS, and cited records confirm legal scrutiny and guidance cuts.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "Legal alerts confirm investigations into the adequacy of the price and process of the sale.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
-     "where": "s2.2",
+     "where": "s2.1",
      "section": "Risks to watch",
-     "text": "Competitor Podium has launched an AI operating system for home services, increasing product competition.",
+     "text": "Competitor Podium launched an 'AI operating system for home services,' increasing product pressure in the AI space.",
      "cite": [
       "GL-586d3724"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited source directly confirms Podium launched an AI operating system for home services.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The source confirms Podium launched an AI operating system for home services.",
+     "checked_by": "gemini-3.1-flash-lite"
+    },
+    {
+     "where": "s2.2",
+     "section": "Risks to watch",
+     "text": "A recent guidance cut negatively impacted stock performance despite the company reaching a profit milestone.",
+     "cite": [
+      "GL-1b852384"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "The source confirms the stock decline was linked to a guidance cut despite a profit milestone.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s3.0",
      "section": "Openings for Weave",
-     "text": "A partnership breakdown between ServiceTitan and Podium has left approximately 1,000 shared customers without integration.",
+     "text": "Competitor Podium lost its integration with ServiceTitan after being labeled a 'direct competitor,' potentially displacing 1,000 shared customers.",
      "cite": [
       "GL-632fb91b",
       "GL-0e8c9c4d"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited records confirm ServiceTitan ended its Podium integration, affecting roughly 1,000 shared customers.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "Sources confirm the integration shutdown and the approximate number of affected shared customers.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s3.1",
      "section": "Openings for Weave",
-     "text": "Positive financial analysis suggests the shift to consumption pricing makes the company a buy opportunity.",
+     "text": "The $650 million acquisition is viewed as a major validation of the brand's AI-powered healthcare software strategy.",
      "cite": [
-      "GL-35c05d11"
+      "GL-429bbe37"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited record states that Weave's shift to consumption pricing makes it a buy opportunity.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The acquisition is framed by media as a validation of the company's AI-powered software strategy.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s3.2",
      "section": "Openings for Weave",
-     "text": "Competitor Podium faced a legal setback after the High Court of New Zealand denied a $2 million tax deduction.",
+     "text": "B. Riley initiated coverage with a 'buy' rating, indicating continued institutional interest in the brand's fundamentals.",
      "cite": [
-      "GL-48c4b8cb"
+      "GL-d7d307d6"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited source confirms New Zealand's High Court denied Podium a $2 million tax deduction.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The source confirms B. Riley initiated coverage with a buy rating.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "a0",
      "section": "Actions",
-     "text": "Target the 1,000 customers affected by the ServiceTitan and Podium integration shutdown. - This breakdown creates a specific opening to capture market share from a primary competitor.",
+     "text": "Target the 1,000 customers affected by the ServiceTitan and Podium integration shutdown. - This partnership breakdown creates a direct opening to capture users looking for a stable alternative.",
      "cite": [
       "GL-632fb91b"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Recommendation responds to a fully supported situation regarding ServiceTitan and Podium's integration shutdown.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The recommendation is a logical response to the documented disruption of a competitor's integration.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "a1",
      "section": "Actions",
-     "text": "Develop a communication strategy to address shareholder concerns regarding the acquisition price. - Multiple legal investigations into the $650M deal pose a high risk to brand reputation and shareholder confidence.",
+     "text": "Emphasize the 'AI-powered healthcare software' positioning in marketing materials. - This specific phrasing was used to justify a $650 million valuation and validates the brand's market value.",
+     "cite": [
+      "GL-429bbe37"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "The recommendation aligns with the media's framing of the acquisition valuation.",
+     "checked_by": "gemini-3.1-flash-lite"
+    },
+    {
+     "where": "a2",
+     "section": "Actions",
+     "text": "Monitor the progress of shareholder investigations by Halper Sadeh LLC and others. - These legal challenges are cited as high-risk events that could impact brand reputation during the transition to private ownership.",
      "cite": [
       "GL-6e17f34a",
       "GL-382969be"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Recommendation responds to a fully supported situation regarding shareholder investigations into the acquisition price.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "a2",
-     "section": "Actions",
-     "text": "Emphasize the 'Ruler' and 'Creator' archetypes in marketing for AI healthcare software. - The acquisition validates Weave's AI value and corporate status during the transition to private ownership.",
-     "cite": [
-      "GL-429bbe37",
-      "GL-df38bbbc"
-     ],
-     "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "The underlying situation is supported, but the 'Creator' archetype is not present in STATS or cited records.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The recommendation to monitor legal challenges is supported by the existence of multiple shareholder investigations.",
+     "checked_by": "gemini-3.1-flash-lite"
     }
    ]
   },
   "written_by": "gemini-3-flash-preview",
-  "created_at": "2026-10-24T00:30:08+00:00"
+  "created_at": "2026-10-24T00:38:36+00:00"
  },
  "Weave|2026-09-09|2026-10-09|Customer posts (Reddit),Developer discussion (Hacker News),News and press,Research papers (arXiv)": {
   "mode": "live",
@@ -975,10 +931,7 @@
      "reported": 4
     },
     "risks_high_or_medium": 1,
-    "opportunities_high_or_medium": 0,
-    "archetypes": {
-     "Outlaw": 1
-    }
+    "opportunities_high_or_medium": 0
    },
    "evidence": [
     {
@@ -993,7 +946,6 @@
      "evidence": "reported",
      "risk": "high",
      "opportunity": "none",
-     "archetype": "Outlaw",
      "why": "Legal investigations pose severe risks to Weave's stock value and shareholder confidence.",
      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPbWxuOG90U19OVjRrRDZId3lFWFNYektpSGI5eGJtNi11SFBDT0l5cWJiMUFIUXBmR2w1MXlFZkZLTVUyOXRpaTZkaENhZHJXcFdqYzFxRVAwdUQxSlo2a1A2U1dFS0ZuZkZ0RGp4NEgzTjRuTUNmMDh1SlZvMVptWWRfRG1aY3RUbFZCSUVGXzVQMUo1TXUwekJxUUtXamxPZFRIRG0xOV9LcVZkanRhZ2FGYXFwU1hsYU55WjN3QW5NQ2IyUkNZdDZXTGlVUmh6cHBhODFBVThFLWhpSDBvN1BJb0VWLVB0d01PZEc3ZHU5UURKZHdGLWxBU0pJYXluLURPV21QM0tjQlNMRXZlRDRzNnhESjg?oc=5"
     },
@@ -1009,7 +961,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "none",
-     "archetype": null,
      "why": "Routine executive stock grant reporting.",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZzQ5dFZHemVFaklCaXlEMGVSaTRPUWprSE9xVExSNkxXNEZmREFjTW1icU1xYmRiOVE3V19USjZvQUFCTFJkblFSMXJYVTEyR0djNXZZdHRUTl85YlRKTWllZWttamo2cVVFOFBKWE42SWVKS2ROWXpRZUZEWk5EVTB3ZWZfQjRrZy1lWTZvSXJLZUtTdUhxZnZuWHZJY29OSlZKNmdGSjNGMkdzbDdLSmhrdlpVY1VXeEpmUzA5TE1JMEN5aFZv?oc=5"
     },
@@ -1025,7 +976,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "none",
-     "archetype": null,
      "why": "Standard insider transaction reporting.",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGFwQl9VY3hzNm9ZOHk2OWpMYlhCMTV4YWU4Ri01WkJIWk4wb0pqNXU0dU5OVTdiSDRlV1U3OGMzQ0gyNWFrUW94Z3FId3B3Q0ZiUlpSQWd5Q2ZZRDR3NFE5amQ4bVVHMFFSamRVRTBnZ2JkUDFxVmhVV2drQTNyLUhDVE5SR0JKc1ByQmJKUUJYd0FsdmNyOVdyanN4OFNhaHFYSzk3STd0UQ?oc=5"
     },
@@ -1041,7 +991,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "none",
-     "archetype": null,
      "why": "Subdued earnings reaction.",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOGRiNDd5ZFhlaDNrYzBabXpwYmxLSkZSYnBTalhGRjl1c2hOaG8tcG83eU9VWXB6cUN6ZjFyQ1RjRFd1Y1JBajN3OUZER203ZE1BN2d2UnljR3lMRWoxUGE1YUtQTmtrUkdoT2RPMkx3RWQ3UkdSb01BVEQ1M2tRdXFpbUhjWmJadkRvaUM4SXRCaTdsa3U3NGwwNVFudER3R0xnb3IybUJnNHY0T3ZNVlBudkQ4T0g2aDlOQk1vRnVlVUFmcm4wbHlDa1djZEM3MG5Z?oc=5"
     },
@@ -1057,7 +1006,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "low",
-     "archetype": null,
      "why": "Competitor financial metrics update.",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tR0pzSXA5WEp2ZXVFNnhRWEVLVWVjdjJhdHhVc0xUNmthS0hPSy1EQzlEcVdFMzdHZWVWLXV0Q3ZlNDZoOEZoV2RORng2Y28?oc=5"
     },
@@ -1073,7 +1021,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "low",
-     "archetype": null,
      "why": "Competitor financial metrics update.",
      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EYl9EWnhTQVJ3dWw1aGpuWEk2WHctaWcwajVYaW9GREZFaDYteEVKRUlGSzhVbE1HUnd6NWlaRVpFY1QweFplOEE5emE3c2lZZ2YtcG9Jbw?oc=5"
     }
@@ -1088,30 +1035,31 @@
    ]
   },
   "brief": {
-   "headline": "Legal investigation and stagnant stock reaction overshadow modest Q2 earnings beat",
-   "summary": "Weave is facing a legal investigation regarding shareholder pricing while its stock remains stagnant despite a modest EPS beat. Competitors like Birdeye and NexHealth continue to report strong revenue milestones in the background.",
+   "headline": "Legal investigation and stagnant stock performance overshadow modest Q2 earnings beat",
+   "summary": "Weave is currently facing a high-risk legal investigation regarding shareholder pricing while navigating an 'Earnings Weakness Phase' despite beating Q2 estimates. Competitors like Birdeye are reporting significant revenue milestones, highlighting a gap in market momentum for Weave.",
    "sections": [
     {
      "title": "What happened",
      "claims": [
       {
-       "text": "Halper Sadeh LLC launched an investigation into whether Weave is providing a fair price for its shareholders.",
+       "text": "Halper Sadeh LLC launched an investigation into whether Weave is securing a fair price for its shareholders.",
        "cite": [
         "GL-6e17f34a"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Weave reported a modest EPS beat for Q2 2026, though it did not trigger a significant stock price reaction.",
+       "text": "The company reported a modest EPS beat for Q2 2026, though it did not trigger a significant stock market reaction.",
        "cite": [
         "GL-f9b40999"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Executive Tyler Newton received a 32,502-unit stock grant, leading to a holdings correction.",
+       "text": "Internal financial activity included a 32,502-unit stock grant to Tyler Newton and subsequent holdings corrections.",
        "cite": [
-        "GL-1b9a542e"
+        "GL-1b9a542e",
+        "GL-b30b5b7b"
        ],
        "verdict": "supported"
       }
@@ -1121,19 +1069,18 @@
      "title": "How the brand is perceived",
      "claims": [
       {
-       "text": "The brand is currently associated with an Outlaw archetype due to legal scrutiny and shareholder concerns.",
+       "text": "The brand is described as being in an 'Earnings Weakness Phase' due to the lack of market momentum following financial reports.",
        "cite": [
-        "GL-6e17f34a"
+        "GL-f9b40999"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Financial reporting is viewed as routine, though the lack of stock movement suggests a weakness phase in investor confidence.",
+       "text": "Public perception is currently impacted by legal alerts questioning if the company is 'obtaining a fair price for its shareholders.'",
        "cite": [
-        "GL-f9b40999",
-        "GL-b30b5b7b"
+        "GL-6e17f34a"
        ],
-       "verdict": "supported"
+       "verdict": "partial"
       }
      ]
     },
@@ -1141,26 +1088,18 @@
      "title": "Risks to watch",
      "claims": [
       {
-       "text": "Legal investigations into shareholder pricing pose a high risk to stock value and brand reputation.",
+       "text": "Legal investigations into shareholder pricing pose a high risk to stock value and investor confidence.",
        "cite": [
         "GL-6e17f34a"
        ],
        "verdict": "partial"
       },
       {
-       "text": "Stagnant stock performance following earnings beats indicates a potential lack of market momentum.",
+       "text": "The failure of a positive earnings report to spark a stock reaction suggests a subdued market outlook.",
        "cite": [
         "GL-f9b40999"
        ],
-       "verdict": "supported"
-      },
-      {
-       "text": "Competitors are showing scale, with Birdeye reaching $100M ARR and NexHealth estimated at $47.1M ARR.",
-       "cite": [
-        "GL-50bc20dd",
-        "GL-1647f515"
-       ],
-       "verdict": "supported"
+       "verdict": "partial"
       }
      ]
     },
@@ -1168,35 +1107,42 @@
      "title": "Openings for Weave",
      "claims": [
       {
-       "text": "Maintaining transparency in standard financial filings like Form 4 may help stabilize routine reporting perceptions.",
+       "text": "Evidence on direct openings is thin, but competitor Birdeye has reached a $100M ARR milestone, setting a clear industry benchmark.",
        "cite": [
-        "GL-b30b5b7b"
+        "GL-50bc20dd"
        ],
-       "verdict": "supported"
+       "verdict": "partial"
+      },
+      {
+       "text": "NexHealth's estimated $47.1M ARR indicates a competitive middle-market that Weave can target with its own performance metrics.",
+       "cite": [
+        "GL-1647f515"
+       ],
+       "verdict": "partial"
       }
      ]
     }
    ],
    "actions": [
     {
-     "action": "Monitor the Halper Sadeh LLC investigation closely.",
-     "why": "Legal challenges regarding shareholder value are flagged as high risk and can damage brand trust.",
+     "action": "Monitor the progress of the Halper Sadeh LLC investigation.",
+     "why": "Legal challenges regarding shareholder price are identified as a high risk to brand reputation and stock value.",
      "cite": [
       "GL-6e17f34a"
      ],
-     "verdict": "supported"
+     "verdict": "partial"
     },
     {
-     "action": "Develop a communication plan to highlight operational strengths beyond EPS.",
-     "why": "A modest earnings beat failed to move the stock, suggesting the market needs more compelling growth narratives.",
+     "action": "Develop a communication strategy to counter the 'Earnings Weakness Phase' narrative.",
+     "why": "A modest EPS beat failed to generate positive sentiment, indicating a need for a more compelling growth story.",
      "cite": [
       "GL-f9b40999"
      ],
      "verdict": "supported"
     },
     {
-     "action": "Benchmark market positioning against Birdeye's $100M ARR milestone.",
-     "why": "Competitors are hitting significant revenue markers that may influence how investors value Weave.",
+     "action": "Benchmark marketing and growth messaging against Birdeye’s $100M ARR milestone.",
+     "why": "Understanding competitor scale helps position Weave's own financial health and market share in the broader sector.",
      "cite": [
       "GL-50bc20dd"
      ],
@@ -1209,192 +1155,163 @@
    "checker": "gemini-3.5-flash",
    "check_error": null,
    "status": "needs_review",
-   "groundedness": 0.821,
-   "claims_total": 14,
-   "supported": 11,
-   "partial": 1,
-   "unsupported": 2,
+   "groundedness": 0.75,
+   "claims_total": 12,
+   "supported": 6,
+   "partial": 6,
+   "unsupported": 0,
    "unverified": 0,
-   "fabricated_citations": 2,
+   "fabricated_citations": 0,
    "log": [
     {
      "where": "s0.0",
      "section": "What happened",
-     "text": "Halper Sadeh LLC launched an investigation into whether Weave is providing a fair price for its shareholders.",
+     "text": "Halper Sadeh LLC launched an investigation into whether Weave is securing a fair price for its shareholders.",
      "cite": [
       "GL-6e17f34a"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "GL-6e17f34a directly confirms Halper Sadeh LLC's investigation into fair shareholder pricing.",
+     "reason": "Source directly confirms Halper Sadeh LLC is investigating whether Weave is obtaining a fair price.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s0.1",
      "section": "What happened",
-     "text": "Weave reported a modest EPS beat for Q2 2026, though it did not trigger a significant stock price reaction.",
+     "text": "The company reported a modest EPS beat for Q2 2026, though it did not trigger a significant stock market reaction.",
      "cite": [
       "GL-f9b40999"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "GL-f9b40999 explicitly states Weave reported a modest Q2 2026 EPS beat without a meaningful stock reaction.",
+     "reason": "Cited record confirms Q2 2026 modest EPS beat failed to spark a stock reaction.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s0.2",
      "section": "What happened",
-     "text": "Executive Tyler Newton received a 32,502-unit stock grant, leading to a holdings correction.",
+     "text": "Internal financial activity included a 32,502-unit stock grant to Tyler Newton and subsequent holdings corrections.",
      "cite": [
-      "GL-1b9a542e"
+      "GL-1b9a542e",
+      "GL-b30b5b7b"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "GL-1b9a542e supports that a holdings correction followed Tyler Newton's 32,502-unit stock grant.",
+     "reason": "Source directly confirms the 32,502-unit grant to Tyler Newton and subsequent holdings correction.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s1.0",
      "section": "How the brand is perceived",
-     "text": "The brand is currently associated with an Outlaw archetype due to legal scrutiny and shareholder concerns.",
+     "text": "The brand is described as being in an 'Earnings Weakness Phase' due to the lack of market momentum following financial reports.",
      "cite": [
-      "GL-6e17f34a"
+      "GL-f9b40999"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "GL-6e17f34a details legal scrutiny over shareholder pricing, aligning with the Outlaw archetype in STATS.",
+     "reason": "Cited source terms the situation an 'Earnings Weakness Phase' following Q2 2026 earnings.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s1.1",
      "section": "How the brand is perceived",
-     "text": "Market sentiment is currently negative to neutral, with an average sentiment score of -0.5.",
-     "cite": [
-      "STATS"
-     ],
-     "fabricated_cites": [
-      "STATS"
-     ],
-     "verdict": "unsupported",
-     "reason": "cites no article from the evidence (made-up or missing citation)",
-     "checked_by": "rule"
-    },
-    {
-     "where": "s1.2",
-     "section": "How the brand is perceived",
-     "text": "Financial reporting is viewed as routine, though the lack of stock movement suggests a weakness phase in investor confidence.",
-     "cite": [
-      "GL-f9b40999",
-      "GL-b30b5b7b"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Cited sources verify the routine Form 4 filing and the earnings weakness phase from lack of stock movement.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s2.0",
-     "section": "Risks to watch",
-     "text": "Legal investigations into shareholder pricing pose a high risk to stock value and brand reputation.",
+     "text": "Public perception is currently impacted by legal alerts questioning if the company is 'obtaining a fair price for its shareholders.'",
      "cite": [
       "GL-6e17f34a"
      ],
      "fabricated_cites": [],
      "verdict": "partial",
-     "reason": "GL-6e17f34a confirms the legal investigation, but specific claims about brand reputation impact are not in the record.",
+     "reason": "Source confirms legal alert, but does not state public perception is impacted.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s2.0",
+     "section": "Risks to watch",
+     "text": "Legal investigations into shareholder pricing pose a high risk to stock value and investor confidence.",
+     "cite": [
+      "GL-6e17f34a"
+     ],
+     "fabricated_cites": [],
+     "verdict": "partial",
+     "reason": "Source confirms legal investigation, but does not state it poses high risk to stock value.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s2.1",
      "section": "Risks to watch",
-     "text": "Stagnant stock performance following earnings beats indicates a potential lack of market momentum.",
+     "text": "The failure of a positive earnings report to spark a stock reaction suggests a subdued market outlook.",
      "cite": [
       "GL-f9b40999"
      ],
      "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "GL-f9b40999 directly attributes weak market reaction despite the EPS beat to an earnings weakness phase.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s2.2",
-     "section": "Risks to watch",
-     "text": "Competitors are showing scale, with Birdeye reaching $100M ARR and NexHealth estimated at $47.1M ARR.",
-     "cite": [
-      "GL-50bc20dd",
-      "GL-1647f515"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "GL-50bc20dd and GL-1647f515 confirm Birdeye's $100M ARR and NexHealth's estimated $47.1M ARR.",
+     "verdict": "partial",
+     "reason": "Source confirms earnings beat failed to spark stock reaction, but market outlook extrapolation is unmentioned.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s3.0",
      "section": "Openings for Weave",
-     "text": "Evidence of opportunities is currently thin, with no high or medium opportunities identified in recent reports.",
+     "text": "Evidence on direct openings is thin, but competitor Birdeye has reached a $100M ARR milestone, setting a clear industry benchmark.",
      "cite": [
-      "STATS"
+      "GL-50bc20dd"
      ],
-     "fabricated_cites": [
-      "STATS"
-     ],
-     "verdict": "unsupported",
-     "reason": "cites no article from the evidence (made-up or missing citation)",
-     "checked_by": "rule"
+     "fabricated_cites": [],
+     "verdict": "partial",
+     "reason": "Source supports Birdeye's $100M ARR, but does not mention direct openings or industry benchmarks.",
+     "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s3.1",
      "section": "Openings for Weave",
-     "text": "Maintaining transparency in standard financial filings like Form 4 may help stabilize routine reporting perceptions.",
+     "text": "NexHealth's estimated $47.1M ARR indicates a competitive middle-market that Weave can target with its own performance metrics.",
      "cite": [
-      "GL-b30b5b7b"
+      "GL-1647f515"
      ],
      "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Recommendation directly responds to the verified routine Form 4 filing in GL-b30b5b7b.",
+     "verdict": "partial",
+     "reason": "Source confirms NexHealth's ARR, but does not mention middle-market competition or Weave.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "a0",
      "section": "Actions",
-     "text": "Monitor the Halper Sadeh LLC investigation closely. - Legal challenges regarding shareholder value are flagged as high risk and can damage brand trust.",
+     "text": "Monitor the progress of the Halper Sadeh LLC investigation. - Legal challenges regarding shareholder price are identified as a high risk to brand reputation and stock value.",
      "cite": [
       "GL-6e17f34a"
      ],
      "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Recommendation directly addresses the verified investigation in GL-6e17f34a.",
+     "verdict": "partial",
+     "reason": "Investigation is supported, but source does not identify it as high risk to reputation and stock value.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "a1",
      "section": "Actions",
-     "text": "Develop a communication plan to highlight operational strengths beyond EPS. - A modest earnings beat failed to move the stock, suggesting the market needs more compelling growth narratives.",
+     "text": "Develop a communication strategy to counter the 'Earnings Weakness Phase' narrative. - A modest EPS beat failed to generate positive sentiment, indicating a need for a more compelling growth story.",
      "cite": [
       "GL-f9b40999"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Recommendation directly addresses the verified earnings beat and lack of stock movement in GL-f9b40999.",
+     "reason": "Recommendation responds to the supported Q2 2026 modest EPS beat and Earnings Weakness Phase narrative.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "a2",
      "section": "Actions",
-     "text": "Benchmark market positioning against Birdeye's $100M ARR milestone. - Competitors are hitting significant revenue markers that may influence how investors value Weave.",
+     "text": "Benchmark marketing and growth messaging against Birdeye’s $100M ARR milestone. - Understanding competitor scale helps position Weave's own financial health and market share in the broader sector.",
      "cite": [
       "GL-50bc20dd"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Recommendation directly responds to Birdeye's supported $100M ARR milestone from GL-50bc20dd.",
+     "reason": "Recommendation responds to Birdeye's supported $100M ARR milestone.",
      "checked_by": "gemini-3.5-flash"
     }
    ]
   },
   "written_by": "gemini-3-flash-preview",
-  "created_at": "2026-10-24T00:30:33+00:00"
+  "created_at": "2026-10-24T00:40:17+00:00"
  },
  "Podium|2026-07-11|2026-10-09|Customer posts (Reddit),Developer discussion (Hacker News),News and press,Research papers (arXiv)": {
   "mode": "live",
@@ -1425,12 +1342,7 @@
      "discussed": 1
     },
     "risks_high_or_medium": 1,
-    "opportunities_high_or_medium": 2,
-    "archetypes": {
-     "Creator": 2,
-     "Everyman": 1,
-     "Outlaw": 1
-    }
+    "opportunities_high_or_medium": 2
    },
    "evidence": [
     {
@@ -1445,7 +1357,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "high",
-     "archetype": null,
      "why": "Competitor partnership breakdown creates market opportunity.",
      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZFF2ZDhDYzFad0cwd3RXVWs4MGhzLUR6LVFpN1JNZW5xZ3BVdksxcXFBZVQ3bTZtQ1l5blhnRGd4Wko1Z1cwV1pWNi1VT1ZvZ1p1d1F3UTR5a051cVdnTnZpRkFKV3ZKVjd6ZUNtM1VROUVkUkJHTnJCV3RJTHltSEN4SmxFSkJZTUxZTFRhU2dfS2hrS3Zaa3J1VFJVN1d6ckdqcGNXWW9SbnlVdklwTkNrWUZ4Yy1KbTBPVFVWM0tnd3pYVk92Ql9UQ3p1eFp1OWZIUFBOT2xMS2IzTUgxREw1Rlh0SVU?oc=5"
     },
@@ -1461,7 +1372,6 @@
      "evidence": "announced",
      "risk": "medium",
      "opportunity": "low",
-     "archetype": "Creator",
      "why": "Competitor AI product launch increases pressure.",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeHdrYzB5RjhVSm9YM3VFeksyU1NTV011QU0zZUJ2QWU3SHVXTHRRX0M1YnlaZ193ZXJjOFpWNVVTNW5yOXk3X3JqMVhScm5aOUxLOTZpbXpIMTREYWZLd2NQSmZuZHBfbjFBY19Hd0RmZjRTVTNUVUplaUpFRm1MTGdPOXdOZkpyZFBCSHFYSjJRbWw4bF8tdzBMZ0VqZ19HamRUQlZKYktwd0YyQksyU1ZLZzVOZTJIYzFSTUtKX3ZSNzg?oc=5"
     },
@@ -1477,7 +1387,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": null,
      "why": "Competitor Podium lost a partnership, opening potential win opportunities.",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNV9tQ1JFamNaSDN1UGdTbHRGbDJxdERWTTI2cTVPa2R6eHdIejAzeVBjUGp2dzB4WWpFXzJ2WnBzS2MxanNiZG03bzV5X1hKZVNrd3R4VTA5VmpRcnlObS1zbVpfMzlfQkRLSElNMkhFV0RqQzFkYUZRWlVyNVp1by1LZ01vRWZxeXV6djc2XzNnOWtZWTYtY210SE9pdGxfUTRXMw?oc=5"
     },
@@ -1493,7 +1402,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "none",
-     "archetype": "Creator",
      "why": "Competitor expands its partnerships in gaming/racing technology.",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVHlXNG1wMGN1VHlUMlFjT2ZZTFdaa1o3ODRucmhESC0zblNlcktmZWpFLVFlektVbzNOMk9PQ1pRZlQ3Ulk1bkFSeThQbnFnVThHX1JveThmS1VNNEk1UGZQOEc3MnZWQXVtaTNfblVrUFREMjlNcllvYi1WaEg3UEVCMF9aUzZZNlNtcDMtdVp3ODhhOHFBUFpMdm5LcTRHaGM5SnRmMVJUY0dhbUhFejdPd3Nidw?oc=5"
     },
@@ -1509,7 +1417,6 @@
      "evidence": "reported",
      "risk": "none",
      "opportunity": "low",
-     "archetype": "Outlaw",
      "why": "Competitor faces a legal/tax setback.",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYm5pU0xBTGF6aHpUWENjRW5uSGY4QVNGRmRlNE04ZEx3SlRhOXFCOGMzcTJvWHlyQ3dMUmtIV2pnTmd6d1ZkWnlXNnhYMUlUdTdyN0dtelJMWFR5cHo2YTVJVGY2ZlNsUWRDVUdiODBMNnd6OWRQZnlMQ0Q1dElSUWdtMWxVdVRIcXNmbE9YNU9iaGVYb2pETjNwN185WHVpYnBXdFFDbjI0dDliNXlCWTBvUDBkNXJCbHk0Q1dzSFJjRnRPaElRWXdCeGhleU1ubWF3SEtKYVZLWXVnSEZFNXBWa1Y4akxUSkJn?oc=5"
     },
@@ -1525,7 +1432,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "none",
-     "archetype": "Everyman",
      "why": "Provides competitor product and pricing visibility.",
      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QcW5OZXpNTFJBR3pHSUlaM2dUREE2UVJrUzJkOEQ5Q1dMT0FyNXJnS19xWWtpNGQ3OFE4V04wUEJOcjZpUU1UZ1dUZXNTTkRyNEE?oc=5"
     },
@@ -1541,7 +1447,6 @@
      "evidence": "discussed",
      "risk": "none",
      "opportunity": "none",
-     "archetype": null,
      "why": "General financial commentary.",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0U5aVBYWGY3WU1iSGN1b1R0dWRuMEFKNVNmOFhLOUxkUTZwSUNJTU5VTXZ2Q3lGVzg0SElTQ0FGWUpTdlJhZHRMbjlTaFpKdl93MkZPMmM3ZWdkVXpRb0Z6V0hiQ09fZ2pyZy1kcVlqbGNoTXpuanJxV0dsT0ZrNllVM09OSzFMdVEwT1pBVm5JcWw3d29N?oc=5"
     }
@@ -1556,35 +1461,36 @@
    ]
   },
   "brief": {
-   "headline": "ServiceTitan cuts Podium integration for 1,000 customers as Podium pivots to AI agents",
-   "summary": "Podium's shift toward AI-driven automation has triggered a major partnership breakdown with ServiceTitan, impacting approximately 1,000 shared customers. While Podium is launching a new AI operating system for home services, it faces legal setbacks and increased friction with former industry partners.",
+   "headline": "ServiceTitan cuts Podium integration amid AI push, creating key opening for Weave",
+   "summary": "Podium launched an AI operating system for home services, leading long-time partner ServiceTitan to terminate integration access for roughly 1,000 shared customers. The resulting fallout and narrative split provide an immediate opportunity for Weave to engage displaced accounts. Podium also faced a legal tax setback in New Zealand and entered a gaming-racing partnership.",
    "sections": [
     {
      "title": "What happened",
      "claims": [
       {
-       "text": "ServiceTitan terminated its integration with Podium for approximately 1,000 shared customers after nine years of partnership.",
+       "text": "ServiceTitan shut off Podium's integration for approximately 1,000 shared customers, ending a 9-year partnership after AI agents turned Podium into a direct competitor.",
        "cite": [
-        "GL-632fb91b"
+        "GL-632fb91b",
+        "GL-0e8c9c4d"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Podium launched what it describes as the industry's first AI operating system for home services.",
+       "text": "Podium launched what it announced as the industry's first AI operating system for home services.",
        "cite": [
         "GL-586d3724"
        ],
        "verdict": "supported"
       },
       {
-       "text": "The High Court of New Zealand denied Podium a $2 million tax deduction related to building works.",
+       "text": "The High Court of New Zealand denied Podium a $2 million building-works tax deduction.",
        "cite": [
         "GL-48c4b8cb"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Podium partnered with BetConstruct AI and BetMakers to expand technology offerings in the racing sector.",
+       "text": "BetConstruct AI partnered with Podium and BetMakers to expand its racing offering with AdVantage.",
        "cite": [
         "GL-2e12aea5"
        ],
@@ -1596,19 +1502,25 @@
      "title": "How the brand is perceived",
      "claims": [
       {
-       "text": "Podium is increasingly viewed as a direct competitor rather than a partner by established industry players due to its AI agent strategy.",
+       "text": "Industry coverage characterizes Podium as shifting from a collaborative partner into a direct competitor against ServiceTitan.",
        "cite": [
         "GL-632fb91b"
        ],
        "verdict": "supported"
       },
       {
-       "text": "The brand is associated with the 'Creator' archetype in its AI strategy but also the 'Outlaw' archetype following legal and tax disputes.",
+       "text": "Reporting highlights that Podium and ServiceTitan are publicly framing their partnership breakup differently.",
        "cite": [
-        "STATS",
-        "GL-48c4b8cb"
+        "GL-0e8c9c4d"
        ],
-       "verdict": "partial"
+       "verdict": "supported"
+      },
+      {
+       "text": "Podium continues to be evaluated as a text message marketing vendor, with third-party coverage reviewing its features and pricing.",
+       "cite": [
+        "GL-ad49cad3"
+       ],
+       "verdict": "supported"
       }
      ]
     },
@@ -1616,25 +1528,18 @@
      "title": "Risks to watch",
      "claims": [
       {
-       "text": "The breakdown of the ServiceTitan partnership creates immediate churn risk for Podium's existing customer base in home services.",
+       "text": "Podium's release of an AI operating system for home services increases competitive pressure in specialized service verticals.",
        "cite": [
-        "GL-0e8c9c4d"
+        "GL-586d3724"
        ],
        "verdict": "partial"
       },
       {
-       "text": "Podium faces financial and legal scrutiny following a denied $2 million tax deduction in New Zealand.",
+       "text": "Podium is broadening its ecosystem by forging tech partnerships outside traditional core sectors, including racing and gaming.",
        "cite": [
-        "GL-48c4b8cb"
+        "GL-2e12aea5"
        ],
-       "verdict": "supported"
-      },
-      {
-       "text": "The transition to AI agents is turning long-term partners into direct competitors, potentially isolating the brand from key integrations.",
-       "cite": [
-        "GL-632fb91b"
-       ],
-       "verdict": "supported"
+       "verdict": "partial"
       }
      ]
     },
@@ -1642,23 +1547,16 @@
      "title": "Openings for Weave",
      "claims": [
       {
-       "text": "There is a high-opportunity opening to target the 1,000 customers who lost their ServiceTitan-Podium integration.",
+       "text": "ServiceTitan shutting off Podium's integration leaves roughly 1,000 shared customers without their established workflow.",
        "cite": [
         "GL-632fb91b"
        ],
        "verdict": "supported"
       },
       {
-       "text": "The public disagreement between ServiceTitan and Podium over their partnership split allows Weave to position itself as a more stable, non-competitive partner.",
+       "text": "The public dispute and breakup between ServiceTitan and Podium create room to position Weave as a stable alternative for affected accounts.",
        "cite": [
         "GL-0e8c9c4d"
-       ],
-       "verdict": "supported"
-      },
-      {
-       "text": "Podium's focus on a broad 'AI operating system' may leave gaps for Weave to emphasize specialized, reliable communication tools.",
-       "cite": [
-        "GL-586d3724"
        ],
        "verdict": "supported"
       }
@@ -1667,26 +1565,26 @@
    ],
    "actions": [
     {
-     "action": "Launch a targeted campaign for the 1,000 displaced ServiceTitan customers.",
-     "why": "This is a direct market opening caused by a competitor's integration shutdown and partnership breakdown.",
+     "action": "Launch targeted outreach to the estimated 1,000 ServiceTitan accounts impacted by the discontinued Podium integration.",
+     "why": "These businesses suddenly lost their integration and need an alternative communication solution.",
      "cite": [
       "GL-632fb91b"
      ],
      "verdict": "supported"
     },
     {
-     "action": "Audit Weave’s partnership stability messaging for home services providers.",
-     "why": "Podium’s shift to direct competition with partners like ServiceTitan creates a trust gap Weave can fill by emphasizing its role as a supportive partner.",
-     "cite": [
-      "GL-0e8c9c4d"
-     ],
-     "verdict": "supported"
-    },
-    {
-     "action": "Monitor market feedback on Podium's new AI operating system.",
-     "why": "Understanding the market's reaction to their 'Creator' strategy will help refine Weave's own AI positioning and identify product gaps.",
+     "action": "Develop comparative messaging countering Podium's AI operating system positioning in home services.",
+     "why": "Podium is actively using its home services AI launch to compete directly against existing software platforms.",
      "cite": [
       "GL-586d3724"
+     ],
+     "verdict": "partial"
+    },
+    {
+     "action": "Audit Weave's pricing and messaging against recent reviews of Podium Text Message Marketing.",
+     "why": "Public evaluation of Podium's pricing gives Weave clear points of comparison for prospective buyers.",
+     "cite": [
+      "GL-ad49cad3"
      ],
      "verdict": "supported"
     }
@@ -1697,215 +1595,187 @@
    "checker": "gemini-3.5-flash",
    "check_error": null,
    "status": "verified",
-   "groundedness": 0.875,
-   "claims_total": 16,
-   "supported": 13,
-   "partial": 2,
-   "unsupported": 1,
+   "groundedness": 0.893,
+   "claims_total": 14,
+   "supported": 11,
+   "partial": 3,
+   "unsupported": 0,
    "unverified": 0,
-   "fabricated_citations": 2,
+   "fabricated_citations": 0,
    "log": [
     {
      "where": "s0.0",
      "section": "What happened",
-     "text": "ServiceTitan terminated its integration with Podium for approximately 1,000 shared customers after nine years of partnership.",
+     "text": "ServiceTitan shut off Podium's integration for approximately 1,000 shared customers, ending a 9-year partnership after AI agents turned Podium into a direct competitor.",
      "cite": [
-      "GL-632fb91b"
+      "GL-632fb91b",
+      "GL-0e8c9c4d"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited record confirms ServiceTitan shut off integration for ~1,000 shared customers after a 9-year partnership.",
+     "reason": "Supported by cited sources detailing ServiceTitan ending the 9-year partnership and shutting off integration for ~1,000 customers.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s0.1",
      "section": "What happened",
-     "text": "Podium launched what it describes as the industry's first AI operating system for home services.",
+     "text": "Podium launched what it announced as the industry's first AI operating system for home services.",
      "cite": [
       "GL-586d3724"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited record confirms Podium launched the industry's first AI operating system for home services.",
+     "reason": "Supported by the PR Newswire record confirming Podium launched an AI operating system for home services.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s0.2",
      "section": "What happened",
-     "text": "The High Court of New Zealand denied Podium a $2 million tax deduction related to building works.",
+     "text": "The High Court of New Zealand denied Podium a $2 million building-works tax deduction.",
      "cite": [
       "GL-48c4b8cb"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited record directly supports that the High Court of New Zealand denied a $2m tax deduction.",
+     "reason": "Supported by Australasian Lawyer record stating the High Court of New Zealand denied the $2 million tax deduction.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s0.3",
      "section": "What happened",
-     "text": "Podium partnered with BetConstruct AI and BetMakers to expand technology offerings in the racing sector.",
+     "text": "BetConstruct AI partnered with Podium and BetMakers to expand its racing offering with AdVantage.",
      "cite": [
       "GL-2e12aea5"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited record directly confirms BetConstruct AI partnered with Podium and BetMakers to expand racing offerings.",
+     "reason": "Supported by Focus Gaming News record detailing BetConstruct AI's partnership with Podium and BetMakers.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s1.0",
      "section": "How the brand is perceived",
-     "text": "Average sentiment for the brand is currently negative at -0.29, with three out of seven tracked reports being negative.",
-     "cite": [
-      "STATS"
-     ],
-     "fabricated_cites": [
-      "STATS"
-     ],
-     "verdict": "unsupported",
-     "reason": "cites no article from the evidence (made-up or missing citation)",
-     "checked_by": "rule"
-    },
-    {
-     "where": "s1.1",
-     "section": "How the brand is perceived",
-     "text": "Podium is increasingly viewed as a direct competitor rather than a partner by established industry players due to its AI agent strategy.",
+     "text": "Industry coverage characterizes Podium as shifting from a collaborative partner into a direct competitor against ServiceTitan.",
      "cite": [
       "GL-632fb91b"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited record confirms AI agents turned partner Podium into a direct competitor for ServiceTitan.",
+     "reason": "Supported by saastr.com record describing Podium's shift from partner to direct competitor due to AI agents.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s1.1",
+     "section": "How the brand is perceived",
+     "text": "Reporting highlights that Podium and ServiceTitan are publicly framing their partnership breakup differently.",
+     "cite": [
+      "GL-0e8c9c4d"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Supported by Homepros record stating each company publicly frames the partnership breakup differently.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s1.2",
      "section": "How the brand is perceived",
-     "text": "The brand is associated with the 'Creator' archetype in its AI strategy but also the 'Outlaw' archetype following legal and tax disputes.",
+     "text": "Podium continues to be evaluated as a text message marketing vendor, with third-party coverage reviewing its features and pricing.",
      "cite": [
-      "STATS",
-      "GL-48c4b8cb"
+      "GL-ad49cad3"
      ],
-     "fabricated_cites": [
-      "STATS"
-     ],
-     "verdict": "partial",
-     "reason": "Archetype associations to AI strategy and legal disputes add details not in the cited record.",
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Supported by Business.com review detailing Podium's text message marketing features and pricing.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s2.0",
      "section": "Risks to watch",
-     "text": "The breakdown of the ServiceTitan partnership creates immediate churn risk for Podium's existing customer base in home services.",
+     "text": "Podium's release of an AI operating system for home services increases competitive pressure in specialized service verticals.",
      "cite": [
-      "GL-0e8c9c4d"
+      "GL-586d3724"
      ],
      "fabricated_cites": [],
      "verdict": "partial",
-     "reason": "Breakdown is supported, but 'immediate churn risk' adds detail not present in the cited record.",
+     "reason": "Partial because the source announces the product launch but does not mention increasing competitive pressure in service verticals.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s2.1",
      "section": "Risks to watch",
-     "text": "Podium faces financial and legal scrutiny following a denied $2 million tax deduction in New Zealand.",
+     "text": "Podium is broadening its ecosystem by forging tech partnerships outside traditional core sectors, including racing and gaming.",
      "cite": [
-      "GL-48c4b8cb"
+      "GL-2e12aea5"
      ],
      "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Directly supported by the High Court denying a $2 million tax deduction in New Zealand.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s2.2",
-     "section": "Risks to watch",
-     "text": "The transition to AI agents is turning long-term partners into direct competitors, potentially isolating the brand from key integrations.",
-     "cite": [
-      "GL-632fb91b"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Directly supported by the cited record detailing how AI agents turned a partner into a competitor.",
+     "verdict": "partial",
+     "reason": "Partial because the source mentions a single partnership, not a general strategy of broadening into non-core sectors.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s3.0",
      "section": "Openings for Weave",
-     "text": "There is a high-opportunity opening to target the 1,000 customers who lost their ServiceTitan-Podium integration.",
+     "text": "ServiceTitan shutting off Podium's integration leaves roughly 1,000 shared customers without their established workflow.",
      "cite": [
       "GL-632fb91b"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Supported by record showing 1,000 shared customers lost integration due to partnership termination.",
+     "reason": "Supported as shutting off integration for ~1,000 shared customers directly implies disrupting their established workflow.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s3.1",
      "section": "Openings for Weave",
-     "text": "The public disagreement between ServiceTitan and Podium over their partnership split allows Weave to position itself as a more stable, non-competitive partner.",
+     "text": "The public dispute and breakup between ServiceTitan and Podium create room to position Weave as a stable alternative for affected accounts.",
      "cite": [
       "GL-0e8c9c4d"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Grounded in supported report of ServiceTitan and Podium's partnership split framing.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s3.2",
-     "section": "Openings for Weave",
-     "text": "Podium's focus on a broad 'AI operating system' may leave gaps for Weave to emphasize specialized, reliable communication tools.",
-     "cite": [
-      "GL-586d3724"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Grounded in supported record of Podium launching an AI operating system for home services.",
+     "reason": "Supported; the recommendation responds to the supported breakup and dispute between ServiceTitan and Podium.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "a0",
      "section": "Actions",
-     "text": "Launch a targeted campaign for the 1,000 displaced ServiceTitan customers. - This is a direct market opening caused by a competitor's integration shutdown and partnership breakdown.",
+     "text": "Launch targeted outreach to the estimated 1,000 ServiceTitan accounts impacted by the discontinued Podium integration. - These businesses suddenly lost their integration and need an alternative communication solution.",
      "cite": [
       "GL-632fb91b"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Recommendation responds to supported event of ServiceTitan shutting off integration for 1,000 customers.",
+     "reason": "Supported; the recommendation responds to the supported fact that ~1,000 shared accounts lost their Podium integration.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "a1",
      "section": "Actions",
-     "text": "Audit Weave’s partnership stability messaging for home services providers. - Podium’s shift to direct competition with partners like ServiceTitan creates a trust gap Weave can fill by emphasizing its role as a supportive partner.",
+     "text": "Develop comparative messaging countering Podium's AI operating system positioning in home services. - Podium is actively using its home services AI launch to compete directly against existing software platforms.",
      "cite": [
-      "GL-0e8c9c4d"
+      "GL-586d3724"
      ],
      "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Recommendation responds to supported event of ServiceTitan scrapping its partnership with Podium.",
+     "verdict": "partial",
+     "reason": "Partial; while the launch is supported, the cited source does not state Podium uses it to compete with existing platforms.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "a2",
      "section": "Actions",
-     "text": "Monitor market feedback on Podium's new AI operating system. - Understanding the market's reaction to their 'Creator' strategy will help refine Weave's own AI positioning and identify product gaps.",
+     "text": "Audit Weave's pricing and messaging against recent reviews of Podium Text Message Marketing. - Public evaluation of Podium's pricing gives Weave clear points of comparison for prospective buyers.",
      "cite": [
-      "GL-586d3724"
+      "GL-ad49cad3"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Recommendation responds to supported event of Podium launching its AI operating system.",
+     "reason": "Supported; the recommendation responds to the supported public review and pricing evaluation of Podium.",
      "checked_by": "gemini-3.5-flash"
     }
    ]
   },
-  "written_by": "gemini-3-flash-preview",
-  "created_at": "2026-10-24T00:31:01+00:00"
+  "written_by": "gemini-3.8-flash",
+  "created_at": "2026-10-24T00:41:10+00:00"
  },
  "Birdeye|2026-07-11|2026-10-09|Customer posts (Reddit),Developer discussion (Hacker News),News and press,Research papers (arXiv)": {
   "mode": "live",
@@ -1934,10 +1804,7 @@
      "announced": 1
     },
     "risks_high_or_medium": 0,
-    "opportunities_high_or_medium": 0,
-    "archetypes": {
-     "Creator": 1
-    }
+    "opportunities_high_or_medium": 0
    },
    "evidence": [
     {
@@ -1952,7 +1819,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "low",
-     "archetype": null,
      "why": "Competitor financial metrics update.",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tR0pzSXA5WEp2ZXVFNnhRWEVLVWVjdjJhdHhVc0xUNmthS0hPSy1EQzlEcVdFMzdHZWVWLXV0Q3ZlNDZoOEZoV2RORng2Y28?oc=5"
     },
@@ -1968,7 +1834,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "none",
-     "archetype": "Creator",
      "why": "Competitor launched new AI product features.",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjJCRTdaejVhaFA4VXNxZVpaVTRkQlNYYWowbGJGMF9SQ1QzQ0NNSnQzR1FSanJtT0J6WG0wVDNJQ3d6a2JEZEdISWx4T2RnSFhHdjhGUGpsSzRzbFZmZUdURy1seXo0ZHA5MGI4SmtqWWJBX0ZzM05aYVQ5T0NjLW41b1d6WFZEbGl3UlZwcXctT2ZzTnNDdE41VDlrblhjM2g1SExKSUh6X1hWRVM5WE56bDV4dw?oc=5"
     },
@@ -1984,7 +1849,6 @@
      "evidence": "discussed",
      "risk": "none",
      "opportunity": "low",
-     "archetype": null,
      "why": "Organic SMB customer discussion evaluating competitors.",
      "url": "https://www.reddit.com/r/smallbusiness/comments/1vi2z6f/lokal_business_owners_how_are_you_actually/"
     }
@@ -1999,21 +1863,21 @@
    ]
   },
   "brief": {
-   "headline": "Birdeye upgrades AI insights and shows $100M ARR amid local review discussions",
-   "summary": "Evidence volume is thin with only 3 records tracked during this period. Birdeye announced upgraded AI Insights for multi-location brands, while reporting highlighted $100M ARR and $93M raised. Meanwhile, local business discussions show prospective users questioning whether Birdeye is worth the investment for collecting Google reviews.",
+   "headline": "Birdeye pushes multi-location AI and hits $100M ARR as SMBs question ROI",
+   "summary": "Evidence for the period is thin, consisting of only 3 records across product, financials, and customer experience. Birdeye reported reaching $100M ARR and announced upgraded AI Insights for multi-location brands. Meanwhile, organic SMB discussions show prospective users questioning whether paying for Birdeye is worth it.",
    "sections": [
     {
      "title": "What happened",
      "claims": [
       {
-       "text": "Birdeye announced upgraded AI Insights designed to close the customer experience loop for multi-location brands.",
+       "text": "Birdeye announced upgraded AI Insights aimed at closing the customer experience loop for multi-location brands.",
        "cite": [
         "GL-27aa30b9"
        ],
        "verdict": "supported"
       },
       {
-       "text": "GetLatka reported that Birdeye reached $100M ARR and raised $93M in 2023.",
+       "text": "GetLatka reported Birdeye reached $100M ARR and raised $93M in 2023.",
        "cite": [
         "GL-50bc20dd"
        ],
@@ -2025,16 +1889,14 @@
      "title": "How the brand is perceived",
      "claims": [
       {
-       "text": "Birdeye holds an average sentiment of 0.33 across 3 sources, reflecting a mix of 1 positive announcement and 2 neutral mentions.",
+       "text": "SMB business owners consider Birdeye alongside Podium when exploring options to collect Google reviews without being awkward.",
        "cite": [
-        "GL-27aa30b9",
-        "GL-50e16263",
-        "GL-50bc20dd"
+        "GL-50e16263"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Prospective SMB buyers on Reddit question whether Birdeye is worth the cost for collecting Google reviews without feeling awkward.",
+       "text": "Potential users in local business forums question whether applications like Birdeye are actually worth it.",
        "cite": [
         "GL-50e16263"
        ],
@@ -2046,14 +1908,14 @@
      "title": "Risks to watch",
      "claims": [
       {
-       "text": "Birdeye is expanding its product capabilities for multi-location brands with upgraded AI Insights.",
+       "text": "Birdeye is expanding its multi-location enterprise product capabilities with upgraded AI Insights.",
        "cite": [
         "GL-27aa30b9"
        ],
-       "verdict": "supported"
+       "verdict": "partial"
       },
       {
-       "text": "Birdeye commands significant financial scale, with reported metrics of $100M ARR and $93M raised.",
+       "text": "Birdeye has achieved substantial commercial scale with a reported $100M ARR and $93M raised.",
        "cite": [
         "GL-50bc20dd"
        ],
@@ -2065,14 +1927,14 @@
      "title": "Openings for Weave",
      "claims": [
       {
-       "text": "Local business owners are seeking practical ways to collect Google reviews and weighing whether tools like Birdeye are worth it.",
+       "text": "Evidence is limited, but local business owners are actively asking whether Birdeye is worth the investment for gathering Google reviews.",
        "cite": [
         "GL-50e16263"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Birdeye's focus on enterprise multi-location CX loops may leave local SMBs looking for simpler review solutions.",
+       "text": "Birdeye is focusing messaging on multi-location brands, leaving space to capture local business owners seeking straightforward review solutions.",
        "cite": [
         "GL-27aa30b9",
         "GL-50e16263"
@@ -2084,24 +1946,24 @@
    ],
    "actions": [
     {
-     "action": "Publish ROI-focused comparison content addressing SMB owners evaluating Birdeye for Google reviews.",
-     "why": "Local business owners are actively asking whether Birdeye is worth the investment to generate customer reviews.",
+     "action": "Produce comparison content demonstrating the value and ROI of Weave against Birdeye for local business review collection.",
+     "why": "Local business owners are openly questioning on Reddit whether applications like Birdeye are worth it for getting reviews.",
      "cite": [
       "GL-50e16263"
      ],
      "verdict": "supported"
     },
     {
-     "action": "Audit Weave's multi-location reporting features against Birdeye's upgraded AI Insights release.",
-     "why": "Birdeye is targeting multi-location brands directly with upgraded AI CX intelligence capabilities.",
+     "action": "Review Birdeye's upgraded AI Insights release to benchmark Weave's multi-location customer experience features.",
+     "why": "Birdeye is enhancing its product suite to close the CX loop for multi-location brands.",
      "cite": [
       "GL-27aa30b9"
      ],
      "verdict": "supported"
     },
     {
-     "action": "Benchmark Weave's market positioning against Birdeye's reported $100M ARR scale.",
-     "why": "Competitor reporting confirms Birdeye reached $100M ARR backed by $93M in funding.",
+     "action": "Track Birdeye's financial benchmarks and ARR reports to evaluate competitor growth scale.",
+     "why": "GetLatka reported Birdeye's revenue reached $100M ARR alongside $93M in total funding raised.",
      "cite": [
       "GL-50bc20dd"
      ],
@@ -2111,13 +1973,13 @@
    "archetype_read": null
   },
   "fact_check": {
-   "checker": "gemini-3-flash-preview",
+   "checker": "gemini-3.5-flash",
    "check_error": null,
    "status": "verified",
-   "groundedness": 0.955,
+   "groundedness": 0.909,
    "claims_total": 11,
-   "supported": 10,
-   "partial": 1,
+   "supported": 9,
+   "partial": 2,
    "unsupported": 0,
    "unverified": 0,
    "fabricated_citations": 0,
@@ -2125,142 +1987,140 @@
     {
      "where": "s0.0",
      "section": "What happened",
-     "text": "Birdeye announced upgraded AI Insights designed to close the customer experience loop for multi-location brands.",
+     "text": "Birdeye announced upgraded AI Insights aimed at closing the customer experience loop for multi-location brands.",
      "cite": [
       "GL-27aa30b9"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Directly stated in the cited record from EIN News.",
-     "checked_by": "gemini-3-flash-preview"
+     "reason": "Directly supported by the cited EIN News press release announcement.",
+     "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s0.1",
      "section": "What happened",
-     "text": "GetLatka reported that Birdeye reached $100M ARR and raised $93M in 2023.",
+     "text": "GetLatka reported Birdeye reached $100M ARR and raised $93M in 2023.",
      "cite": [
       "GL-50bc20dd"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Directly stated in the cited record from GetLatka.",
-     "checked_by": "gemini-3-flash-preview"
+     "reason": "Directly supported by the cited GetLatka record.",
+     "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s1.0",
      "section": "How the brand is perceived",
-     "text": "Birdeye holds an average sentiment of 0.33 across 3 sources, reflecting a mix of 1 positive announcement and 2 neutral mentions.",
+     "text": "SMB business owners consider Birdeye alongside Podium when exploring options to collect Google reviews without being awkward.",
      "cite": [
-      "GL-27aa30b9",
-      "GL-50e16263",
-      "GL-50bc20dd"
+      "GL-50e16263"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Matches the STATS provided for sentiment and source counts.",
-     "checked_by": "gemini-3-flash-preview"
+     "reason": "Directly supported by the cited Reddit post title and key fact.",
+     "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s1.1",
      "section": "How the brand is perceived",
-     "text": "Prospective SMB buyers on Reddit question whether Birdeye is worth the cost for collecting Google reviews without feeling awkward.",
+     "text": "Potential users in local business forums question whether applications like Birdeye are actually worth it.",
      "cite": [
       "GL-50e16263"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The Reddit record confirms a user asked if Birdeye is worth it for reviews.",
-     "checked_by": "gemini-3-flash-preview"
+     "reason": "Directly supported by the cited Reddit user inquiry.",
+     "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s2.0",
      "section": "Risks to watch",
-     "text": "Birdeye is expanding its product capabilities for multi-location brands with upgraded AI Insights.",
+     "text": "Birdeye is expanding its multi-location enterprise product capabilities with upgraded AI Insights.",
      "cite": [
       "GL-27aa30b9"
      ],
      "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "The EIN News record confirms the expansion of AI Insights for multi-location brands.",
-     "checked_by": "gemini-3-flash-preview"
+     "verdict": "partial",
+     "reason": "The record mentions multi-location brands, but does not explicitly state 'enterprise'.",
+     "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s2.1",
      "section": "Risks to watch",
-     "text": "Birdeye commands significant financial scale, with reported metrics of $100M ARR and $93M raised.",
+     "text": "Birdeye has achieved substantial commercial scale with a reported $100M ARR and $93M raised.",
      "cite": [
       "GL-50bc20dd"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The GetLatka record confirms the $100M ARR and $93M raised metrics.",
-     "checked_by": "gemini-3-flash-preview"
+     "reason": "Directly supported by the GetLatka financial figures in the record.",
+     "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s3.0",
      "section": "Openings for Weave",
-     "text": "Local business owners are seeking practical ways to collect Google reviews and weighing whether tools like Birdeye are worth it.",
+     "text": "Evidence is limited, but local business owners are actively asking whether Birdeye is worth the investment for gathering Google reviews.",
      "cite": [
       "GL-50e16263"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The Reddit record shows a business owner asking about review tools and value.",
-     "checked_by": "gemini-3-flash-preview"
+     "reason": "Directly supported by the cited Reddit post asking if Birdeye is worth it.",
+     "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s3.1",
      "section": "Openings for Weave",
-     "text": "Birdeye's focus on enterprise multi-location CX loops may leave local SMBs looking for simpler review solutions.",
+     "text": "Birdeye is focusing messaging on multi-location brands, leaving space to capture local business owners seeking straightforward review solutions.",
      "cite": [
       "GL-27aa30b9",
       "GL-50e16263"
      ],
      "fabricated_cites": [],
      "verdict": "partial",
-     "reason": "Records show multi-location focus and SMB questions, but the 'leave looking for simpler' part is inference.",
-     "checked_by": "gemini-3-flash-preview"
+     "reason": "Claiming Birdeye leaves space for competitors extrapolates beyond what the cited records state.",
+     "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "a0",
      "section": "Actions",
-     "text": "Publish ROI-focused comparison content addressing SMB owners evaluating Birdeye for Google reviews. - Local business owners are actively asking whether Birdeye is worth the investment to generate customer reviews.",
+     "text": "Produce comparison content demonstrating the value and ROI of Weave against Birdeye for local business review collection. - Local business owners are openly questioning on Reddit whether applications like Birdeye are worth it for getting reviews.",
      "cite": [
       "GL-50e16263"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The recommendation responds to a supported situation regarding SMB owners questioning Birdeye's value.",
-     "checked_by": "gemini-3-flash-preview"
+     "reason": "Recommendation is supported because the underlying situation regarding Reddit discussions is supported.",
+     "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "a1",
      "section": "Actions",
-     "text": "Audit Weave's multi-location reporting features against Birdeye's upgraded AI Insights release. - Birdeye is targeting multi-location brands directly with upgraded AI CX intelligence capabilities.",
+     "text": "Review Birdeye's upgraded AI Insights release to benchmark Weave's multi-location customer experience features. - Birdeye is enhancing its product suite to close the CX loop for multi-location brands.",
      "cite": [
       "GL-27aa30b9"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The recommendation responds to the supported announcement of Birdeye's multi-location AI Insights.",
-     "checked_by": "gemini-3-flash-preview"
+     "reason": "Recommendation is supported because the underlying situation regarding AI Insights is supported.",
+     "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "a2",
      "section": "Actions",
-     "text": "Benchmark Weave's market positioning against Birdeye's reported $100M ARR scale. - Competitor reporting confirms Birdeye reached $100M ARR backed by $93M in funding.",
+     "text": "Track Birdeye's financial benchmarks and ARR reports to evaluate competitor growth scale. - GetLatka reported Birdeye's revenue reached $100M ARR alongside $93M in total funding raised.",
      "cite": [
       "GL-50bc20dd"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The recommendation responds to the supported financial metrics reported by GetLatka.",
-     "checked_by": "gemini-3-flash-preview"
+     "reason": "Recommendation is supported because the underlying financial situation reported by GetLatka is supported.",
+     "checked_by": "gemini-3.5-flash"
     }
    ]
   },
   "written_by": "gemini-3.8-flash",
-  "created_at": "2026-10-24T00:32:14+00:00"
+  "created_at": "2026-10-24T00:41:58+00:00"
  },
  "Market|2026-07-11|2026-10-09|Customer posts (Reddit),Developer discussion (Hacker News),News and press,Research papers (arXiv)": {
   "mode": "live",
@@ -2292,12 +2152,7 @@
      "discussed": 1
     },
     "risks_high_or_medium": 5,
-    "opportunities_high_or_medium": 33,
-    "archetypes": {
-     "Creator": 27,
-     "Everyman": 4,
-     "Caregiver": 3
-    }
+    "opportunities_high_or_medium": 33
    },
    "evidence": [
     {
@@ -2312,7 +2167,6 @@
      "evidence": "reported",
      "risk": "medium",
      "opportunity": "high",
-     "archetype": "Caregiver",
      "why": "Widespread failure of healthcare AI receptionists harms patient access and trust.",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQmFzWktDT1pkWnY5enVYRXZuWm1VR0RvbW1QU091dEdmQWxxOEVXWnBEOUhScVRGLWIzYlJ4ck9wMjFfUm8wSEU2Y1dsLV94ZE5DNjd0SDhiVVBFc3k0N0FPV1dUMjBzYUhDeWp5bnl0SFo1bVREWFM2dzFtRGJfUXBrWXRIM1dQa0ZTSXh3?oc=5"
     },
@@ -2328,7 +2182,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "high",
-     "archetype": null,
      "why": "Demonstrates customer backlash against poor healthcare AI, an opening for reliable solutions.",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUy1MekJ3eVJOSFRhTFlzSEdEQnZFV1dySzR0Ynl0ZHpqUDRtN0NDbnBzMXZiUi1tSDdfbWVOYUJfbGJiMXRJYjVSWXRobWlMZERPbFAyUElVYnN2bHlSYVZaai03U08zenRuVm1SNXpaazM0MmJjVDlxNGtHd0VhTGZOTXcySUNFYjkyVUV4bVRFdlY2WmpfaVNwWDNiQQ?oc=5"
     },
@@ -2344,7 +2197,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "high",
-     "archetype": "Everyman",
      "why": "Highlights systemic accent recognition issues in medical scheduling bots.",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0VieXZMMjgtS2RaNDJRUzg3MGxkUWNfX0xoUlBkNHV2dGJUUE1SOWxzaE82bW9qOWpNSm5sM3BlZmt4NHB4STJhTkVHR1FZV1paN1E5dV9Ja0ZZY3ZMQjhIUUNpT0hiT0FGNkJGN1dOVkF2ZGJDbzZzaTlEMVJiU1RlbXF4UHNWTmgxczBfNWpGSzJoeG5KTkUtZUptS29zLVRv?oc=5"
     },
@@ -2360,7 +2212,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "high",
-     "archetype": "Everyman",
      "why": "Demonstrates specific regional audio parsing failures in healthcare AI tools.",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeDFwYWJMeW1nTUlCdU1mZmc0MVZJOUJUUVRBUnFEOFhRZ0x2aHprOE9BZFRJUGNKby1iXzhxSEx5UEFVeEY4djB1Z0pzRVJnTnlFVVVBcHFpVzBBWWIycGlJR1dPWXlKa1JUYlVSZTdMWlBkYTN3Rm53aXBhNld1NUtQUjMtRGI5SW40WTNNdGxKV2VkRi1yYnFtb2ZsSGk5VFJLMktCRTJtd0NwUy1MRw?oc=5"
     },
@@ -2376,7 +2227,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "high",
-     "archetype": "Jester",
      "why": "Accent comprehension failures expose limitations in current AI receptionist tools.",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZXFEMVR2RHFEQTRSdWJuNFV4RHV5YjZGbUlVaDk1dl9tQWtLRFVpSVZnb2RJQ09PZmNQRW1jYldBb3lIMjRPb1JnY1dBbEFDQlJqaGxmMmFqdklJclZGZnJEenBmTGxiMlNUSmRaRmhJYUNDdkxCT1BOaklNbU5Hc19wSVppRmZlWXJXQ292cmdxU20zTzR3cjI1YnFvNHdKSzRLVFlIZ3c0Q2U4VEp6VFlTZk1EcmhRM2ZtWFpYMHZIanAzTVVlZUlmbFJIZw?oc=5"
     },
@@ -2392,7 +2242,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "high",
-     "archetype": "Caregiver",
      "why": "Highlights AI receptionist flaws, creating an opening for human-backed solutions.",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wZVJmOEEwdm84NHNpa28zTW5nOFBZZ1ptbEMwMVNPelhUZHlJb3ZJendENWlNcHZWMGZ3QUZ1ckFsSlgtV0RJMmxxYXNkc1RZQXhPa3ZMMnN2aG4x?oc=5"
     },
@@ -2408,7 +2257,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "high",
-     "archetype": "Everyman",
      "why": "Reinforces negative publicity around healthcare AI voice tools.",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01S0xadHNxZXNvcE5KTHF1RGZDVmk3RS02OXdmQ2Rka0Rqc2ZZZlBsNFo2WlFIQ3pYNWFwM3pnWVFXN2lxZ3kxQkhIek0waHU0TzdVbHc2YnV5T0JxNlBmS2xXU0hPTWgyT1lIQ05oODJ4d1VwazZocU5YYw?oc=5"
     },
@@ -2424,7 +2272,6 @@
      "evidence": "announced",
      "risk": "medium",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Competitor launching advanced call routing features.",
      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbGhWdWxuYXdTMlp1UjBwU0puSmxvZlQ1aXRUMnJDR2ZzTjdQMTRkWXoyWmNSVC1KaW4yTllmTVVVSEVTSWo4S3hvb09XMzhXR0c3YUFJRmQ3bFBBMDNYOV9HN2x3UUFZWm12LUl3Y2YwSG9yV3ZUeGw1VHl5dS1jQm1RdmlMS3hqZ3BnM2l3azdyWmg2YmNUVXB0RFYzLV82aDExQzlhV2RGUExSNWxyc0pMQ3NDakxxYTkySDdvMlpYeEUwYktDLW1DSThPRHhBWHRBc1N1Z25xNWtvSlhZZVluRW1fNDMzMTExYmpsdE9pR2FuTzZDNExFZHRvUDRCR1Y4LUZqdFdzZTg?oc=5"
     },
@@ -2440,7 +2287,6 @@
      "evidence": "announced",
      "risk": "medium",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Expands competitive pressure in SMB communications.",
      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQzhNY0tIRHFpZC1ENkxBS25tVkVfRmg4enl4dVFkT3ZrUlM4QzFIbVJEa1VEMko5ZUE1VF81Rm5lYUNHbjBlanBzSjlITHN4REh3OThab194THZNYWlJMjZiRl9KaFBMcGVMd195dlljdFRyYUpVeGZoenBjdDUySEVZdDMtd0tSSndkNThBSFZTRjVaOHRwNHliV1dSSWZkekN1Z2VZMUlRakZqNEZUT2U1YmRaTGpQcmYycklDTHRDd29BYlAxSUJFOTBEclc3OVhqZk94eUIxbUpJOVhHVVRrYUJVeHp3OWpTTHJObHJWb2JLT2lERnE0dVQ5bjNicERqT2V6dVNaXzViS25FTnl4SWNVZU0?oc=5"
     },
@@ -2456,7 +2302,6 @@
      "evidence": "announced",
      "risk": "medium",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Increases competition in SMB AI receptionists.",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMHFyZXppZUI5M1ljYmdYb2p6eDZtZzBBLXVnSDNWNEdWVV93NFBoVVVaOXZPUHBKN1Q2U2lyelBJc1VQam90UzhxSlBNWnkxdFNzWDVEWGREMXNqdm51SHZGR1hxRnI0Z0lXNzFVVHM5djg1S05adGxYNU9XeU5IR1FSQ25RMUw5UXZUOXZodjJ4alFnQUZta0FJd1NKaU9HREQwN3dYbEM4eGNrUXg2eWpHTWZKXzFtc3c?oc=5"
     },
@@ -2472,7 +2317,6 @@
      "evidence": "announced",
      "risk": "medium",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Directly targets healthcare practices, overlapping with Weave's market.",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTXhnemg5a2RTMkpheFZMQmZxS2FON1FvcS1BQVFjSUdfSFpXU2JYOEVhdXZXN0tEX0xVc2xwbUxoY0Ewc2lSNk1yLUcxVjZVQXVSLWl1SDA2X3NRVEhoaFM5dDJxaWxMSGdUYXBicE5GSkEyUkdoa0ozd1ZQVHpETzFvMndWSVd5LUFHWWJPNXd6a1pOZ0xyZktoT2FxX21sam1OLWpxZVljdEhITklsNkZRNkdHV3ZockFWejBTb0NWVFdVamtfa2pR?oc=5"
     },
@@ -2488,7 +2332,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Shows telecom providers entering the AI receptionist space.",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMkdINFpEOTBTOHBoSUZMM21xQVN1M24wbkpkNnozVmR4dlJ4ZmtuQzRVYzdUdkxPUTFxeDJ3MFRjcWRpbWFQYkdLaHZ0b3dhYk1IRzMxWUZVbHJhTFVrMDdDZ2diZS05SHVsWjFrWlNXMm1LSmNFakQydEtkUExWbmdxWnp5VU5lMUotbF81ME1LRTB2OFJnTHZ3?oc=5"
     },
@@ -2504,7 +2347,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Everyman",
      "why": "Highlights market competition for dental AI receptionists.",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0YWt0Y0NHUjc3bUxCMG15UnZOZmZld0VZaFdaSU5GMGlkQ3JQNlpEdzA1ZFF2TnlFcE1MTWw1akI4Ykd6OVJEblFVaF9XaDhMRTUzeFNjeFVhcnRI?oc=5"
     },
@@ -2520,7 +2362,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Broadening competition in automated phone agents.",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2N3VGZ0V0xWVllGN2lvWS1VQlgxdDJDMHJMR0ZNOVBTSmxjYnRPTVFXeVRSTm1HTVVTMnNYLUdKZkRWNzh6a2MwYVoyYlNUYU94Z0V4YXg1bk5aYzJ0ZmNTUkNEaXRzSVBEaFgzWW56dUZyemFnT3lLSlhoWHNub3UzcXBhV241UEdhV01vMUNSNEg1X1pIN0doSF9KSXhUQ2k4?oc=5"
     },
@@ -2536,7 +2377,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Demonstrates strong SMB adoption of AI receptionists, validating automated booking use cases.",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQckFPcnQ4Z0ZwRnBBYkdveXgyMEVZOE5nWHZmcE9KbURUUjRyWXE0YXgwby03MFN1ZnU5NFoxNlcza05ST1VyNENZakZhUzNPclBQVmRuVTRlTnJSaElvTUlFT2o0U1lXVE1pRm9aUmpHSFJ4dHNUQi10T1Juc0VqVHRYbGJzcGUzNXVHSTZVYzVhWmljcDR0S0UzQUtRRlI0ck04SkNFY2hXd0hVSFZLXzlUY203QmZiOGlxdXdSM3IwM0ZaZmpCSDZaVQ?oc=5"
     },
@@ -2552,7 +2392,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Caregiver",
      "why": "Highlights patient resistance to AI receptionists, which Weave must navigate carefully.",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSTM4Q1B4bjBVd2RsQWNIM0p2VmV5MHNyX0JQdm5HV182SEF0anM5RU4xU1RCdmp2bFctVFhSQmVHUHh1MnFZRWYzejNOOE5TUGU2X0RfV2dWQjdCSXk3UGtKcmNJa1NEeG1jYmxXaGVxN2tpTVJSMlJ5RTFPYkw4MHB5bUhkSl85azBVS3k3NTJxa2Vl?oc=5"
     },
@@ -2568,7 +2407,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Expands competitive pressure in SMB AI receptionists.",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPME91QlR5Mk5NN21PSlotU3JxdGhZNDAtb3FlanFrWG52dWxTd1hLU3hpckxpcjFqeW1hNXhCWkpFY3hOWTJDSWhHelBPSV9wcnNrcVkzeGphWVdPb01KaFJaX0l4N2s3Y3F3Q1dXVWpHeFRsR3ZEY2hfTkN6UDNCR1J0cXNUdGNWN3VqclhaZU5TM3Q1TkdjQjZVQ0F2LTZaaDJLcjNiWWhXSGVUVGhxeG9GTVBYQ3o3NmtvMjc2dW96Y3FlOTN6eDBtcTRfQkJQUDgwQVpFQ3I2QWloOWZwUC13?oc=5"
     },
@@ -2584,7 +2422,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Shows rising investment and capability in business AI agents.",
      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
     },
@@ -2600,7 +2437,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": null,
      "why": "SMB communication automation is increasingly crowded.",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVzZ0VGRzRllqQXB3NTZzc0ZVVWxUMDVxUHozeGdjZGVPeDNGSWdHSVZSM1pKWjlheHpHdWc4c2JoWFNxQjltb3dNTTRUMkZabzRrM2draWtNMUpYSjBvVWVmaC12TXNGUVRvNDlQWm43c185c2dEazI4TkdSWjJLUXZadHNDaGIydVpDZklVWk56OGlxazh3M1pZbmZRbVFvWTIzRXQwM254U3JsNzJBQ3BOSGJYWEE?oc=5"
     },
@@ -2616,7 +2452,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "New funding for vertical AI front desk competitors.",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNlZ4RllsNUI1cFlrTGRJVnJaOTkwSDhZRTdXdzRJX21qYkZfOU9LRDBUUHpIaWQ2eXN1amhTOXh2WEdSY0NieHk5Q0I4cWd4OWtCV3NheHhEMXVmRGpsbEJlRXhCQzZwZHZZQkNvUWc0UElvSDJ5WmdJLUM1eGNXV19keTFnaGVMOEtRQVZ3?oc=5"
     },
@@ -2632,7 +2467,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "New AI receptionist competition entering the market.",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVWE4UEZVRmFEZEYybXVKRjJuQVVzN3NJSW1tZ1ota3h2N2oxeFZ1eHM1Rk5kcDdTYXNzSVpJZFdLOFQ5b2t6MmJKVVlJSVNwZGJHaVRvZzlhNTVPWGVrSGtqMWVmUTNrQ2txdVZfMUpTbzhiRTVuWWtWTmVNQ0l5V1gxTEJlY0M1WDFzR0FrT3U4d3IxSUdLMVAxN2lSRTRReWwxWUtYY3Q4bmJsM1hyVkoxWFA3NFRjci1QaUx2OEpJVWlVQm4xRXBjajQyWkdLbno0RFlkLVZDS3ZDUFNlMnZB?oc=5"
     },
@@ -2648,7 +2482,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "New VC-backed entrant targeting medical front desks.",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQm9Ncy1UQUFFUTlGUElnZVF2eW9zLUNOLVlENXBaQlNHMTl1OEx3aEZxU1dkd0tleDhPS3NnMXhyM1BXOXhyM1ZGOGhGbTRPbXlQVF9CMjFfaVpuWGVvekF2Tm9vQUNqUVRwajdEZC1YeXZ2cl9CaXZ5YWJNUkVpblkwYm1TLWJabFhjbGdtaUFramJEc09vbkpnRXBSQXNreHlfbmJCNXFpX2wxMUE?oc=5"
     },
@@ -2664,7 +2497,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Represents growing competition in AI front desk automation for SMBs.",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeTJtbjlacFBfTGNfR09vQm9KaEpvWTJXeTBzYlF5X3lvQmQwMHFEajdyYkdiZzVXX2hCbzlpU1oxNDZOMDBqVk9zUjZ3QV9GNGxJV05KcXZIZzNZclF6Mk5EbndlY2VQa3dGSTQ1YVVuMXZSUU1Uc0ptMGQ1XzJ1QU56TjF3dmRVdlNpVFY5MGE4MEVPVzgySXRvOC12R3VPdkN2TG85cnJoenZPNnNYVGtCRW1HTjlTVWdTNk85LUVzYmItVEJQTWpCMmpCUkZ3M1phMHVETkp0aXNqbGNaOXVSZ0lpNnRlclBV?oc=5"
     },
@@ -2680,7 +2512,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Validates SMB demand for AI call handling, a feature competitive to Weave's offerings.",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DMVdpNDM4Q21zdVAyUmdMeXBLbGJBb1FDOUNjYXdlR1VIakdtNzBkdm1YR2xvamtZZjlGSVRsdzc3WGJ5aVd5MVlWdnIxMTJhNWRyT2FBM083LWJUMm9EcW1KQlM1Tk9vWFE1Nl9MeW5FeFFrMDUxcUszbElKdw?oc=5"
     },
@@ -2696,7 +2527,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Funding activity shows capital flowing into AI receptionist competitors.",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFUG9oaVJEQ2dqX1F1YkNWNExjeURXRUE2SWR2OG8tTGFKSE5vQlpWUnBmSUV3R0d0NldjWDNjUXlqdDNjUnJMMTBUQ1Znc1lkTWtOVUc0R01ZaGdDMkN1VWJmdHVqdndrbHU3TnVzQkcwNEpoa0NBcA?oc=5"
     }
@@ -2711,33 +2541,35 @@
    ]
   },
   "brief": {
-   "headline": "AI receptionist adoption grows despite significant patient frustration and accent recognition failures",
-   "summary": "While competitors like Numa and Vosita launch new AI front desk tools, healthcare providers are facing backlash over poor voice recognition. Patients are skipping appointments or hanging up when AI agents fail to understand regional accents or medical conditions.",
+   "headline": "AI receptionists face healthcare backlash over accent failures while market competition intensifies",
+   "summary": "Medical practices are abandoning AI receptionists that fail to understand regional accents or patients with speech impediments. Despite these service failures, a surge of new competitors and venture capital is flooding the SMB front-desk automation market.",
    "sections": [
     {
      "title": "What happened",
      "claims": [
       {
-       "text": "Multiple competitors launched AI receptionists, including Numa's 'Operator' with precision routing and Vosita's medical-specific tool.",
+       "text": "Multiple GP practices have ditched AI receptionists described as 'incredibly frustrating' after patient complaints.",
        "cite": [
-        "GL-1662bd60",
-        "GL-f1d34e3d"
+        "GL-0c0e8c63",
+        "GL-a28960a4"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Funding for AI front desk startups is active, with Medow Health raising AUD $3.5 million and Fulltime AI securing $1 million.",
+       "text": "New AI receptionist products were launched by Numa, Yellow Pages, BT Business, and Vosita to target medical and SMB sectors.",
+       "cite": [
+        "GL-1662bd60",
+        "GL-cf6ab56f",
+        "GL-f1d34e3d",
+        "GL-0df0c5f5"
+       ],
+       "verdict": "supported"
+      },
+      {
+       "text": "Funding for AI front-desk solutions remains active, with Medow Health AI raising $3.5 million and Fulltime AI securing $1 million.",
        "cite": [
         "GL-dcc481b2",
         "GL-98e70ed8"
-       ],
-       "verdict": "supported"
-      },
-      {
-       "text": "Large providers like BT Business and Yellow Pages are entering the SMB AI receptionist market with new automated services.",
-       "cite": [
-        "GL-0df0c5f5",
-        "GL-736540f6"
        ],
        "verdict": "supported"
       }
@@ -2747,25 +2579,25 @@
      "title": "How the brand is perceived",
      "claims": [
       {
-       "text": "Patients report 'incredible frustration' with AI receptionists, leading some GP practices to ditch the technology entirely.",
+       "text": "Patients perceive current AI tools as barriers to care, with some skipping doctor visits because the technology cannot understand them.",
        "cite": [
-        "GL-0c0e8c63",
-        "GL-a28960a4"
+        "GL-936b48de"
        ],
        "verdict": "supported"
       },
       {
-       "text": "AI tools are perceived as unreliable for patients with specific needs, such as those with regional accents or post-stroke speech difficulties.",
+       "text": "Users describe the experience as 'baffling' and report hanging up in frustration when AI fails to parse regional accents.",
        "cite": [
         "GL-2b8d5da4",
-        "GL-82c10b66"
+        "GL-d9b266a9"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Despite failures, some sectors see success, such as Flae Robotics reporting over 3,400 autonomous hotel bookings.",
+       "text": "The market is being messaged with promises of a 'front desk that never sleeps' and services that 'never miss a patient'.",
        "cite": [
-        "GL-95a62d85"
+        "GL-f1d34e3d",
+        "GL-23a1a6f2"
        ],
        "verdict": "supported"
       }
@@ -2775,24 +2607,18 @@
      "title": "Risks to watch",
      "claims": [
       {
-       "text": "Poor AI comprehension is causing patients to skip doctor visits, directly harming patient access and trust.",
+       "text": "Systemic failures in accent recognition and understanding patients after a stroke are causing significant reputational damage to healthcare AI.",
        "cite": [
-        "GL-936b48de"
+        "GL-28153e4b",
+        "GL-82c10b66"
        ],
-       "verdict": "supported"
+       "verdict": "partial"
       },
       {
-       "text": "Regional accent recognition remains a systemic failure, with reports of AI agents being 'baffled' by Yorkshire accents.",
+       "text": "Telecom giants like BT Business are entering the space, increasing competitive pressure on specialized SMB communication providers.",
        "cite": [
-        "GL-2b8d5da4",
-        "GL-d9b266a9"
-       ],
-       "verdict": "supported"
-      },
-      {
-       "text": "New entrants like Medow Health are specifically targeting specialist clinics with dedicated AI front desk solutions.",
-       "cite": [
-        "GL-4ce500bd"
+        "GL-36ad4893",
+        "GL-d1656b25"
        ],
        "verdict": "supported"
       }
@@ -2802,18 +2628,16 @@
      "title": "Openings for Weave",
      "claims": [
       {
-       "text": "There is a high opportunity to provide human-backed or more reliable solutions as patients abandon practices using poor AI.",
+       "text": "Competitors are gaining traction with 'precision routing' systems that ensure callers reach the correct staff member immediately.",
        "cite": [
-        "GL-82c10b66",
-        "GL-0c0e8c63"
+        "GL-1662bd60"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Competitors are focusing on 24/7 availability and 'never missing a call,' which Weave can counter with superior accuracy.",
+       "text": "Successful automation in other SMB sectors, such as 3,400+ hotel bookings, validates the demand for reliable automated scheduling.",
        "cite": [
-        "GL-23a1a6f2",
-        "GL-f1d34e3d"
+        "GL-95a62d85"
        ],
        "verdict": "supported"
       }
@@ -2822,29 +2646,28 @@
    ],
    "actions": [
     {
-     "action": "Audit voice recognition capabilities for regional accents and speech impediments.",
-     "why": "Multiple reports show patients hanging up or skipping visits when AI fails to parse non-standard speech.",
+     "action": "Audit voice recognition for regional accents and speech impediments.",
+     "why": "Current market failures in understanding diverse speech patterns are driving medical practices to abandon AI tools.",
      "cite": [
-      "GL-2b8d5da4",
+      "GL-28153e4b",
       "GL-82c10b66"
+     ],
+     "verdict": "partial"
+    },
+    {
+     "action": "Develop a precision routing feature for incoming calls.",
+     "why": "Competitors are using advanced routing to differentiate their AI receptionists and ensure callers reach the right hands.",
+     "cite": [
+      "GL-1662bd60"
      ],
      "verdict": "supported"
     },
     {
-     "action": "Develop a human-in-the-loop fail-safe for medical AI agents.",
-     "why": "Practices are dropping AI tools due to frustration, creating a need for systems that can hand off to staff when comprehension fails.",
+     "action": "Position Weave as a reliable alternative to 'frustrating' standalone AI bots.",
+     "why": "There is a clear opening to capture customers who are currently ditching unreliable AI receptionists.",
      "cite": [
       "GL-0c0e8c63",
       "GL-a28960a4"
-     ],
-     "verdict": "supported"
-    },
-    {
-     "action": "Monitor Medow Health's expansion into specialist clinics.",
-     "why": "They recently raised $2.5M specifically to target the medical front desk market with vertical-specific AI.",
-     "cite": [
-      "GL-4ce500bd",
-      "GL-dcc481b2"
      ],
      "verdict": "supported"
     }
@@ -2852,200 +2675,200 @@
    "archetype_read": null
   },
   "fact_check": {
-   "checker": "gemini-3.5-flash",
+   "checker": "gemini-3.1-flash-lite",
    "check_error": null,
    "status": "verified",
-   "groundedness": 1.0,
+   "groundedness": 0.857,
    "claims_total": 14,
-   "supported": 14,
-   "partial": 0,
-   "unsupported": 0,
+   "supported": 11,
+   "partial": 2,
+   "unsupported": 1,
    "unverified": 0,
    "fabricated_citations": 0,
    "log": [
     {
      "where": "s0.0",
      "section": "What happened",
-     "text": "Multiple competitors launched AI receptionists, including Numa's 'Operator' with precision routing and Vosita's medical-specific tool.",
+     "text": "Multiple GP practices have ditched AI receptionists described as 'incredibly frustrating' after patient complaints.",
      "cite": [
-      "GL-1662bd60",
-      "GL-f1d34e3d"
+      "GL-0c0e8c63",
+      "GL-a28960a4"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited records confirm Numa launched Operator with precision routing and Vosita launched an AI receptionist for medical practices.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "Multiple sources confirm GP practices have dropped AI receptionists following patient complaints about frustration.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s0.1",
      "section": "What happened",
-     "text": "Funding for AI front desk startups is active, with Medow Health raising AUD $3.5 million and Fulltime AI securing $1 million.",
+     "text": "New AI receptionist products were launched by Numa, Yellow Pages, BT Business, and Vosita to target medical and SMB sectors.",
+     "cite": [
+      "GL-1662bd60",
+      "GL-cf6ab56f",
+      "GL-f1d34e3d",
+      "GL-0df0c5f5"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "The cited records confirm the launch of AI receptionist products by these specific companies.",
+     "checked_by": "gemini-3.1-flash-lite"
+    },
+    {
+     "where": "s0.2",
+     "section": "What happened",
+     "text": "Funding for AI front-desk solutions remains active, with Medow Health AI raising $3.5 million and Fulltime AI securing $1 million.",
      "cite": [
       "GL-dcc481b2",
       "GL-98e70ed8"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited sources explicitly state Medow Health raised AUD $3.5 million and Fulltime AI secured $1 million.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s0.2",
-     "section": "What happened",
-     "text": "Large providers like BT Business and Yellow Pages are entering the SMB AI receptionist market with new automated services.",
-     "cite": [
-      "GL-0df0c5f5",
-      "GL-736540f6"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Cited records confirm both BT Business and Yellow Pages launched AI receptionist services for businesses.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The cited records confirm the funding amounts and companies mentioned.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s1.0",
      "section": "How the brand is perceived",
-     "text": "Patients report 'incredible frustration' with AI receptionists, leading some GP practices to ditch the technology entirely.",
-     "cite": [
-      "GL-0c0e8c63",
-      "GL-a28960a4"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Cited articles confirm GP practices ditched AI receptionists after patient complaints about them being 'incredibly frustrating'.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s1.1",
-     "section": "How the brand is perceived",
-     "text": "AI tools are perceived as unreliable for patients with specific needs, such as those with regional accents or post-stroke speech difficulties.",
-     "cite": [
-      "GL-2b8d5da4",
-      "GL-82c10b66"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Cited sources report an AI receptionist failed with Yorkshire accents and another could not understand a post-stroke patient.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s1.2",
-     "section": "How the brand is perceived",
-     "text": "Despite failures, some sectors see success, such as Flae Robotics reporting over 3,400 autonomous hotel bookings.",
-     "cite": [
-      "GL-95a62d85"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Cited record directly supports Flae Robotics reporting over 3,400 autonomous hotel bookings.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s2.0",
-     "section": "Risks to watch",
-     "text": "Poor AI comprehension is causing patients to skip doctor visits, directly harming patient access and trust.",
+     "text": "Patients perceive current AI tools as barriers to care, with some skipping doctor visits because the technology cannot understand them.",
      "cite": [
       "GL-936b48de"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited source directly states patients are skipping doctor visits due to poor AI receptionist comprehension.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The cited record directly supports that patients are skipping visits due to AI communication failures.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
-     "where": "s2.1",
-     "section": "Risks to watch",
-     "text": "Regional accent recognition remains a systemic failure, with reports of AI agents being 'baffled' by Yorkshire accents.",
+     "where": "s1.1",
+     "section": "How the brand is perceived",
+     "text": "Users describe the experience as 'baffling' and report hanging up in frustration when AI fails to parse regional accents.",
      "cite": [
       "GL-2b8d5da4",
       "GL-d9b266a9"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited articles confirm reports that an AI receptionist was baffled by and could not understand Yorkshire accents.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The cited records confirm users find the experience baffling and hang up due to accent recognition issues.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
-     "where": "s2.2",
-     "section": "Risks to watch",
-     "text": "New entrants like Medow Health are specifically targeting specialist clinics with dedicated AI front desk solutions.",
+     "where": "s1.2",
+     "section": "How the brand is perceived",
+     "text": "The market is being messaged with promises of a 'front desk that never sleeps' and services that 'never miss a patient'.",
      "cite": [
-      "GL-4ce500bd"
+      "GL-f1d34e3d",
+      "GL-23a1a6f2"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited source explicitly states Medow Health raised seed funding to build an AI front desk for specialist clinics.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The cited records confirm these specific marketing phrases are being used for AI receptionist services.",
+     "checked_by": "gemini-3.1-flash-lite"
+    },
+    {
+     "where": "s2.0",
+     "section": "Risks to watch",
+     "text": "Systemic failures in accent recognition and understanding patients after a stroke are causing significant reputational damage to healthcare AI.",
+     "cite": [
+      "GL-28153e4b",
+      "GL-82c10b66"
+     ],
+     "fabricated_cites": [],
+     "verdict": "partial",
+     "reason": "The records support the failures, but do not explicitly state these cause 'significant reputational damage' to the industry.",
+     "checked_by": "gemini-3.1-flash-lite"
+    },
+    {
+     "where": "s2.1",
+     "section": "Risks to watch",
+     "text": "Telecom giants like BT Business are entering the space, increasing competitive pressure on specialized SMB communication providers.",
+     "cite": [
+      "GL-36ad4893",
+      "GL-d1656b25"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "The records confirm BT Business's entry into the market and its focus on SMBs.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s3.0",
      "section": "Openings for Weave",
-     "text": "There is a high opportunity to provide human-backed or more reliable solutions as patients abandon practices using poor AI.",
+     "text": "There is a high opportunity for human-backed solutions that intervene when AI fails to understand complex or accented speech.",
      "cite": [
-      "GL-82c10b66",
-      "GL-0c0e8c63"
+      "GL-82c10b66"
      ],
      "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Cited sources confirm patients facing comprehension issues and practices dropping AI, supporting this strategic opportunity.",
-     "checked_by": "gemini-3.5-flash"
+     "verdict": "unsupported",
+     "reason": "The cited record describes a failure but does not discuss or propose human-backed solutions.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s3.1",
      "section": "Openings for Weave",
-     "text": "Competitors are focusing on 24/7 availability and 'never missing a call,' which Weave can counter with superior accuracy.",
+     "text": "Competitors are gaining traction with 'precision routing' systems that ensure callers reach the correct staff member immediately.",
      "cite": [
-      "GL-23a1a6f2",
-      "GL-f1d34e3d"
+      "GL-1662bd60"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited sources show competitors promoting 24/7 availability and 'never missing a call'.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The record confirms Numa's launch of a precision routing system to ensure correct call handling.",
+     "checked_by": "gemini-3.1-flash-lite"
+    },
+    {
+     "where": "s3.2",
+     "section": "Openings for Weave",
+     "text": "Successful automation in other SMB sectors, such as 3,400+ hotel bookings, validates the demand for reliable automated scheduling.",
+     "cite": [
+      "GL-95a62d85"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "The record confirms the 3,400+ booking figure and its use as a validation of demand.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "a0",
      "section": "Actions",
-     "text": "Audit voice recognition capabilities for regional accents and speech impediments. - Multiple reports show patients hanging up or skipping visits when AI fails to parse non-standard speech.",
+     "text": "Audit voice recognition for regional accents and speech impediments. - Current market failures in understanding diverse speech patterns are driving medical practices to abandon AI tools.",
      "cite": [
-      "GL-2b8d5da4",
+      "GL-28153e4b",
       "GL-82c10b66"
      ],
      "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Recommendation is supported by cited reports showing patients hanging up or struggling with accents and speech impediments.",
-     "checked_by": "gemini-3.5-flash"
+     "verdict": "partial",
+     "reason": "The records support the failures, but do not explicitly state these are the primary drivers for abandonment.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "a1",
      "section": "Actions",
-     "text": "Develop a human-in-the-loop fail-safe for medical AI agents. - Practices are dropping AI tools due to frustration, creating a need for systems that can hand off to staff when comprehension fails.",
+     "text": "Develop a precision routing feature for incoming calls. - Competitors are using advanced routing to differentiate their AI receptionists and ensure callers reach the right hands.",
+     "cite": [
+      "GL-1662bd60"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "The recommendation responds to the competitive differentiation strategy identified in the cited record.",
+     "checked_by": "gemini-3.1-flash-lite"
+    },
+    {
+     "where": "a2",
+     "section": "Actions",
+     "text": "Position Weave as a reliable alternative to 'frustrating' standalone AI bots. - There is a clear opening to capture customers who are currently ditching unreliable AI receptionists.",
      "cite": [
       "GL-0c0e8c63",
       "GL-a28960a4"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Recommendation is supported by cited sources showing GP practices dropping frustrating AI receptionists.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "a2",
-     "section": "Actions",
-     "text": "Monitor Medow Health's expansion into specialist clinics. - They recently raised $2.5M specifically to target the medical front desk market with vertical-specific AI.",
-     "cite": [
-      "GL-4ce500bd",
-      "GL-dcc481b2"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Recommendation is supported by cited sources confirming Medow Health's funding specifically to target specialist clinics.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The recommendation responds to the documented trend of practices abandoning frustrating AI tools.",
+     "checked_by": "gemini-3.1-flash-lite"
     }
    ]
   },
   "written_by": "gemini-3-flash-preview",
-  "created_at": "2026-10-24T00:33:44+00:00"
+  "created_at": "2026-10-24T00:42:35+00:00"
  },
  "Market|2026-09-09|2026-10-09|Customer posts (Reddit),Developer discussion (Hacker News),News and press,Research papers (arXiv)": {
   "mode": "live",
@@ -3077,12 +2900,7 @@
      "discussed": 1
     },
     "risks_high_or_medium": 4,
-    "opportunities_high_or_medium": 25,
-    "archetypes": {
-     "Creator": 25,
-     "Magician": 1,
-     "Everyman": 1
-    }
+    "opportunities_high_or_medium": 25
    },
    "evidence": [
     {
@@ -3097,7 +2915,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "high",
-     "archetype": null,
      "why": "Demonstrates customer backlash against poor healthcare AI, an opening for reliable solutions.",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUy1MekJ3eVJOSFRhTFlzSEdEQnZFV1dySzR0Ynl0ZHpqUDRtN0NDbnBzMXZiUi1tSDdfbWVOYUJfbGJiMXRJYjVSWXRobWlMZERPbFAyUElVYnN2bHlSYVZaai03U08zenRuVm1SNXpaazM0MmJjVDlxNGtHd0VhTGZOTXcySUNFYjkyVUV4bVRFdlY2WmpfaVNwWDNiQQ?oc=5"
     },
@@ -3113,7 +2930,6 @@
      "evidence": "announced",
      "risk": "medium",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Competitor launching advanced call routing features.",
      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbGhWdWxuYXdTMlp1UjBwU0puSmxvZlQ1aXRUMnJDR2ZzTjdQMTRkWXoyWmNSVC1KaW4yTllmTVVVSEVTSWo4S3hvb09XMzhXR0c3YUFJRmQ3bFBBMDNYOV9HN2x3UUFZWm12LUl3Y2YwSG9yV3ZUeGw1VHl5dS1jQm1RdmlMS3hqZ3BnM2l3azdyWmg2YmNUVXB0RFYzLV82aDExQzlhV2RGUExSNWxyc0pMQ3NDakxxYTkySDdvMlpYeEUwYktDLW1DSThPRHhBWHRBc1N1Z25xNWtvSlhZZVluRW1fNDMzMTExYmpsdE9pR2FuTzZDNExFZHRvUDRCR1Y4LUZqdFdzZTg?oc=5"
     },
@@ -3129,7 +2945,6 @@
      "evidence": "announced",
      "risk": "medium",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Expands competitive pressure in SMB communications.",
      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQzhNY0tIRHFpZC1ENkxBS25tVkVfRmg4enl4dVFkT3ZrUlM4QzFIbVJEa1VEMko5ZUE1VF81Rm5lYUNHbjBlanBzSjlITHN4REh3OThab194THZNYWlJMjZiRl9KaFBMcGVMd195dlljdFRyYUpVeGZoenBjdDUySEVZdDMtd0tSSndkNThBSFZTRjVaOHRwNHliV1dSSWZkekN1Z2VZMUlRakZqNEZUT2U1YmRaTGpQcmYycklDTHRDd29BYlAxSUJFOTBEclc3OVhqZk94eUIxbUpJOVhHVVRrYUJVeHp3OWpTTHJObHJWb2JLT2lERnE0dVQ5bjNicERqT2V6dVNaXzViS25FTnl4SWNVZU0?oc=5"
     },
@@ -3145,7 +2960,6 @@
      "evidence": "announced",
      "risk": "medium",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Increases competition in SMB AI receptionists.",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMHFyZXppZUI5M1ljYmdYb2p6eDZtZzBBLXVnSDNWNEdWVV93NFBoVVVaOXZPUHBKN1Q2U2lyelBJc1VQam90UzhxSlBNWnkxdFNzWDVEWGREMXNqdm51SHZGR1hxRnI0Z0lXNzFVVHM5djg1S05adGxYNU9XeU5IR1FSQ25RMUw5UXZUOXZodjJ4alFnQUZta0FJd1NKaU9HREQwN3dYbEM4eGNrUXg2eWpHTWZKXzFtc3c?oc=5"
     },
@@ -3161,7 +2975,6 @@
      "evidence": "announced",
      "risk": "medium",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Directly targets healthcare practices, overlapping with Weave's market.",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTXhnemg5a2RTMkpheFZMQmZxS2FON1FvcS1BQVFjSUdfSFpXU2JYOEVhdXZXN0tEX0xVc2xwbUxoY0Ewc2lSNk1yLUcxVjZVQXVSLWl1SDA2X3NRVEhoaFM5dDJxaWxMSGdUYXBicE5GSkEyUkdoa0ozd1ZQVHpETzFvMndWSVd5LUFHWWJPNXd6a1pOZ0xyZktoT2FxX21sam1OLWpxZVljdEhITklsNkZRNkdHV3ZockFWejBTb0NWVFdVamtfa2pR?oc=5"
     },
@@ -3177,7 +2990,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Shows telecom providers entering the AI receptionist space.",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMkdINFpEOTBTOHBoSUZMM21xQVN1M24wbkpkNnozVmR4dlJ4ZmtuQzRVYzdUdkxPUTFxeDJ3MFRjcWRpbWFQYkdLaHZ0b3dhYk1IRzMxWUZVbHJhTFVrMDdDZ2diZS05SHVsWjFrWlNXMm1LSmNFakQydEtkUExWbmdxWnp5VU5lMUotbF81ME1LRTB2OFJnTHZ3?oc=5"
     },
@@ -3193,7 +3005,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Everyman",
      "why": "Highlights market competition for dental AI receptionists.",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0YWt0Y0NHUjc3bUxCMG15UnZOZmZld0VZaFdaSU5GMGlkQ3JQNlpEdzA1ZFF2TnlFcE1MTWw1akI4Ykd6OVJEblFVaF9XaDhMRTUzeFNjeFVhcnRI?oc=5"
     },
@@ -3209,7 +3020,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Broadening competition in automated phone agents.",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2N3VGZ0V0xWVllGN2lvWS1VQlgxdDJDMHJMR0ZNOVBTSmxjYnRPTVFXeVRSTm1HTVVTMnNYLUdKZkRWNzh6a2MwYVoyYlNUYU94Z0V4YXg1bk5aYzJ0ZmNTUkNEaXRzSVBEaFgzWW56dUZyemFnT3lLSlhoWHNub3UzcXBhV241UEdhV01vMUNSNEg1X1pIN0doSF9KSXhUQ2k4?oc=5"
     },
@@ -3225,7 +3035,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Demonstrates strong SMB adoption of AI receptionists, validating automated booking use cases.",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQckFPcnQ4Z0ZwRnBBYkdveXgyMEVZOE5nWHZmcE9KbURUUjRyWXE0YXgwby03MFN1ZnU5NFoxNlcza05ST1VyNENZakZhUzNPclBQVmRuVTRlTnJSaElvTUlFT2o0U1lXVE1pRm9aUmpHSFJ4dHNUQi10T1Juc0VqVHRYbGJzcGUzNXVHSTZVYzVhWmljcDR0S0UzQUtRRlI0ck04SkNFY2hXd0hVSFZLXzlUY203QmZiOGlxdXdSM3IwM0ZaZmpCSDZaVQ?oc=5"
     },
@@ -3241,7 +3050,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Caregiver",
      "why": "Highlights patient resistance to AI receptionists, which Weave must navigate carefully.",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSTM4Q1B4bjBVd2RsQWNIM0p2VmV5MHNyX0JQdm5HV182SEF0anM5RU4xU1RCdmp2bFctVFhSQmVHUHh1MnFZRWYzejNOOE5TUGU2X0RfV2dWQjdCSXk3UGtKcmNJa1NEeG1jYmxXaGVxN2tpTVJSMlJ5RTFPYkw4MHB5bUhkSl85azBVS3k3NTJxa2Vl?oc=5"
     },
@@ -3257,7 +3065,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Expands competitive pressure in SMB AI receptionists.",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPME91QlR5Mk5NN21PSlotU3JxdGhZNDAtb3FlanFrWG52dWxTd1hLU3hpckxpcjFqeW1hNXhCWkpFY3hOWTJDSWhHelBPSV9wcnNrcVkzeGphWVdPb01KaFJaX0l4N2s3Y3F3Q1dXVWpHeFRsR3ZEY2hfTkN6UDNCR1J0cXNUdGNWN3VqclhaZU5TM3Q1TkdjQjZVQ0F2LTZaaDJLcjNiWWhXSGVUVGhxeG9GTVBYQ3o3NmtvMjc2dW96Y3FlOTN6eDBtcTRfQkJQUDgwQVpFQ3I2QWloOWZwUC13?oc=5"
     },
@@ -3273,7 +3080,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Shows rising investment and capability in business AI agents.",
      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
     },
@@ -3289,7 +3095,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": null,
      "why": "SMB communication automation is increasingly crowded.",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVzZ0VGRzRllqQXB3NTZzc0ZVVWxUMDVxUHozeGdjZGVPeDNGSWdHSVZSM1pKWjlheHpHdWc4c2JoWFNxQjltb3dNTTRUMkZabzRrM2draWtNMUpYSjBvVWVmaC12TXNGUVRvNDlQWm43c185c2dEazI4TkdSWjJLUXZadHNDaGIydVpDZklVWk56OGlxazh3M1pZbmZRbVFvWTIzRXQwM254U3JsNzJBQ3BOSGJYWEE?oc=5"
     },
@@ -3305,7 +3110,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "New funding for vertical AI front desk competitors.",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNlZ4RllsNUI1cFlrTGRJVnJaOTkwSDhZRTdXdzRJX21qYkZfOU9LRDBUUHpIaWQ2eXN1amhTOXh2WEdSY0NieHk5Q0I4cWd4OWtCV3NheHhEMXVmRGpsbEJlRXhCQzZwZHZZQkNvUWc0UElvSDJ5WmdJLUM1eGNXV19keTFnaGVMOEtRQVZ3?oc=5"
     },
@@ -3321,7 +3125,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "New VC-backed entrant targeting medical front desks.",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQm9Ncy1UQUFFUTlGUElnZVF2eW9zLUNOLVlENXBaQlNHMTl1OEx3aEZxU1dkd0tleDhPS3NnMXhyM1BXOXhyM1ZGOGhGbTRPbXlQVF9CMjFfaVpuWGVvekF2Tm9vQUNqUVRwajdEZC1YeXZ2cl9CaXZ5YWJNUkVpblkwYm1TLWJabFhjbGdtaUFramJEc09vbkpnRXBSQXNreHlfbmJCNXFpX2wxMUE?oc=5"
     },
@@ -3337,7 +3140,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Represents growing competition in AI front desk automation for SMBs.",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeTJtbjlacFBfTGNfR09vQm9KaEpvWTJXeTBzYlF5X3lvQmQwMHFEajdyYkdiZzVXX2hCbzlpU1oxNDZOMDBqVk9zUjZ3QV9GNGxJV05KcXZIZzNZclF6Mk5EbndlY2VQa3dGSTQ1YVVuMXZSUU1Uc0ptMGQ1XzJ1QU56TjF3dmRVdlNpVFY5MGE4MEVPVzgySXRvOC12R3VPdkN2TG85cnJoenZPNnNYVGtCRW1HTjlTVWdTNk85LUVzYmItVEJQTWpCMmpCUkZ3M1phMHVETkp0aXNqbGNaOXVSZ0lpNnRlclBV?oc=5"
     },
@@ -3353,7 +3155,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Validates SMB demand for AI call handling, a feature competitive to Weave's offerings.",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DMVdpNDM4Q21zdVAyUmdMeXBLbGJBb1FDOUNjYXdlR1VIakdtNzBkdm1YR2xvamtZZjlGSVRsdzc3WGJ5aVd5MVlWdnIxMTJhNWRyT2FBM083LWJUMm9EcW1KQlM1Tk9vWFE1Nl9MeW5FeFFrMDUxcUszbElKdw?oc=5"
     },
@@ -3369,7 +3170,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Funding activity shows capital flowing into AI receptionist competitors.",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFUG9oaVJEQ2dqX1F1YkNWNExjeURXRUE2SWR2OG8tTGFKSE5vQlpWUnBmSUV3R0d0NldjWDNjUXlqdDNjUnJMMTBUQ1Znc1lkTWtOVUc0R01ZaGdDMkN1VWJmdHVqdndrbHU3TnVzQkcwNEpoa0NBcA?oc=5"
     },
@@ -3385,7 +3185,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Enhances competing receptionist capabilities.",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNck5XNFB2ajFteXdmTUhyY3NiQVc4SVBIOFVOSzhrZ3RfaEE1WDZJVEVTOG9YcHdlWEl4Yk5VZVladWxXSDJFZ3NnNV9ieDJZTGx1SnJJUXR2RkZlUG9yaHFQdHFXVENUSEpiOXRiVm1VSTVlQmdqN1ExOElCZUNJUG4tWkpwcHYyRDJMN1hRSGdwRG1uVDJ6TDFFOG44VnNoOFI1dlc3dFRGUG5jVW9hdTBNTGI0NDFuOVZfREx5UXRsYzhDd01VU0I1dw?oc=5"
     },
@@ -3401,7 +3200,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Shifting buyer behavior requires Weave to adapt its platform for AI interactions.",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZG53TThGaFdFbkFQQ21CNm9HNVd4VlBnMWkxS2RUdDBVUVVqLTVHQV90VEYyVVo2U1pVeEh5b2laaV9JRkxkT050emZZcVFSM0FhSUdjcWJHcVhOX0xmSnFBczlnVlUwQ0c2b0hGR2N4TUVhX3YxUWxzWGxwY0labElR?oc=5"
     },
@@ -3417,7 +3215,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Demonstrates market demand for AI receptionist tools, validating Weave's core product strategy.",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLWVJZXhDWS02c1dycGM0NGU5ZXlhOEliVmNOaXN1S1FmWTNXcldpc0o2LUFOVjY0TVNjOUFRQWdKY0V4TVdNXzM3WjJzWkRXZmFrdUNRbGo2bzN0d1RBQ3ZPNi1kTnMyMV9ibWRmRUhSLU5FM2x1eVJwRWpucUlGOW1fM09BcXlGQ21ENHJ5SnZfRWc2QVJSZXdvQm40M0dwbUhKUXBKZXFHcFA3aFFoOGJRRGV0Vk1JSlVTaURzVi1zcmc?oc=5"
     },
@@ -3433,7 +3230,6 @@
      "evidence": "announced",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Competitors and adjacent platforms expanding AI receptionist features.",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY0hITjh0ZjY1S3RCM3dpYnBkZkVPMERPT0Yzbjk4WXNYN3ZKWFBhcU96OU9QcHhydjc4QkxTTDJ2OG96UjVxbngyM3hIb2VobE1vaFVTUTNKV3d1aWJ5aWRsVGZCeWJOV0p2UEtiMFVoMGlPelVUSXI3Sk15YWROa0lYU0w0THFoRFRkaVdHVFlZSW1veWRzQ1AwQ3IwQVBRQUE?oc=5"
     },
@@ -3449,7 +3245,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "medium",
-     "archetype": "Creator",
      "why": "Highlights growing market adoption of AI receptionists for SMBs.",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaldicm1ObnhfbkFUTE9la0pyNG9KY014UExXajZNQ1lhY3o5Mi04d2NPN3hQU1RjRTREU2Q3MFJSS3pMNl84X3V3RmVTaDdKdkFJQ2stWHBjVzBoQ3hmc1lnSEpURFpVYjNtV1h1SGxkaTZuY050b3p5MUhfQnZVejlLcXZjU1d5dHB5M19oUHROVy1pSi16QkJVNkFZWW9TY1Q3U0JnZnI2Tko3Vlo2LVJSdGo?oc=5"
     },
@@ -3465,7 +3260,6 @@
      "evidence": "reported",
      "risk": "low",
      "opportunity": "low",
-     "archetype": null,
      "why": "Consumer skepticism around personal AI agents.",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT0FWM1Z0Y2NjMXBGdjhVVVl1YXNQRkhzWUhqSE5IVG9iMnNzMnRtd2FvSzFKUnRkWkpXUjVRaDJGb2pfREIwTVRKTVZ1QXQ5eTR4TURtbWgyc05TUnhGX2ljLXQtQWFxcGFIVzVkaWhRNTVXVUNCbUxtclZIeWJoOHBCQ3NVS0JzM0RDNXpfbk0wMmpqcVRTaVE1WWRqOU1kbGNN?oc=5"
     },
@@ -3481,7 +3275,6 @@
      "evidence": "announced",
      "risk": "none",
      "opportunity": "medium",
-     "archetype": "Magician",
      "why": "Interactive AI interfaces can inspire better customer communication tools for Weave.",
      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
     }
@@ -3496,35 +3289,41 @@
    ]
   },
   "brief": {
-   "headline": "AI receptionist market expands rapidly despite healthcare patient backlash and privacy concerns",
-   "summary": "Major telecom and tech providers are launching AI front desk tools for SMBs and medical practices. While adoption is high in hospitality, some healthcare providers are abandoning these tools due to patient frustration and privacy blunders.",
+   "headline": "AI receptionist market expands rapidly despite patient backlash in healthcare settings",
+   "summary": "The market for AI-driven front desk solutions is surging with new entries from telecom providers and specialized medical startups. While hospitality sees high adoption, some healthcare practices are abandoning AI receptionists due to patient frustration and privacy concerns.",
    "sections": [
     {
      "title": "What happened",
      "claims": [
       {
-       "text": "BT Business, Yellow Pages, and Numa launched AI receptionist services for SMBs and medical practices featuring precision routing and automated call handling.",
+       "text": "BT Business, Yellow Pages, and Numa launched AI receptionist services for SMBs and precision call routing.",
        "cite": [
         "GL-0df0c5f5",
         "GL-736540f6",
-        "GL-1662bd60",
-        "GL-f1d34e3d"
-       ],
-       "verdict": "partial"
-      },
-      {
-       "text": "Funding for AI front desk startups is active, with Medow Health raising a $2.5M seed and Fulltime AI securing $1M to scale across home services.",
-       "cite": [
-        "GL-4ce500bd",
-        "GL-98e70ed8"
+        "GL-1662bd60"
        ],
        "verdict": "supported"
       },
       {
-       "text": "New capabilities include booking Calendly appointments during live calls and interactive UI updates for AI agents that include charts and buttons.",
+       "text": "Medical-specific AI agents were introduced by Vosita and AxisCare, while Medow Health raised up to AUD $3.5 million for specialist clinic front desks.",
        "cite": [
-        "GL-aa6977d7",
-        "GL-75bc8cc1"
+        "GL-f1d34e3d",
+        "GL-f62ba0f7",
+        "GL-dcc481b2"
+       ],
+       "verdict": "supported"
+      },
+      {
+       "text": "800.com integrated Calendly appointment booking into its AI receptionist during live calls.",
+       "cite": [
+        "GL-aa6977d7"
+       ],
+       "verdict": "supported"
+      },
+      {
+       "text": "Flae Robotics reported over 3,400 autonomous hotel bookings via its AI receptionist over the summer.",
+       "cite": [
+        "GL-95a62d85"
        ],
        "verdict": "supported"
       }
@@ -3534,14 +3333,7 @@
      "title": "How the brand is perceived",
      "claims": [
       {
-       "text": "AI receptionists are viewed as effective for high-volume booking, with one hotel bot completing over 3,400 autonomous bookings over the summer.",
-       "cite": [
-        "GL-95a62d85"
-       ],
-       "verdict": "supported"
-      },
-      {
-       "text": "In healthcare, perception is mixed; some GP practices dropped AI receptionists after patients found them 'incredibly frustrating.'",
+       "text": "Patients at some GP practices described AI receptionists as 'incredibly frustrating,' leading clinics to ditch the technology.",
        "cite": [
         "GL-0c0e8c63",
         "GL-a28960a4"
@@ -3549,7 +3341,15 @@
        "verdict": "supported"
       },
       {
-       "text": "Early users are showing skepticism toward personal AI agents, deleting them due to privacy scares and functional blunders.",
+       "text": "AI agents are marketed as a 'front desk that never sleeps' to ensure businesses never miss a patient call.",
+       "cite": [
+        "GL-f1d34e3d",
+        "GL-23a1a6f2"
+       ],
+       "verdict": "supported"
+      },
+      {
+       "text": "Early users are deleting personal AI agents due to privacy scares and technical blunders.",
        "cite": [
         "GL-2928fda5"
        ],
@@ -3561,25 +3361,24 @@
      "title": "Risks to watch",
      "claims": [
       {
-       "text": "Established telecom providers like BT Business are entering the SMB market with AI call-handling services, increasing competitive pressure.",
+       "text": "Established telecom providers like BT Business are aggressively entering the SMB AI receptionist space.",
        "cite": [
-        "GL-7d8cc076",
+        "GL-36ad4893",
         "GL-fa717033"
        ],
-       "verdict": "partial"
+       "verdict": "supported"
       },
       {
-       "text": "Patient resistance in medical settings remains a risk, as evidenced by surgeries reverting to human staff after complaints.",
+       "text": "Patient resistance and complaints in healthcare settings pose a high risk to the adoption of automated phone systems.",
        "cite": [
         "GL-a28960a4"
        ],
-       "verdict": "partial"
+       "verdict": "supported"
       },
       {
-       "text": "Competitors are targeting specific niches like home care and specialist clinics with tailored AI front desk platforms.",
+       "text": "Consumer skepticism regarding data privacy is leading to the abandonment of AI agent tools.",
        "cite": [
-        "GL-f62ba0f7",
-        "GL-4ce500bd"
+        "GL-2928fda5"
        ],
        "verdict": "supported"
       }
@@ -3589,53 +3388,52 @@
      "title": "Openings for Weave",
      "claims": [
       {
-       "text": "There is a high-opportunity opening for reliable healthcare AI that avoids the frustrating user experience of current market failures.",
+       "text": "There is a high opportunity to provide reliable healthcare AI that avoids the 'frustrating' experiences causing current market backlash.",
        "cite": [
         "GL-0c0e8c63"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Integrating automated appointment booking into live calls is a validated demand, as seen in new features from 800.com.",
+       "text": "The success of 3,400+ autonomous bookings in hospitality validates the demand for automated scheduling in SMB workflows.",
        "cite": [
-        "GL-aa6977d7"
+        "GL-95a62d85"
        ],
        "verdict": "supported"
       },
       {
-       "text": "The success of 24/7 dental call answering services suggests a strong market for 'never miss a call' positioning.",
+       "text": "Adopting interactive UI elements like charts and buttons in AI responses could improve the customer communication experience.",
        "cite": [
-        "GL-23a1a6f2"
+        "GL-75bc8cc1"
        ],
-       "verdict": "partial"
+       "verdict": "supported"
       }
      ]
     }
    ],
    "actions": [
     {
-     "action": "Audit current call routing and AI interaction flows.",
-     "why": "Ensuring Weave does not mirror the 'frustrating' experiences reported by GP patients will prevent customer churn.",
+     "action": "Audit current AI call-handling for friction points.",
+     "why": "Negative patient feedback has already led some healthcare practices to abandon AI receptionists entirely.",
      "cite": [
-      "GL-0c0e8c63"
+      "GL-0c0e8c63",
+      "GL-a28960a4"
      ],
      "verdict": "supported"
     },
     {
-     "action": "Evaluate the integration of live-call appointment booking.",
-     "why": "This feature is being adopted by competitors to turn inquiries into immediate opportunities.",
+     "action": "Evaluate direct calendar integration for live AI calls.",
+     "why": "Competitors like 800.com are now booking appointments during live calls using tools like Calendly.",
      "cite": [
-      "GL-aa6977d7",
-      "GL-736540f6"
+      "GL-aa6977d7"
      ],
      "verdict": "supported"
     },
     {
-     "action": "Monitor the rollout of BT Business's AI receptionist.",
-     "why": "Large telecom entrants validate the SMB demand but may have feature gaps Weave can exploit.",
+     "action": "Review and harden data privacy safeguards for AI agents.",
+     "why": "Privacy scares are a primary reason early users are deleting AI agent applications.",
      "cite": [
-      "GL-0df0c5f5",
-      "GL-7d8cc076"
+      "GL-2928fda5"
      ],
      "verdict": "supported"
     }
@@ -3643,13 +3441,13 @@
    "archetype_read": null
   },
   "fact_check": {
-   "checker": "gemini-3.5-flash",
+   "checker": "gemini-3.1-flash-lite",
    "check_error": null,
    "status": "verified",
-   "groundedness": 0.867,
-   "claims_total": 15,
-   "supported": 11,
-   "partial": 4,
+   "groundedness": 1.0,
+   "claims_total": 16,
+   "supported": 16,
+   "partial": 0,
    "unsupported": 0,
    "unverified": 0,
    "fabricated_citations": 0,
@@ -3657,196 +3455,206 @@
     {
      "where": "s0.0",
      "section": "What happened",
-     "text": "BT Business, Yellow Pages, and Numa launched AI receptionist services for SMBs and medical practices featuring precision routing and automated call handling.",
+     "text": "BT Business, Yellow Pages, and Numa launched AI receptionist services for SMBs and precision call routing.",
      "cite": [
       "GL-0df0c5f5",
       "GL-736540f6",
-      "GL-1662bd60",
-      "GL-f1d34e3d"
+      "GL-1662bd60"
      ],
      "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "Vosita launched for medical practices; attributing this segment to BT, Yellow Pages, and Numa is inaccurate.",
-     "checked_by": "gemini-3.5-flash"
+     "verdict": "supported",
+     "reason": "The cited records confirm these three companies launched AI receptionist services for SMBs.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s0.1",
      "section": "What happened",
-     "text": "Funding for AI front desk startups is active, with Medow Health raising a $2.5M seed and Fulltime AI securing $1M to scale across home services.",
+     "text": "Medical-specific AI agents were introduced by Vosita and AxisCare, while Medow Health raised up to AUD $3.5 million for specialist clinic front desks.",
      "cite": [
-      "GL-4ce500bd",
-      "GL-98e70ed8"
+      "GL-f1d34e3d",
+      "GL-f62ba0f7",
+      "GL-dcc481b2"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited records support both Medow Health and Fulltime AI funding amounts and targets.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The records confirm Vosita and AxisCare's product launches and Medow Health's funding round.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s0.2",
      "section": "What happened",
-     "text": "New capabilities include booking Calendly appointments during live calls and interactive UI updates for AI agents that include charts and buttons.",
+     "text": "800.com integrated Calendly appointment booking into its AI receptionist during live calls.",
      "cite": [
-      "GL-aa6977d7",
-      "GL-75bc8cc1"
+      "GL-aa6977d7"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited sources confirm 800.com Calendly booking and ChatGPT interactive UI updates.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The record directly states 800.com integrated Calendly for live call appointment booking.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
-     "where": "s1.0",
-     "section": "How the brand is perceived",
-     "text": "AI receptionists are viewed as effective for high-volume booking, with one hotel bot completing over 3,400 autonomous bookings over the summer.",
+     "where": "s0.3",
+     "section": "What happened",
+     "text": "Flae Robotics reported over 3,400 autonomous hotel bookings via its AI receptionist over the summer.",
      "cite": [
       "GL-95a62d85"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited record confirms Flae Robotics hotel bot completed over 3,400 bookings over summer.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The record explicitly reports over 3,400 autonomous hotel bookings by Flae Robotics' AI.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
-     "where": "s1.1",
+     "where": "s1.0",
      "section": "How the brand is perceived",
-     "text": "In healthcare, perception is mixed; some GP practices dropped AI receptionists after patients found them 'incredibly frustrating.'",
+     "text": "Patients at some GP practices described AI receptionists as 'incredibly frustrating,' leading clinics to ditch the technology.",
      "cite": [
       "GL-0c0e8c63",
       "GL-a28960a4"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited sources confirm GP practices dropped AI receptionists due to patient complaints and frustration.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The records confirm GP practices dropped AI receptionists due to patient complaints and frustration.",
+     "checked_by": "gemini-3.1-flash-lite"
+    },
+    {
+     "where": "s1.1",
+     "section": "How the brand is perceived",
+     "text": "AI agents are marketed as a 'front desk that never sleeps' to ensure businesses never miss a patient call.",
+     "cite": [
+      "GL-f1d34e3d",
+      "GL-23a1a6f2"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "The records confirm the 'front desk that never sleeps' marketing language for these services.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s1.2",
      "section": "How the brand is perceived",
-     "text": "Early users are showing skepticism toward personal AI agents, deleting them due to privacy scares and functional blunders.",
+     "text": "Early users are deleting personal AI agents due to privacy scares and technical blunders.",
      "cite": [
       "GL-2928fda5"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited record confirms users are deleting personal AI agents due to privacy scares and blunders.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The record confirms early users are deleting AI agents due to privacy and technical issues.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s2.0",
      "section": "Risks to watch",
-     "text": "Established telecom providers like BT Business are entering the SMB market with AI call-handling services, increasing competitive pressure.",
+     "text": "Established telecom providers like BT Business are aggressively entering the SMB AI receptionist space.",
      "cite": [
-      "GL-7d8cc076",
+      "GL-36ad4893",
       "GL-fa717033"
      ],
      "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "BT's rollout is supported, but increasing competitive pressure is not mentioned in cited records.",
-     "checked_by": "gemini-3.5-flash"
+     "verdict": "supported",
+     "reason": "The records confirm BT Business is actively marketing AI receptionist services to businesses.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s2.1",
      "section": "Risks to watch",
-     "text": "Patient resistance in medical settings remains a risk, as evidenced by surgeries reverting to human staff after complaints.",
+     "text": "Patient resistance and complaints in healthcare settings pose a high risk to the adoption of automated phone systems.",
      "cite": [
       "GL-a28960a4"
      ],
      "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "Records confirm surgery ditched AI receptionist, but do not state they reverted to human staff.",
-     "checked_by": "gemini-3.5-flash"
+     "verdict": "supported",
+     "reason": "The record confirms patient complaints led to the removal of an AI system in a GP surgery.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s2.2",
      "section": "Risks to watch",
-     "text": "Competitors are targeting specific niches like home care and specialist clinics with tailored AI front desk platforms.",
+     "text": "Consumer skepticism regarding data privacy is leading to the abandonment of AI agent tools.",
      "cite": [
-      "GL-f62ba0f7",
-      "GL-4ce500bd"
+      "GL-2928fda5"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited records confirm tailored platforms for home care (AxisCare) and specialist clinics (Medow Health).",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The record confirms consumer skepticism regarding privacy is driving the abandonment of AI agent tools.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s3.0",
      "section": "Openings for Weave",
-     "text": "There is a high-opportunity opening for reliable healthcare AI that avoids the frustrating user experience of current market failures.",
+     "text": "There is a high opportunity to provide reliable healthcare AI that avoids the 'frustrating' experiences causing current market backlash.",
      "cite": [
       "GL-0c0e8c63"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Supported opportunity statement responding to documented failure of frustrating GP AI receptionist.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The record confirms the existence of 'frustrating' experiences, supporting the opportunity for better alternatives.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "s3.1",
      "section": "Openings for Weave",
-     "text": "Integrating automated appointment booking into live calls is a validated demand, as seen in new features from 800.com.",
+     "text": "The success of 3,400+ autonomous bookings in hospitality validates the demand for automated scheduling in SMB workflows.",
+     "cite": [
+      "GL-95a62d85"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "The record links the 3,400 bookings to a surge in AI receptionist use in SMB workflows.",
+     "checked_by": "gemini-3.1-flash-lite"
+    },
+    {
+     "where": "s3.2",
+     "section": "Openings for Weave",
+     "text": "Adopting interactive UI elements like charts and buttons in AI responses could improve the customer communication experience.",
+     "cite": [
+      "GL-75bc8cc1"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "The record confirms the launch of an 'Intelligent UI' featuring interactive charts and buttons.",
+     "checked_by": "gemini-3.1-flash-lite"
+    },
+    {
+     "where": "a0",
+     "section": "Actions",
+     "text": "Audit current AI call-handling for friction points. - Negative patient feedback has already led some healthcare practices to abandon AI receptionists entirely.",
+     "cite": [
+      "GL-0c0e8c63",
+      "GL-a28960a4"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "The records confirm negative feedback caused healthcare practices to abandon AI receptionists.",
+     "checked_by": "gemini-3.1-flash-lite"
+    },
+    {
+     "where": "a1",
+     "section": "Actions",
+     "text": "Evaluate direct calendar integration for live AI calls. - Competitors like 800.com are now booking appointments during live calls using tools like Calendly.",
      "cite": [
       "GL-aa6977d7"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited record supports 800.com integrating live-call Calendly appointment booking.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s3.2",
-     "section": "Openings for Weave",
-     "text": "The success of 24/7 dental call answering services suggests a strong market for 'never miss a call' positioning.",
-     "cite": [
-      "GL-23a1a6f2"
-     ],
-     "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "Record shows a service marketed to dentists, but does not state or prove its overall success.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "a0",
-     "section": "Actions",
-     "text": "Audit current call routing and AI interaction flows. - Ensuring Weave does not mirror the 'frustrating' experiences reported by GP patients will prevent customer churn.",
-     "cite": [
-      "GL-0c0e8c63"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Supported recommendation responding to documented patient frustration with GP AI receptionists.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "a1",
-     "section": "Actions",
-     "text": "Evaluate the integration of live-call appointment booking. - This feature is being adopted by competitors to turn inquiries into immediate opportunities.",
-     "cite": [
-      "GL-aa6977d7",
-      "GL-736540f6"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Supported recommendation responding to live-call appointment booking features launched by competitors.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The record confirms 800.com's capability to book appointments during live calls via Calendly.",
+     "checked_by": "gemini-3.1-flash-lite"
     },
     {
      "where": "a2",
      "section": "Actions",
-     "text": "Monitor the rollout of BT Business's AI receptionist. - Large telecom entrants validate the SMB demand but may have feature gaps Weave can exploit.",
+     "text": "Review and harden data privacy safeguards for AI agents. - Privacy scares are a primary reason early users are deleting AI agent applications.",
      "cite": [
-      "GL-0df0c5f5",
-      "GL-7d8cc076"
+      "GL-2928fda5"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Supported recommendation responding to BT Business entering the AI receptionist market.",
-     "checked_by": "gemini-3.5-flash"
+     "reason": "The record confirms privacy concerns are a primary driver for users deleting AI agent applications.",
+     "checked_by": "gemini-3.1-flash-lite"
     }
    ]
   },
   "written_by": "gemini-3-flash-preview",
-  "created_at": "2026-10-24T00:34:14+00:00"
+  "created_at": "2026-10-24T00:43:32+00:00"
  }
 }
