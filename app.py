@@ -49,7 +49,8 @@ def saved_briefs():
 
 
 @st.cache_resource
-def fresh_briefs():
+def fresh_briefs(prompt_version="post-test-2"):
+    """Briefs written this session. Bump prompt_version when the prompts change, so old briefs aren't reused."""
     return {}
 
 
