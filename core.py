@@ -131,7 +131,6 @@ def stats_for(recs):
         "evidence": dict(Counter(r["evidence"] for r in recs if r["evidence"])),
         "risks_high_or_medium": sum(LVL.get(r["risk_to_weave"], 0) >= 2 for r in recs),
         "opportunities_high_or_medium": sum(LVL.get(r["opportunity_for_weave"], 0) >= 2 for r in recs),
-        "archetypes": dict(Counter(r["archetype"] for r in recs if r["archetype"]).most_common(3)),
     }
 
 
@@ -149,7 +148,7 @@ def evidence_pack(recs, n, today):
         "id": r["record_id"], "date": r["published_date"], "source": r["source_name"], "title": r["title"],
         "key_fact": r["key_fact"], "entity": r["entity"], "sentiment": r["sentiment"], "theme": r["theme"],
         "evidence": r["evidence"], "risk": r["risk_to_weave"], "opportunity": r["opportunity_for_weave"],
-        "archetype": r["archetype"], "why": r["why"], "url": r["discussion_url"] or r["url"],
+        "why": r["why"], "url": r["discussion_url"] or r["url"],
     } for r in ranked]
 
 

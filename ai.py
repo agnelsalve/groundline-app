@@ -101,6 +101,7 @@ HARD RULES
 2. Every claim must cite at least one evidence id in "cite" (e.g. ["GL-1a2b3c4d"]). Only cite ids that appear in EVIDENCE.
 3. Numbers (counts, averages, shares) may come ONLY from STATS - copy them exactly.
 4. If the evidence is thin, say so plainly instead of stretching it.
+5. Describe how the brand is perceived in the sources' own words. Do not use brand-archetype labels (Ruler, Hero, Creator, ...).
 
 Return JSON:
 {"headline": "<=14 words, the single most important takeaway",
