@@ -4,9 +4,12 @@ Run locally:  streamlit run app.py
 """
 import datetime as dt
 import logging
+import pathlib
 import re
+from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 import streamlit as st
+from fpdf import FPDF
 
 import ai
 import core
@@ -70,8 +73,6 @@ def render_brief(result):
     # Number sources in the order the brief first cites them.
     order = []
     claims_seen = [c for s in brief.get("sections", []) for c in s["claims"]] + list(brief.get("actions", []))
-    if brief.get("archetype_read"):
-        claims_seen.append(brief["archetype_read"])
     for c in claims_seen:
         for i in c.get("cite", []):
             if i in ev and i not in order:
@@ -85,9 +86,14 @@ def render_brief(result):
         return " " + VERDICT_MARK.get(c.get("verdict"), "") if result["mode"] != "rules" else ""
 
     if result["mode"] == "saved":
-        when = result.get("created_at", "")[:10]
+        try:
+            when = dt.datetime.fromisoformat(result["created_at"]).astimezone(ZoneInfo("America/New_York"))
+        except (KeyError, ValueError, ZoneInfoNotFoundError):
+            when = None
+        saved = f"{when:%B %d, %Y}" if when else "earlier"
         why = ("The AI is busy right now, so you're seeing" if result.get("note") else "This is")
-        st.info(f"🗂️ **Showing the saved brief from {when}.** {why} the last brief Groundline wrote and fact-checked "
+        st.info(f"🗂️ **Showing a saved brief, written {saved}** from articles published up to "
+                f"{dt.date.fromisoformat(req['end']):%B %d, %Y}. {why} the last brief Groundline wrote and fact-checked "
                 "for these exact settings. Turn on *Write a fresh brief with AI* for a new one.")
     elif result["mode"] == "rules":
         why = ("The AI writer is busy right now and" if result.get("note") else "AI writing is turned off and")
@@ -112,11 +118,6 @@ def render_brief(result):
     for s in brief.get("sections", []):
         st.markdown(f"#### {md(s['title'])}")
         st.markdown("\n".join(f"- {md(c['text'])} {cites(c)}{mark(c)}" for c in s["claims"]))
-
-    ar = brief.get("archetype_read")
-    if ar:
-        st.markdown("#### Brand personality in the coverage")
-        st.markdown(f"{md(ar['text'])} {cites(ar)}{mark(ar)}")
 
     if brief.get("actions"):
         st.markdown("#### What to do next")
@@ -152,8 +153,69 @@ def render_brief(result):
             f"- **Risks rated medium or high:** {st_['risks_high_or_medium']}; **openings rated medium or high:** {st_['opportunities_high_or_medium']}\n\n"
             "Every number here is counted by code from the source data before the AI starts writing, so the AI cannot make up a statistic.")
 
-    st.download_button("⬇️ Download this brief", to_markdown(result, order, num), width="stretch",
-                       file_name=f"groundline_{req['subject'].lower()}_{req['end']}.md", mime="text/markdown")
+    name = f"groundline_{req['subject'].lower()}_{req['end']}"
+    d1, d2 = st.columns([2, 1])
+    d1.download_button("⬇️ Download as PDF", to_pdf(result, order, num), width="stretch", type="primary",
+                       file_name=f"{name}.pdf", mime="application/pdf",
+                       help="A printable copy with the trust score, every claim and its numbered sources.")
+    d2.download_button("Markdown", to_markdown(result, order, num), width="stretch",
+                       file_name=f"{name}.md", mime="text/markdown", help="Plain text, for pasting into a doc or wiki.")
+
+
+FONTS = pathlib.Path(__file__).parent / "fonts"
+
+
+def to_pdf(result, order, num):
+    """A one-file printable copy of the brief, with its sources (testers needed something to hand on)."""
+    req, brief, fc = result["request"], result["brief"], result["fact_check"]
+    ev = {e["id"]: e for e in req["evidence"]}
+    ref = lambda c: "".join(f" [{num[i]}]" for i in c.get("cite", []) if i in num)
+    g = fc.get("groundedness")
+    status = {"verified": "Verified", "needs_review": "Needs a human look", "failed": "Not safe to share",
+              "ai_offline": "AI unavailable: source list only"}.get(fc.get("status"), "Not fact-checked")
+
+    pdf = FPDF(format="Letter")
+    pdf.set_margins(18, 16, 18)
+    pdf.set_auto_page_break(True, 16)
+    pdf.add_font("DejaVu", "", str(FONTS / "DejaVuSans.ttf"))
+    pdf.add_font("DejaVu", "B", str(FONTS / "DejaVuSans-Bold.ttf"))
+    pdf.add_page()
+    w = pdf.epw
+
+    def para(text, size=10, style="", color=(31, 41, 55), after=2, indent=0):
+        pdf.set_font("DejaVu", style, size)
+        pdf.set_text_color(*color)
+        pdf.set_x(pdf.l_margin + indent)
+        pdf.multi_cell(w - indent, size * 0.5, text, align="L", new_x="LMARGIN", new_y="NEXT")
+        pdf.ln(after)
+
+    para("GROUNDLINE · " + req["title"].upper(), 8, "B", (15, 118, 110), 1)
+    para(f"{req['start']} to {req['end']} · {status} · Trust score {f'{g:.0%}' if g is not None else 'n/a'} · "
+         f"{req['stats']['records']} articles from {req['stats']['sources']} outlets", 8, "", (82, 81, 78), 4)
+    para(brief.get("headline", ""), 16, "B", after=2)
+    para(brief.get("summary", ""), 10, after=4)
+    for s in brief.get("sections", []):
+        para(s["title"], 12, "B", after=1)
+        for c in s["claims"]:
+            flag = " (partly supported)" if c.get("verdict") == "partial" else ""
+            para(f"•  {c['text']}{ref(c)}{flag}", 10, after=1, indent=3)
+        pdf.ln(2)
+    if brief.get("actions"):
+        para("What to do next", 12, "B", after=1)
+        for n, a in enumerate(brief["actions"], 1):
+            para(f"{n}. {a['action']}", 10, "B", after=0, indent=3)
+            para(f"{a.get('why', '')}{ref(a)}", 10, after=2, indent=7)
+    para("Sources", 12, "B", after=1)
+    for i in order:
+        para(f"[{num[i]}] {ev[i]['title']} ({ev[i]['source']}, {ev[i]['date']})", 8, after=0, indent=3)
+        pdf.set_font("DejaVu", "", 7)
+        pdf.set_text_color(15, 118, 110)
+        pdf.set_x(pdf.l_margin + 7)
+        pdf.cell(w - 7, 4, "Open the article", link=ev[i]["url"], new_x="LMARGIN", new_y="NEXT")
+        pdf.ln(1)
+    para(f"Written by {result['written_by']}, checked by {fc.get('checker', 'none')}. Every number was counted by code "
+         "before the AI wrote anything. Sentences the checker could not find in their sources were removed.", 7, "", (82, 81, 78), 0)
+    return bytes(pdf.output())
 
 
 def to_markdown(result, order, num):
@@ -165,8 +227,6 @@ def to_markdown(result, order, num):
            f"{f'{g:.0%}' if g is not None else 'n/a'}*", "", brief.get("summary", ""), ""]
     for s in brief.get("sections", []):
         out += [f"## {s['title']}"] + [f"- {c['text']}{ref(c)}" for c in s["claims"]] + [""]
-    if brief.get("archetype_read"):
-        out += ["## Brand personality in the coverage", brief["archetype_read"]["text"] + ref(brief["archetype_read"]), ""]
     if brief.get("actions"):
         out += ["## What to do next"] + [f"{n}. **{a['action']}** {a.get('why', '')}{ref(a)}" for n, a in enumerate(brief["actions"], 1)] + [""]
     out += ["## Sources"] + [f"{num[i]}. {ev[i]['title']} ({ev[i]['source']}, {ev[i]['date']}) {ev[i]['url']}" for i in order]
@@ -186,11 +246,15 @@ def brief_tab():
     recs = records()
     first, last = core.data_window(recs)
     default_start = last - dt.timedelta(days=90)
-    counts = {s: len(core.select(recs, s, first, last, list(core.SOURCE_GROUPS))) for s in core.SUBJECTS}
+    # Count over the default window, so the number here matches "Articles read" on a default brief.
+    counts = {s: len(core.select(recs, s, default_start, last, list(core.SOURCE_GROUPS))) for s in core.SUBJECTS}
 
+    st.caption(f"🗓️ This demo runs on the articles Groundline collected on **{last:%B %d, %Y}**, so no date after that "
+               "can be picked. Groundline is set up for **Weave Communications'** brand and data team; competitors are "
+               "seen from Weave's side.")
     with st.form("brief"):
         subject = st.selectbox("1. Who should the brief be about?", list(core.SUBJECTS),
-                               format_func=lambda s: f"{core.SUBJECTS[s]['label']} · {counts[s]} articles",
+                               format_func=lambda s: f"{core.SUBJECTS[s]['label']} · {counts[s]} articles in the last 90 days",
                                help="Weave is the company this tool reports for. Pick a competitor to see what they're up to.")
         dates = st.date_input("2. Which dates?", value=(default_start, last), min_value=first, max_value=last, format="MM/DD/YYYY",
                               help=f"Articles were last collected on {last:%B %d, %Y}. Click once for the start date and once for the end date.")

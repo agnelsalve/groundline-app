@@ -3,7 +3,7 @@
   "mode": "live",
   "request": {
    "subject": "Weave",
-   "label": "Weave (our company)",
+   "label": "Weave (the company Groundline reports for)",
    "title": "Weave brand brief",
    "min_relevance": 1,
    "focus": "Weave's reputation, brand perception, risks and what the brand team should do next. Compare with competitors where the evidence allows.",
@@ -576,29 +576,64 @@
   },
   "brief": {
    "headline": "Weave to go private in $650M acquisition amid shareholder price investigations",
-   "summary": "Weave Communications has agreed to a $650M buyout by Francisco Partners to transition to a private company. While the acquisition validates Weave's AI healthcare software value, the deal faces multiple legal investigations regarding the fairness of the purchase price.",
+   "summary": "Weave Communications has entered a definitive agreement to be acquired by Francisco Partners for $650 million, shifting the company toward private status. While the deal initially caused a stock surge, it has triggered multiple legal investigations into price adequacy and led analysts to downgrade the stock to a hold rating.",
    "sections": [
     {
      "title": "What happened",
      "claims": [
       {
-       "text": "Francisco Partners agreed to acquire Weave Communications for $650M to take the company private.",
+       "text": "Weave Communications agreed to be acquired by Francisco Partners for $650 million to take the company private.",
        "cite": [
         "GL-df38bbbc",
-        "GL-bded1b74"
+        "GL-1d306159"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Weave reported record location growth in Q2 2026, though a guidance cut caused an initial stock decline before the buyout news.",
+       "text": "The company's activity during this period was dominated by 18 financial and 13 M&A themes across 36 total records.",
+       "cite": [
+        "GL-df38bbbc",
+        "GL-a307f792"
+       ],
+       "verdict": "supported"
+      },
+      {
+       "text": "Weave reported record location growth in Q2 2026, though a modest EPS beat failed to sustain stock momentum.",
        "cite": [
         "GL-b17a0a67",
-        "GL-1b852384"
+        "GL-f9b40999"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Analysts from Raymond James and Loop Capital downgraded Weave to 'Hold' or 'Market Perform' following the acquisition announcement.",
+       "text": "The brand is transitioning its business model toward consumption-based pricing.",
+       "cite": [
+        "GL-35c05d11"
+       ],
+       "verdict": "supported"
+      }
+     ]
+    },
+    {
+     "title": "How the brand is perceived",
+     "claims": [
+      {
+       "text": "The acquisition is viewed as a validation of Weave's AI-powered healthcare software value.",
+       "cite": [
+        "GL-429bbe37"
+       ],
+       "verdict": "supported"
+      },
+      {
+       "text": "Market sentiment is currently averaged at 0.44, with 15 positive and 10 negative records identified.",
+       "cite": [
+        "GL-df38bbbc",
+        "GL-6e17f34a"
+       ],
+       "verdict": "supported"
+      },
+      {
+       "text": "Analysts from Raymond James and Loop Capital have downgraded the brand to Hold or Market Perform following the buyout news.",
        "cite": [
         "GL-40e2d1d8",
         "GL-5779e31b",
@@ -609,54 +644,29 @@
      ]
     },
     {
-     "title": "How the brand is perceived",
-     "claims": [
-      {
-       "text": "The $650M acquisition frames Weave as a leader in AI-powered healthcare software.",
-       "cite": [
-        "GL-429bbe37"
-       ],
-       "verdict": "supported"
-      },
-      {
-       "text": "Financial analysts view the shift to consumption pricing as a strategic buy opportunity for the brand.",
-       "cite": [
-        "GL-35c05d11"
-       ],
-       "verdict": "supported"
-      },
-      {
-       "text": "The brand achieved 'top gainer' status on the NYSE following the announcement of the take-private deal.",
-       "cite": [
-        "GL-960b15ab",
-        "GL-5c9ff875"
-       ],
-       "verdict": "supported"
-      }
-     ]
-    },
-    {
      "title": "Risks to watch",
      "claims": [
       {
-       "text": "Law firms including Halper Sadeh and Ademi LLP are investigating if the $650M acquisition price is fair to shareholders.",
+       "text": "Multiple law firms, including Halper Sadeh LLC and Ademi LLP, are investigating if the $650 million acquisition price is fair to shareholders.",
        "cite": [
         "GL-6e17f34a",
-        "GL-d1464026"
+        "GL-d1464026",
+        "GL-382969be"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Competitor Podium has launched a new AI operating system for home services, increasing product competition.",
+       "text": "There are 8 high or medium risks currently identified, including legal scrutiny and a previous guidance cut that impacted stock performance.",
+       "cite": [
+        "GL-1b852384",
+        "GL-6e17f34a"
+       ],
+       "verdict": "supported"
+      },
+      {
+       "text": "Competitor Podium has launched an AI operating system for home services, increasing product competition.",
        "cite": [
         "GL-586d3724"
-       ],
-       "verdict": "supported"
-      },
-      {
-       "text": "A recent guidance cut negatively impacted stock performance despite the company meeting profit milestones.",
-       "cite": [
-        "GL-1b852384"
        ],
        "verdict": "supported"
       }
@@ -666,7 +676,7 @@
      "title": "Openings for Weave",
      "claims": [
       {
-       "text": "ServiceTitan terminated its integration with Podium, affecting approximately 1,000 shared customers and creating a market gap.",
+       "text": "A partnership breakdown between ServiceTitan and Podium has left approximately 1,000 shared customers without integration.",
        "cite": [
         "GL-632fb91b",
         "GL-0e8c9c4d"
@@ -674,59 +684,51 @@
        "verdict": "supported"
       },
       {
-       "text": "Competitor Podium faced a legal setback after being denied a $2 million tax deduction by the High Court of New Zealand.",
+       "text": "Positive financial analysis suggests the shift to consumption pricing makes the company a buy opportunity.",
        "cite": [
-        "GL-48c4b8cb"
+        "GL-35c05d11"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Birdeye and NexHealth reported ARR figures of $100M and $47.1M respectively, providing benchmarks for Weave's market position.",
+       "text": "Competitor Podium faced a legal setback after the High Court of New Zealand denied a $2 million tax deduction.",
        "cite": [
-        "GL-50bc20dd",
-        "GL-1647f515"
+        "GL-48c4b8cb"
        ],
        "verdict": "supported"
       }
      ]
     }
    ],
-   "archetype_read": {
-    "text": "The coverage casts Weave as a 'Ruler' due to its $650M acquisition and corporate status change, which helps Weave by signaling market dominance and stability during its transition to private ownership.",
-    "cite": [
-     "GL-df38bbbc",
-     "GL-1d306159"
-    ],
-    "verdict": "partial"
-   },
    "actions": [
     {
-     "action": "Target the 1,000 customers displaced by the ServiceTitan and Podium integration split.",
-     "why": "The partnership breakdown between these competitors creates an immediate opportunity to capture shared customers.",
+     "action": "Target the 1,000 customers affected by the ServiceTitan and Podium integration shutdown.",
+     "why": "This breakdown creates a specific opening to capture market share from a primary competitor.",
      "cite": [
-      "GL-632fb91b",
-      "GL-0e8c9c4d"
+      "GL-632fb91b"
      ],
      "verdict": "supported"
     },
     {
-     "action": "Incorporate the $650M valuation into AI-powered healthcare software marketing.",
-     "why": "The acquisition price serves as a high-value validation of Weave's technology and market leadership.",
-     "cite": [
-      "GL-429bbe37"
-     ],
-     "verdict": "supported"
-    },
-    {
-     "action": "Prepare a communications plan to address legal investigations into the acquisition price.",
-     "why": "Multiple law firm probes into the 'fair price' of the buyout could negatively impact public and shareholder trust.",
+     "action": "Develop a communication strategy to address shareholder concerns regarding the acquisition price.",
+     "why": "Multiple legal investigations into the $650M deal pose a high risk to brand reputation and shareholder confidence.",
      "cite": [
       "GL-6e17f34a",
       "GL-382969be"
      ],
      "verdict": "supported"
+    },
+    {
+     "action": "Emphasize the 'Ruler' and 'Creator' archetypes in marketing for AI healthcare software.",
+     "why": "The acquisition validates Weave's AI value and corporate status during the transition to private ownership.",
+     "cite": [
+      "GL-429bbe37",
+      "GL-df38bbbc"
+     ],
+     "verdict": "partial"
     }
-   ]
+   ],
+   "archetype_read": null
   },
   "fact_check": {
    "checker": "gemini-3.5-flash",
@@ -743,33 +745,83 @@
     {
      "where": "s0.0",
      "section": "What happened",
-     "text": "Francisco Partners agreed to acquire Weave Communications for $650M to take the company private.",
+     "text": "Weave Communications agreed to be acquired by Francisco Partners for $650 million to take the company private.",
      "cite": [
       "GL-df38bbbc",
-      "GL-bded1b74"
+      "GL-1d306159"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The cited records support Francisco Partners acquiring Weave for $650M to take it private.",
+     "reason": "Cited records confirm Francisco Partners agreed to acquire Weave Communications for $650 million.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s0.1",
      "section": "What happened",
-     "text": "Weave reported record location growth in Q2 2026, though a guidance cut caused an initial stock decline before the buyout news.",
+     "text": "The company's activity during this period was dominated by 18 financial and 13 M&A themes across 36 total records.",
      "cite": [
-      "GL-b17a0a67",
-      "GL-1b852384"
+      "GL-df38bbbc",
+      "GL-a307f792"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The cited records support record location growth and stock drop following a guidance cut.",
+     "reason": "The claim matches the STATS for financial themes (18), M&A themes (13), and total records (36).",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s0.2",
      "section": "What happened",
-     "text": "Analysts from Raymond James and Loop Capital downgraded Weave to 'Hold' or 'Market Perform' following the acquisition announcement.",
+     "text": "Weave reported record location growth in Q2 2026, though a modest EPS beat failed to sustain stock momentum.",
+     "cite": [
+      "GL-b17a0a67",
+      "GL-f9b40999"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Cited sources confirm record location growth and a modest Q2 2026 EPS beat that failed to spark momentum.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s0.3",
+     "section": "What happened",
+     "text": "The brand is transitioning its business model toward consumption-based pricing.",
+     "cite": [
+      "GL-35c05d11"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Cited source directly supports Weave's shift toward consumption pricing.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s1.0",
+     "section": "How the brand is perceived",
+     "text": "The acquisition is viewed as a validation of Weave's AI-powered healthcare software value.",
+     "cite": [
+      "GL-429bbe37"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Cited record describes the acquisition as a $650M bet on AI-powered healthcare software.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s1.1",
+     "section": "How the brand is perceived",
+     "text": "Market sentiment is currently averaged at 0.44, with 15 positive and 10 negative records identified.",
+     "cite": [
+      "GL-df38bbbc",
+      "GL-6e17f34a"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Average sentiment (0.44), positive records (15), and negative records (10) match STATS.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s1.2",
+     "section": "How the brand is perceived",
+     "text": "Analysts from Raymond James and Loop Capital have downgraded the brand to Hold or Market Perform following the buyout news.",
      "cite": [
       "GL-40e2d1d8",
       "GL-5779e31b",
@@ -777,182 +829,133 @@
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The cited records support downgrades by Raymond James and Loop Capital to Hold or Market Perform.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s1.0",
-     "section": "How the brand is perceived",
-     "text": "The $650M acquisition frames Weave as a leader in AI-powered healthcare software.",
-     "cite": [
-      "GL-429bbe37"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "The cited source supports Francisco Partners betting $650M on AI-powered healthcare software via Weave.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s1.1",
-     "section": "How the brand is perceived",
-     "text": "Financial analysts view the shift to consumption pricing as a strategic buy opportunity for the brand.",
-     "cite": [
-      "GL-35c05d11"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "The cited source supports analysts viewing the shift to consumption pricing as a buy opportunity.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s1.2",
-     "section": "How the brand is perceived",
-     "text": "The brand achieved 'top gainer' status on the NYSE following the announcement of the take-private deal.",
-     "cite": [
-      "GL-960b15ab",
-      "GL-5c9ff875"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "The cited sources support Weave jumping and making the NYSE top gainer list on acquisition news.",
+     "reason": "Cited sources confirm downgrades to Hold and Market Perform by Raymond James and Loop Capital.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s2.0",
      "section": "Risks to watch",
-     "text": "Law firms including Halper Sadeh and Ademi LLP are investigating if the $650M acquisition price is fair to shareholders.",
+     "text": "Multiple law firms, including Halper Sadeh LLC and Ademi LLP, are investigating if the $650 million acquisition price is fair to shareholders.",
      "cite": [
       "GL-6e17f34a",
-      "GL-d1464026"
+      "GL-d1464026",
+      "GL-382969be"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The cited sources support Halper Sadeh and Ademi LLP investigating if the acquisition price is fair.",
+     "reason": "Cited records confirm investigations by Halper Sadeh LLC, Ademi LLP, and Kahn Swick & Foti.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s2.1",
      "section": "Risks to watch",
-     "text": "Competitor Podium has launched a new AI operating system for home services, increasing product competition.",
+     "text": "There are 8 high or medium risks currently identified, including legal scrutiny and a previous guidance cut that impacted stock performance.",
      "cite": [
-      "GL-586d3724"
+      "GL-1b852384",
+      "GL-6e17f34a"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The cited source supports Podium launching an AI operating system for home services.",
+     "reason": "Matches 8 high/medium risks in STATS, and cited records confirm legal scrutiny and guidance cuts.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s2.2",
      "section": "Risks to watch",
-     "text": "A recent guidance cut negatively impacted stock performance despite the company meeting profit milestones.",
+     "text": "Competitor Podium has launched an AI operating system for home services, increasing product competition.",
      "cite": [
-      "GL-1b852384"
+      "GL-586d3724"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The cited source supports the stock sinking due to a guidance cut despite profit milestones.",
+     "reason": "Cited source directly confirms Podium launched an AI operating system for home services.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s3.0",
      "section": "Openings for Weave",
-     "text": "ServiceTitan terminated its integration with Podium, affecting approximately 1,000 shared customers and creating a market gap.",
+     "text": "A partnership breakdown between ServiceTitan and Podium has left approximately 1,000 shared customers without integration.",
      "cite": [
       "GL-632fb91b",
       "GL-0e8c9c4d"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The cited sources support ServiceTitan terminating Podium's integration for approximately 1,000 shared customers.",
+     "reason": "Cited records confirm ServiceTitan ended its Podium integration, affecting roughly 1,000 shared customers.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s3.1",
      "section": "Openings for Weave",
-     "text": "Competitor Podium faced a legal setback after being denied a $2 million tax deduction by the High Court of New Zealand.",
+     "text": "Positive financial analysis suggests the shift to consumption pricing makes the company a buy opportunity.",
      "cite": [
-      "GL-48c4b8cb"
+      "GL-35c05d11"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The cited source supports the High Court of New Zealand denying Podium a $2M tax deduction.",
+     "reason": "Cited record states that Weave's shift to consumption pricing makes it a buy opportunity.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s3.2",
      "section": "Openings for Weave",
-     "text": "Birdeye and NexHealth reported ARR figures of $100M and $47.1M respectively, providing benchmarks for Weave's market position.",
+     "text": "Competitor Podium faced a legal setback after the High Court of New Zealand denied a $2 million tax deduction.",
      "cite": [
-      "GL-50bc20dd",
-      "GL-1647f515"
+      "GL-48c4b8cb"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The cited sources support Birdeye's $100M ARR and NexHealth's $47.1M ARR reported figures.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "archetype",
-     "section": "Archetype read",
-     "text": "The coverage casts Weave as a 'Ruler' due to its $650M acquisition and corporate status change, which helps Weave by signaling market dominance and stability during its transition to private ownership.",
-     "cite": [
-      "GL-df38bbbc",
-      "GL-1d306159"
-     ],
-     "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "The sources support the $650M acquisition, but do not mention 'Ruler' status or market dominance.",
+     "reason": "Cited source confirms New Zealand's High Court denied Podium a $2 million tax deduction.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "a0",
      "section": "Actions",
-     "text": "Target the 1,000 customers displaced by the ServiceTitan and Podium integration split. - The partnership breakdown between these competitors creates an immediate opportunity to capture shared customers.",
+     "text": "Target the 1,000 customers affected by the ServiceTitan and Podium integration shutdown. - This breakdown creates a specific opening to capture market share from a primary competitor.",
      "cite": [
-      "GL-632fb91b",
-      "GL-0e8c9c4d"
+      "GL-632fb91b"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The situation regarding ServiceTitan shutting off Podium's integration for ~1,000 customers is supported by cited records.",
+     "reason": "Recommendation responds to a fully supported situation regarding ServiceTitan and Podium's integration shutdown.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "a1",
      "section": "Actions",
-     "text": "Incorporate the $650M valuation into AI-powered healthcare software marketing. - The acquisition price serves as a high-value validation of Weave's technology and market leadership.",
-     "cite": [
-      "GL-429bbe37"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "The situation regarding Francisco Partners' $650M bet on AI healthcare software is supported by the cited record.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "a2",
-     "section": "Actions",
-     "text": "Prepare a communications plan to address legal investigations into the acquisition price. - Multiple law firm probes into the 'fair price' of the buyout could negatively impact public and shareholder trust.",
+     "text": "Develop a communication strategy to address shareholder concerns regarding the acquisition price. - Multiple legal investigations into the $650M deal pose a high risk to brand reputation and shareholder confidence.",
      "cite": [
       "GL-6e17f34a",
       "GL-382969be"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The situation regarding law firm investigations into the acquisition price is supported by cited records.",
+     "reason": "Recommendation responds to a fully supported situation regarding shareholder investigations into the acquisition price.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "a2",
+     "section": "Actions",
+     "text": "Emphasize the 'Ruler' and 'Creator' archetypes in marketing for AI healthcare software. - The acquisition validates Weave's AI value and corporate status during the transition to private ownership.",
+     "cite": [
+      "GL-429bbe37",
+      "GL-df38bbbc"
+     ],
+     "fabricated_cites": [],
+     "verdict": "partial",
+     "reason": "The underlying situation is supported, but the 'Creator' archetype is not present in STATS or cited records.",
      "checked_by": "gemini-3.5-flash"
     }
    ]
   },
   "written_by": "gemini-3-flash-preview",
-  "created_at": "2026-10-21T23:33:33+00:00"
+  "created_at": "2026-10-24T00:30:08+00:00"
  },
  "Weave|2026-09-09|2026-10-09|Customer posts (Reddit),Developer discussion (Hacker News),News and press,Research papers (arXiv)": {
   "mode": "live",
   "request": {
    "subject": "Weave",
-   "label": "Weave (our company)",
+   "label": "Weave (the company Groundline reports for)",
    "title": "Weave brand brief",
    "min_relevance": 1,
    "focus": "Weave's reputation, brand perception, risks and what the brand team should do next. Compare with competitors where the evidence allows.",
@@ -1085,28 +1088,28 @@
    ]
   },
   "brief": {
-   "headline": "Legal investigation and stagnant stock performance overshadow modest Q2 earnings beat",
-   "summary": "Weave is facing a high-risk legal investigation into shareholder pricing while its stock remains in a weakness phase despite beating earnings expectations. Competitors like Birdeye and NexHealth continue to report solid revenue figures, highlighting a challenging financial landscape for the brand.",
+   "headline": "Legal investigation and stagnant stock reaction overshadow modest Q2 earnings beat",
+   "summary": "Weave is facing a legal investigation regarding shareholder pricing while its stock remains stagnant despite a modest EPS beat. Competitors like Birdeye and NexHealth continue to report strong revenue milestones in the background.",
    "sections": [
     {
      "title": "What happened",
      "claims": [
       {
-       "text": "Halper Sadeh LLC is investigating whether Weave is obtaining a fair price for its shareholders.",
+       "text": "Halper Sadeh LLC launched an investigation into whether Weave is providing a fair price for its shareholders.",
        "cite": [
         "GL-6e17f34a"
        ],
        "verdict": "supported"
       },
       {
-       "text": "The company reported a modest EPS beat in Q2 2026, but it failed to trigger a meaningful stock reaction.",
+       "text": "Weave reported a modest EPS beat for Q2 2026, though it did not trigger a significant stock price reaction.",
        "cite": [
         "GL-f9b40999"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Executive Tyler Newton received a 32,502-unit stock grant, followed by a holdings correction.",
+       "text": "Executive Tyler Newton received a 32,502-unit stock grant, leading to a holdings correction.",
        "cite": [
         "GL-1b9a542e"
        ],
@@ -1118,18 +1121,19 @@
      "title": "How the brand is perceived",
      "claims": [
       {
-       "text": "The brand is being described as in an 'Earnings Weakness Phase' by financial observers.",
+       "text": "The brand is currently associated with an Outlaw archetype due to legal scrutiny and shareholder concerns.",
        "cite": [
-        "GL-f9b40999"
+        "GL-6e17f34a"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Legal scrutiny regarding shareholder value has introduced high risk to the brand's reputation.",
+       "text": "Financial reporting is viewed as routine, though the lack of stock movement suggests a weakness phase in investor confidence.",
        "cite": [
-        "GL-6e17f34a"
+        "GL-f9b40999",
+        "GL-b30b5b7b"
        ],
-       "verdict": "partial"
+       "verdict": "supported"
       }
      ]
     },
@@ -1137,18 +1141,26 @@
      "title": "Risks to watch",
      "claims": [
       {
-       "text": "The investigation by Halper Sadeh LLC poses a severe risk to stock value and investor confidence.",
+       "text": "Legal investigations into shareholder pricing pose a high risk to stock value and brand reputation.",
        "cite": [
         "GL-6e17f34a"
        ],
        "verdict": "partial"
       },
       {
-       "text": "A lack of market reaction to positive earnings suggests a disconnect between company performance and investor perception.",
+       "text": "Stagnant stock performance following earnings beats indicates a potential lack of market momentum.",
        "cite": [
         "GL-f9b40999"
        ],
-       "verdict": "partial"
+       "verdict": "supported"
+      },
+      {
+       "text": "Competitors are showing scale, with Birdeye reaching $100M ARR and NexHealth estimated at $47.1M ARR.",
+       "cite": [
+        "GL-50bc20dd",
+        "GL-1647f515"
+       ],
+       "verdict": "supported"
       }
      ]
     },
@@ -1156,58 +1168,51 @@
      "title": "Openings for Weave",
      "claims": [
       {
-       "text": "Competitor Birdeye has reached $100M ARR, providing a clear scale benchmark for the industry.",
+       "text": "Maintaining transparency in standard financial filings like Form 4 may help stabilize routine reporting perceptions.",
        "cite": [
-        "GL-50bc20dd"
+        "GL-b30b5b7b"
        ],
-       "verdict": "partial"
+       "verdict": "supported"
       }
      ]
     }
    ],
-   "archetype_read": {
-    "text": "The legal investigation casts Weave as an 'Outlaw,' which harms the brand by suggesting a lack of transparency or fairness to its shareholders.",
-    "cite": [
-     "GL-6e17f34a"
-    ],
-    "verdict": "partial"
-   },
    "actions": [
     {
-     "action": "Develop a communication strategy to address the shareholder price investigation.",
-     "why": "Legal investigations are high-risk events that can severely damage brand trust if not managed proactively.",
+     "action": "Monitor the Halper Sadeh LLC investigation closely.",
+     "why": "Legal challenges regarding shareholder value are flagged as high risk and can damage brand trust.",
      "cite": [
       "GL-6e17f34a"
      ],
      "verdict": "supported"
     },
     {
-     "action": "Refine earnings messaging to better highlight the drivers behind the Q2 EPS beat.",
-     "why": "The current 'Earnings Weakness Phase' label suggests the market does not fully understand or value the company's financial progress.",
+     "action": "Develop a communication plan to highlight operational strengths beyond EPS.",
+     "why": "A modest earnings beat failed to move the stock, suggesting the market needs more compelling growth narratives.",
      "cite": [
       "GL-f9b40999"
      ],
      "verdict": "supported"
     },
     {
-     "action": "Benchmark growth targets against Birdeye’s $100M ARR milestone.",
-     "why": "Understanding the financial scale of competitors like Birdeye and NexHealth helps contextualize Weave's market position for stakeholders.",
+     "action": "Benchmark market positioning against Birdeye's $100M ARR milestone.",
+     "why": "Competitors are hitting significant revenue markers that may influence how investors value Weave.",
      "cite": [
-      "GL-50bc20dd",
-      "GL-1647f515"
+      "GL-50bc20dd"
      ],
      "verdict": "supported"
     }
-   ]
+   ],
+   "archetype_read": null
   },
   "fact_check": {
    "checker": "gemini-3.5-flash",
    "check_error": null,
    "status": "needs_review",
-   "groundedness": 0.679,
+   "groundedness": 0.821,
    "claims_total": 14,
-   "supported": 7,
-   "partial": 5,
+   "supported": 11,
+   "partial": 1,
    "unsupported": 2,
    "unverified": 0,
    "fabricated_citations": 2,
@@ -1215,43 +1220,55 @@
     {
      "where": "s0.0",
      "section": "What happened",
-     "text": "Halper Sadeh LLC is investigating whether Weave is obtaining a fair price for its shareholders.",
+     "text": "Halper Sadeh LLC launched an investigation into whether Weave is providing a fair price for its shareholders.",
      "cite": [
       "GL-6e17f34a"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited source directly states Halper Sadeh LLC is investigating whether Weave is obtaining a fair price.",
+     "reason": "GL-6e17f34a directly confirms Halper Sadeh LLC's investigation into fair shareholder pricing.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s0.1",
      "section": "What happened",
-     "text": "The company reported a modest EPS beat in Q2 2026, but it failed to trigger a meaningful stock reaction.",
+     "text": "Weave reported a modest EPS beat for Q2 2026, though it did not trigger a significant stock price reaction.",
      "cite": [
       "GL-f9b40999"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited record explicitly states Weave reported a Q2 2026 modest EPS beat that failed to trigger a reaction.",
+     "reason": "GL-f9b40999 explicitly states Weave reported a modest Q2 2026 EPS beat without a meaningful stock reaction.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s0.2",
      "section": "What happened",
-     "text": "Executive Tyler Newton received a 32,502-unit stock grant, followed by a holdings correction.",
+     "text": "Executive Tyler Newton received a 32,502-unit stock grant, leading to a holdings correction.",
      "cite": [
       "GL-1b9a542e"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited source confirms Tyler Newton received a 32,502-unit stock grant followed by a holdings correction.",
+     "reason": "GL-1b9a542e supports that a holdings correction followed Tyler Newton's 32,502-unit stock grant.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s1.0",
      "section": "How the brand is perceived",
-     "text": "Average sentiment is currently negative at -0.5, with zero positive reports recorded during the period.",
+     "text": "The brand is currently associated with an Outlaw archetype due to legal scrutiny and shareholder concerns.",
+     "cite": [
+      "GL-6e17f34a"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "GL-6e17f34a details legal scrutiny over shareholder pricing, aligning with the Outlaw archetype in STATS.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s1.1",
+     "section": "How the brand is perceived",
+     "text": "Market sentiment is currently negative to neutral, with an average sentiment score of -0.5.",
      "cite": [
       "STATS"
      ],
@@ -1263,57 +1280,59 @@
      "checked_by": "rule"
     },
     {
-     "where": "s1.1",
+     "where": "s1.2",
      "section": "How the brand is perceived",
-     "text": "The brand is being described as in an 'Earnings Weakness Phase' by financial observers.",
+     "text": "Financial reporting is viewed as routine, though the lack of stock movement suggests a weakness phase in investor confidence.",
      "cite": [
-      "GL-f9b40999"
+      "GL-f9b40999",
+      "GL-b30b5b7b"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Source title explicitly includes the description 'Earnings Weakness Phase' regarding Weave's Q2 earnings.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s1.2",
-     "section": "How the brand is perceived",
-     "text": "Legal scrutiny regarding shareholder value has introduced high risk to the brand's reputation.",
-     "cite": [
-      "GL-6e17f34a"
-     ],
-     "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "Source verifies legal investigation into shareholder value, but does not mention high risk to brand reputation.",
+     "reason": "Cited sources verify the routine Form 4 filing and the earnings weakness phase from lack of stock movement.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s2.0",
      "section": "Risks to watch",
-     "text": "The investigation by Halper Sadeh LLC poses a severe risk to stock value and investor confidence.",
+     "text": "Legal investigations into shareholder pricing pose a high risk to stock value and brand reputation.",
      "cite": [
       "GL-6e17f34a"
      ],
      "fabricated_cites": [],
      "verdict": "partial",
-     "reason": "Source confirms the investigation, but does not state it poses a severe risk to stock value or confidence.",
+     "reason": "GL-6e17f34a confirms the legal investigation, but specific claims about brand reputation impact are not in the record.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s2.1",
      "section": "Risks to watch",
-     "text": "A lack of market reaction to positive earnings suggests a disconnect between company performance and investor perception.",
+     "text": "Stagnant stock performance following earnings beats indicates a potential lack of market momentum.",
      "cite": [
       "GL-f9b40999"
      ],
      "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "Source supports lack of stock reaction to EPS beat, but does not mention a disconnect in perception.",
+     "verdict": "supported",
+     "reason": "GL-f9b40999 directly attributes weak market reaction despite the EPS beat to an earnings weakness phase.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s2.2",
+     "section": "Risks to watch",
+     "text": "Competitors are showing scale, with Birdeye reaching $100M ARR and NexHealth estimated at $47.1M ARR.",
+     "cite": [
+      "GL-50bc20dd",
+      "GL-1647f515"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "GL-50bc20dd and GL-1647f515 confirm Birdeye's $100M ARR and NexHealth's estimated $47.1M ARR.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s3.0",
      "section": "Openings for Weave",
-     "text": "Evidence for new market openings is thin, as current coverage is dominated by financial and legal reporting.",
+     "text": "Evidence of opportunities is currently thin, with no high or medium opportunities identified in recent reports.",
      "cite": [
       "STATS"
      ],
@@ -1327,68 +1346,55 @@
     {
      "where": "s3.1",
      "section": "Openings for Weave",
-     "text": "Competitor Birdeye has reached $100M ARR, providing a clear scale benchmark for the industry.",
+     "text": "Maintaining transparency in standard financial filings like Form 4 may help stabilize routine reporting perceptions.",
      "cite": [
-      "GL-50bc20dd"
+      "GL-b30b5b7b"
      ],
      "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "Source supports Birdeye reaching $100M ARR, but does not state it provides an industry scale benchmark.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "archetype",
-     "section": "Archetype read",
-     "text": "The legal investigation casts Weave as an 'Outlaw,' which harms the brand by suggesting a lack of transparency or fairness to its shareholders.",
-     "cite": [
-      "GL-6e17f34a"
-     ],
-     "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "Legal investigation is cited, but source does not mention the 'Outlaw' label or brand harm.",
+     "verdict": "supported",
+     "reason": "Recommendation directly responds to the verified routine Form 4 filing in GL-b30b5b7b.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "a0",
      "section": "Actions",
-     "text": "Develop a communication strategy to address the shareholder price investigation. - Legal investigations are high-risk events that can severely damage brand trust if not managed proactively.",
+     "text": "Monitor the Halper Sadeh LLC investigation closely. - Legal challenges regarding shareholder value are flagged as high risk and can damage brand trust.",
      "cite": [
       "GL-6e17f34a"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Recommendation responds to the cited legal investigation into shareholder price.",
+     "reason": "Recommendation directly addresses the verified investigation in GL-6e17f34a.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "a1",
      "section": "Actions",
-     "text": "Refine earnings messaging to better highlight the drivers behind the Q2 EPS beat. - The current 'Earnings Weakness Phase' label suggests the market does not fully understand or value the company's financial progress.",
+     "text": "Develop a communication plan to highlight operational strengths beyond EPS. - A modest earnings beat failed to move the stock, suggesting the market needs more compelling growth narratives.",
      "cite": [
       "GL-f9b40999"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Recommendation responds to the cited Q2 EPS beat and 'Earnings Weakness Phase' label.",
+     "reason": "Recommendation directly addresses the verified earnings beat and lack of stock movement in GL-f9b40999.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "a2",
      "section": "Actions",
-     "text": "Benchmark growth targets against Birdeye’s $100M ARR milestone. - Understanding the financial scale of competitors like Birdeye and NexHealth helps contextualize Weave's market position for stakeholders.",
+     "text": "Benchmark market positioning against Birdeye's $100M ARR milestone. - Competitors are hitting significant revenue markers that may influence how investors value Weave.",
      "cite": [
-      "GL-50bc20dd",
-      "GL-1647f515"
+      "GL-50bc20dd"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Recommendation responds to the cited Birdeye and NexHealth ARR figures.",
+     "reason": "Recommendation directly responds to Birdeye's supported $100M ARR milestone from GL-50bc20dd.",
      "checked_by": "gemini-3.5-flash"
     }
    ]
   },
   "written_by": "gemini-3-flash-preview",
-  "created_at": "2026-10-21T23:36:06+00:00"
+  "created_at": "2026-10-24T00:30:33+00:00"
  },
  "Podium|2026-07-11|2026-10-09|Customer posts (Reddit),Developer discussion (Hacker News),News and press,Research papers (arXiv)": {
   "mode": "live",
@@ -1550,38 +1556,37 @@
    ]
   },
   "brief": {
-   "headline": "ServiceTitan dropped Podium's integration while Podium launched an AI operating system.",
-   "summary": "ServiceTitan shut off Podium's integration for approximately 1,000 shared customers after AI agents made them direct competitors, ending a 9-year partnership. At the same time, Podium launched an AI operating system for home services and partnered with BetConstruct AI and BetMakers. Coverage tilted negative with 3 negative records out of 7 total, driven by partnership fallout and a legal tax denial.",
+   "headline": "ServiceTitan cuts Podium integration for 1,000 customers as Podium pivots to AI agents",
+   "summary": "Podium's shift toward AI-driven automation has triggered a major partnership breakdown with ServiceTitan, impacting approximately 1,000 shared customers. While Podium is launching a new AI operating system for home services, it faces legal setbacks and increased friction with former industry partners.",
    "sections": [
     {
      "title": "What happened",
      "claims": [
       {
-       "text": "ServiceTitan shut off its integration with Podium for approximately 1,000 shared customers after AI agents turned the 9-year partner into a direct competitor, with both companies framing the split differently.",
+       "text": "ServiceTitan terminated its integration with Podium for approximately 1,000 shared customers after nine years of partnership.",
        "cite": [
-        "GL-632fb91b",
-        "GL-0e8c9c4d"
+        "GL-632fb91b"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Podium launched an AI operating system tailored for the home services sector.",
+       "text": "Podium launched what it describes as the industry's first AI operating system for home services.",
        "cite": [
         "GL-586d3724"
        ],
        "verdict": "supported"
       },
       {
-       "text": "BetConstruct AI partnered with Podium and BetMakers to expand its racing offering with AdVantage.",
+       "text": "The High Court of New Zealand denied Podium a $2 million tax deduction related to building works.",
        "cite": [
-        "GL-2e12aea5"
+        "GL-48c4b8cb"
        ],
        "verdict": "supported"
       },
       {
-       "text": "The High Court of New Zealand denied Podium a $2 million tax deduction for building works.",
+       "text": "Podium partnered with BetConstruct AI and BetMakers to expand technology offerings in the racing sector.",
        "cite": [
-        "GL-48c4b8cb"
+        "GL-2e12aea5"
        ],
        "verdict": "supported"
       }
@@ -1591,18 +1596,19 @@
      "title": "How the brand is perceived",
      "claims": [
       {
-       "text": "Product evaluations continue to profile Podium's baseline capabilities, including a review and pricing breakdown of its text message marketing product.",
+       "text": "Podium is increasingly viewed as a direct competitor rather than a partner by established industry players due to its AI agent strategy.",
        "cite": [
-        "GL-ad49cad3"
+        "GL-632fb91b"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Podium's tax case also entered professional financial commentary regarding capital versus revenue debates.",
+       "text": "The brand is associated with the 'Creator' archetype in its AI strategy but also the 'Outlaw' archetype following legal and tax disputes.",
        "cite": [
-        "GL-d8528997"
+        "STATS",
+        "GL-48c4b8cb"
        ],
-       "verdict": "supported"
+       "verdict": "partial"
       }
      ]
     },
@@ -1610,16 +1616,23 @@
      "title": "Risks to watch",
      "claims": [
       {
-       "text": "Podium's aggressive rollout of an industry-first AI operating system for home services increases competitive product pressure.",
+       "text": "The breakdown of the ServiceTitan partnership creates immediate churn risk for Podium's existing customer base in home services.",
        "cite": [
-        "GL-586d3724"
+        "GL-0e8c9c4d"
        ],
        "verdict": "partial"
       },
       {
-       "text": "Podium is expanding external AI alliances, including its tie-up with BetConstruct AI and BetMakers.",
+       "text": "Podium faces financial and legal scrutiny following a denied $2 million tax deduction in New Zealand.",
        "cite": [
-        "GL-2e12aea5"
+        "GL-48c4b8cb"
+       ],
+       "verdict": "supported"
+      },
+      {
+       "text": "The transition to AI agents is turning long-term partners into direct competitors, potentially isolating the brand from key integrations.",
+       "cite": [
+        "GL-632fb91b"
        ],
        "verdict": "supported"
       }
@@ -1629,255 +1642,270 @@
      "title": "Openings for Weave",
      "claims": [
       {
-       "text": "The disruption of Podium's ServiceTitan integration directly impacts around 1,000 shared accounts, creating an immediate opening to target displaced users.",
+       "text": "There is a high-opportunity opening to target the 1,000 customers who lost their ServiceTitan-Podium integration.",
        "cite": [
-        "GL-632fb91b",
+        "GL-632fb91b"
+       ],
+       "verdict": "supported"
+      },
+      {
+       "text": "The public disagreement between ServiceTitan and Podium over their partnership split allows Weave to position itself as a more stable, non-competitive partner.",
+       "cite": [
         "GL-0e8c9c4d"
        ],
-       "verdict": "partial"
+       "verdict": "supported"
+      },
+      {
+       "text": "Podium's focus on a broad 'AI operating system' may leave gaps for Weave to emphasize specialized, reliable communication tools.",
+       "cite": [
+        "GL-586d3724"
+       ],
+       "verdict": "supported"
       }
      ]
     }
    ],
-   "archetype_read": {
-    "text": "Podium is positioned primarily as a Creator via its AI operating system launch and AI partnerships, alongside an Outlaw edge from legal and partner friction, which helps Weave contrast itself as a stable, collaborative alternative.",
-    "cite": [
-     "GL-586d3724",
-     "GL-48c4b8cb",
-     "GL-632fb91b"
-    ],
-    "verdict": "partial"
-   },
    "actions": [
     {
-     "action": "Target the ~1,000 ServiceTitan customers impacted by the severed Podium integration.",
-     "why": "ServiceTitan shutting off Podium access creates immediate dissatisfaction and software replacement needs among shared accounts.",
+     "action": "Launch a targeted campaign for the 1,000 displaced ServiceTitan customers.",
+     "why": "This is a direct market opening caused by a competitor's integration shutdown and partnership breakdown.",
      "cite": [
       "GL-632fb91b"
      ],
      "verdict": "supported"
     },
     {
-     "action": "Analyze Podium's text message marketing review and published pricing against Weave's current plans.",
-     "why": "Public evaluation data provides a direct benchmark to position Weave competitively on features and price.",
+     "action": "Audit Weave’s partnership stability messaging for home services providers.",
+     "why": "Podium’s shift to direct competition with partners like ServiceTitan creates a trust gap Weave can fill by emphasizing its role as a supportive partner.",
      "cite": [
-      "GL-ad49cad3"
+      "GL-0e8c9c4d"
      ],
      "verdict": "supported"
     },
     {
-     "action": "Prepare positioning to counter Podium's home services AI operating system launch.",
-     "why": "Podium's new AI OS directly targets the home services vertical, posing a medium product threat to Weave.",
+     "action": "Monitor market feedback on Podium's new AI operating system.",
+     "why": "Understanding the market's reaction to their 'Creator' strategy will help refine Weave's own AI positioning and identify product gaps.",
      "cite": [
       "GL-586d3724"
      ],
      "verdict": "supported"
     }
-   ]
+   ],
+   "archetype_read": null
   },
   "fact_check": {
-   "checker": "gemini-3.5-flash-lite",
+   "checker": "gemini-3.5-flash",
    "check_error": null,
-   "status": "needs_review",
-   "groundedness": 0.767,
-   "claims_total": 15,
-   "supported": 10,
-   "partial": 3,
-   "unsupported": 2,
+   "status": "verified",
+   "groundedness": 0.875,
+   "claims_total": 16,
+   "supported": 13,
+   "partial": 2,
+   "unsupported": 1,
    "unverified": 0,
-   "fabricated_citations": 0,
+   "fabricated_citations": 2,
    "log": [
     {
      "where": "s0.0",
      "section": "What happened",
-     "text": "ServiceTitan shut off its integration with Podium for approximately 1,000 shared customers after AI agents turned the 9-year partner into a direct competitor, with both companies framing the split differently.",
+     "text": "ServiceTitan terminated its integration with Podium for approximately 1,000 shared customers after nine years of partnership.",
      "cite": [
-      "GL-632fb91b",
-      "GL-0e8c9c4d"
+      "GL-632fb91b"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The cited records confirm ServiceTitan shut off the integration for ~1,000 shared customers due to AI agents.",
-     "checked_by": "gemini-3.5-flash-lite"
+     "reason": "Cited record confirms ServiceTitan shut off integration for ~1,000 shared customers after a 9-year partnership.",
+     "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s0.1",
      "section": "What happened",
-     "text": "Podium launched an AI operating system tailored for the home services sector.",
+     "text": "Podium launched what it describes as the industry's first AI operating system for home services.",
      "cite": [
       "GL-586d3724"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The cited record explicitly states Podium launched the industry's first AI operating system for home services.",
-     "checked_by": "gemini-3.5-flash-lite"
+     "reason": "Cited record confirms Podium launched the industry's first AI operating system for home services.",
+     "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s0.2",
      "section": "What happened",
-     "text": "BetConstruct AI partnered with Podium and BetMakers to expand its racing offering with AdVantage.",
+     "text": "The High Court of New Zealand denied Podium a $2 million tax deduction related to building works.",
      "cite": [
-      "GL-2e12aea5"
+      "GL-48c4b8cb"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The cited record confirms the partnership between BetConstruct AI, Podium, and BetMakers.",
-     "checked_by": "gemini-3.5-flash-lite"
+     "reason": "Cited record directly supports that the High Court of New Zealand denied a $2m tax deduction.",
+     "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s0.3",
      "section": "What happened",
-     "text": "The High Court of New Zealand denied Podium a $2 million tax deduction for building works.",
-     "cite": [
-      "GL-48c4b8cb"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "The cited record states the High Court of New Zealand denied the $2m deduction.",
-     "checked_by": "gemini-3.5-flash-lite"
-    },
-    {
-     "where": "s1.0",
-     "section": "How the brand is perceived",
-     "text": "Across 7 records, Podium averaged a negative sentiment score of -0.29, with 3 negative, 2 neutral, and 2 positive mentions.",
-     "cite": [
-      "GL-632fb91b",
-      "GL-0e8c9c4d",
-      "GL-48c4b8cb"
-     ],
-     "fabricated_cites": [],
-     "verdict": "unsupported",
-     "reason": "The cited records do not mention sentiment scores or the specific breakdown of mentions.",
-     "checked_by": "gemini-3.5-flash-lite"
-    },
-    {
-     "where": "s1.1",
-     "section": "How the brand is perceived",
-     "text": "Product evaluations continue to profile Podium's baseline capabilities, including a review and pricing breakdown of its text message marketing product.",
-     "cite": [
-      "GL-ad49cad3"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "The cited record confirms Business.com published a review and pricing for Podium Text Message Marketing.",
-     "checked_by": "gemini-3.5-flash-lite"
-    },
-    {
-     "where": "s1.2",
-     "section": "How the brand is perceived",
-     "text": "Podium's tax case also entered professional financial commentary regarding capital versus revenue debates.",
-     "cite": [
-      "GL-d8528997"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "The Deloitte record discusses capital versus revenue debates referencing Podium.",
-     "checked_by": "gemini-3.5-flash-lite"
-    },
-    {
-     "where": "s2.0",
-     "section": "Risks to watch",
-     "text": "Podium's aggressive rollout of an industry-first AI operating system for home services increases competitive product pressure.",
-     "cite": [
-      "GL-586d3724"
-     ],
-     "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "Records support the AI OS launch, but 'aggressive rollout' and 'competitive product pressure' are added details.",
-     "checked_by": "gemini-3.5-flash-lite"
-    },
-    {
-     "where": "s2.1",
-     "section": "Risks to watch",
-     "text": "Podium is expanding external AI alliances, including its tie-up with BetConstruct AI and BetMakers.",
+     "text": "Podium partnered with BetConstruct AI and BetMakers to expand technology offerings in the racing sector.",
      "cite": [
       "GL-2e12aea5"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The cited record confirms the partnership and AI alliance context.",
-     "checked_by": "gemini-3.5-flash-lite"
+     "reason": "Cited record directly confirms BetConstruct AI partnered with Podium and BetMakers to expand racing offerings.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s1.0",
+     "section": "How the brand is perceived",
+     "text": "Average sentiment for the brand is currently negative at -0.29, with three out of seven tracked reports being negative.",
+     "cite": [
+      "STATS"
+     ],
+     "fabricated_cites": [
+      "STATS"
+     ],
+     "verdict": "unsupported",
+     "reason": "cites no article from the evidence (made-up or missing citation)",
+     "checked_by": "rule"
+    },
+    {
+     "where": "s1.1",
+     "section": "How the brand is perceived",
+     "text": "Podium is increasingly viewed as a direct competitor rather than a partner by established industry players due to its AI agent strategy.",
+     "cite": [
+      "GL-632fb91b"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Cited record confirms AI agents turned partner Podium into a direct competitor for ServiceTitan.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s1.2",
+     "section": "How the brand is perceived",
+     "text": "The brand is associated with the 'Creator' archetype in its AI strategy but also the 'Outlaw' archetype following legal and tax disputes.",
+     "cite": [
+      "STATS",
+      "GL-48c4b8cb"
+     ],
+     "fabricated_cites": [
+      "STATS"
+     ],
+     "verdict": "partial",
+     "reason": "Archetype associations to AI strategy and legal disputes add details not in the cited record.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s2.0",
+     "section": "Risks to watch",
+     "text": "The breakdown of the ServiceTitan partnership creates immediate churn risk for Podium's existing customer base in home services.",
+     "cite": [
+      "GL-0e8c9c4d"
+     ],
+     "fabricated_cites": [],
+     "verdict": "partial",
+     "reason": "Breakdown is supported, but 'immediate churn risk' adds detail not present in the cited record.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s2.1",
+     "section": "Risks to watch",
+     "text": "Podium faces financial and legal scrutiny following a denied $2 million tax deduction in New Zealand.",
+     "cite": [
+      "GL-48c4b8cb"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Directly supported by the High Court denying a $2 million tax deduction in New Zealand.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s2.2",
+     "section": "Risks to watch",
+     "text": "The transition to AI agents is turning long-term partners into direct competitors, potentially isolating the brand from key integrations.",
+     "cite": [
+      "GL-632fb91b"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Directly supported by the cited record detailing how AI agents turned a partner into a competitor.",
+     "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s3.0",
      "section": "Openings for Weave",
-     "text": "The disruption of Podium's ServiceTitan integration directly impacts around 1,000 shared accounts, creating an immediate opening to target displaced users.",
+     "text": "There is a high-opportunity opening to target the 1,000 customers who lost their ServiceTitan-Podium integration.",
      "cite": [
-      "GL-632fb91b",
-      "GL-0e8c9c4d"
+      "GL-632fb91b"
      ],
      "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "Records mention ~1,000 shared accounts and disruption, but 'direct impact' and 'opening to target' add extra framing.",
-     "checked_by": "gemini-3.5-flash-lite"
+     "verdict": "supported",
+     "reason": "Supported by record showing 1,000 shared customers lost integration due to partnership termination.",
+     "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s3.1",
      "section": "Openings for Weave",
-     "text": "Overall competitor disruption generated 2 high or medium opportunity indicators across the tracked period.",
+     "text": "The public disagreement between ServiceTitan and Podium over their partnership split allows Weave to position itself as a more stable, non-competitive partner.",
      "cite": [
-      "GL-632fb91b",
       "GL-0e8c9c4d"
      ],
      "fabricated_cites": [],
-     "verdict": "unsupported",
-     "reason": "The cited records do not contain the metric regarding 2 high or medium opportunity indicators.",
-     "checked_by": "gemini-3.5-flash-lite"
-    },
-    {
-     "where": "archetype",
-     "section": "Archetype read",
-     "text": "Podium is positioned primarily as a Creator via its AI operating system launch and AI partnerships, alongside an Outlaw edge from legal and partner friction, which helps Weave contrast itself as a stable, collaborative alternative.",
-     "cite": [
-      "GL-586d3724",
-      "GL-48c4b8cb",
-      "GL-632fb91b"
-     ],
-     "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "Records support the underlying events, but the archetypes ('Creator', 'Outlaw') and branding recommendations are not in the sources.",
-     "checked_by": "gemini-3.5-flash-lite"
-    },
-    {
-     "where": "a0",
-     "section": "Actions",
-     "text": "Target the ~1,000 ServiceTitan customers impacted by the severed Podium integration. - ServiceTitan shutting off Podium access creates immediate dissatisfaction and software replacement needs among shared accounts.",
-     "cite": [
-      "GL-632fb91b"
-     ],
-     "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The recommendation responds directly to the supported fact that ServiceTitan cut off Podium for ~1,000 shared customers.",
-     "checked_by": "gemini-3.5-flash-lite"
+     "reason": "Grounded in supported report of ServiceTitan and Podium's partnership split framing.",
+     "checked_by": "gemini-3.5-flash"
     },
     {
-     "where": "a1",
-     "section": "Actions",
-     "text": "Analyze Podium's text message marketing review and published pricing against Weave's current plans. - Public evaluation data provides a direct benchmark to position Weave competitively on features and price.",
-     "cite": [
-      "GL-ad49cad3"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "The recommendation responds directly to the published Business.com review and pricing details for Podium.",
-     "checked_by": "gemini-3.5-flash-lite"
-    },
-    {
-     "where": "a2",
-     "section": "Actions",
-     "text": "Prepare positioning to counter Podium's home services AI operating system launch. - Podium's new AI OS directly targets the home services vertical, posing a medium product threat to Weave.",
+     "where": "s3.2",
+     "section": "Openings for Weave",
+     "text": "Podium's focus on a broad 'AI operating system' may leave gaps for Weave to emphasize specialized, reliable communication tools.",
      "cite": [
       "GL-586d3724"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The recommendation addresses Podium's launch of the AI operating system for home services, which is supported.",
-     "checked_by": "gemini-3.5-flash-lite"
+     "reason": "Grounded in supported record of Podium launching an AI operating system for home services.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "a0",
+     "section": "Actions",
+     "text": "Launch a targeted campaign for the 1,000 displaced ServiceTitan customers. - This is a direct market opening caused by a competitor's integration shutdown and partnership breakdown.",
+     "cite": [
+      "GL-632fb91b"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Recommendation responds to supported event of ServiceTitan shutting off integration for 1,000 customers.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "a1",
+     "section": "Actions",
+     "text": "Audit Weave’s partnership stability messaging for home services providers. - Podium’s shift to direct competition with partners like ServiceTitan creates a trust gap Weave can fill by emphasizing its role as a supportive partner.",
+     "cite": [
+      "GL-0e8c9c4d"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Recommendation responds to supported event of ServiceTitan scrapping its partnership with Podium.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "a2",
+     "section": "Actions",
+     "text": "Monitor market feedback on Podium's new AI operating system. - Understanding the market's reaction to their 'Creator' strategy will help refine Weave's own AI positioning and identify product gaps.",
+     "cite": [
+      "GL-586d3724"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Recommendation responds to supported event of Podium launching its AI operating system.",
+     "checked_by": "gemini-3.5-flash"
     }
    ]
   },
-  "written_by": "gemini-3.8-flash",
-  "created_at": "2026-10-21T23:38:17+00:00"
+  "written_by": "gemini-3-flash-preview",
+  "created_at": "2026-10-24T00:31:01+00:00"
  },
  "Birdeye|2026-07-11|2026-10-09|Customer posts (Reddit),Developer discussion (Hacker News),News and press,Research papers (arXiv)": {
   "mode": "live",
@@ -1971,14 +1999,14 @@
    ]
   },
   "brief": {
-   "headline": "Birdeye targets multi-location CX with AI upgrades amid $100M ARR milestone",
-   "summary": "Recent coverage is thin across 3 records with an average sentiment of 0.33. Birdeye reported reaching $100M ARR while rolling out upgraded AI Insights for multi-location brands. Meanwhile, SMB owners on Reddit are actively questioning whether Birdeye is worth the investment for collecting customer reviews.",
+   "headline": "Birdeye upgrades AI insights and shows $100M ARR amid local review discussions",
+   "summary": "Evidence volume is thin with only 3 records tracked during this period. Birdeye announced upgraded AI Insights for multi-location brands, while reporting highlighted $100M ARR and $93M raised. Meanwhile, local business discussions show prospective users questioning whether Birdeye is worth the investment for collecting Google reviews.",
    "sections": [
     {
      "title": "What happened",
      "claims": [
       {
-       "text": "Birdeye announced upgraded AI Insights to close the CX loop for multi-location brands.",
+       "text": "Birdeye announced upgraded AI Insights designed to close the customer experience loop for multi-location brands.",
        "cite": [
         "GL-27aa30b9"
        ],
@@ -1997,16 +2025,18 @@
      "title": "How the brand is perceived",
      "claims": [
       {
-       "text": "Local business owners are questioning on Reddit whether paying for apps like Birdeye or Podium is worth it for getting Google reviews.",
+       "text": "Birdeye holds an average sentiment of 0.33 across 3 sources, reflecting a mix of 1 positive announcement and 2 neutral mentions.",
        "cite": [
-        "GL-50e16263"
+        "GL-27aa30b9",
+        "GL-50e16263",
+        "GL-50bc20dd"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Birdeye's product announcement presents the brand as an AI-driven solution for multi-location customer experience management.",
+       "text": "Prospective SMB buyers on Reddit question whether Birdeye is worth the cost for collecting Google reviews without feeling awkward.",
        "cite": [
-        "GL-27aa30b9"
+        "GL-50e16263"
        ],
        "verdict": "supported"
       }
@@ -2016,18 +2046,18 @@
      "title": "Risks to watch",
      "claims": [
       {
-       "text": "Birdeye's reported scale of $100M ARR and $93M in funding gives it substantial resources to invest in product and marketing.",
-       "cite": [
-        "GL-50bc20dd"
-       ],
-       "verdict": "partial"
-      },
-      {
-       "text": "Birdeye is expanding its feature set to attract larger, multi-location accounts through upgraded AI Insights.",
+       "text": "Birdeye is expanding its product capabilities for multi-location brands with upgraded AI Insights.",
        "cite": [
         "GL-27aa30b9"
        ],
-       "verdict": "partial"
+       "verdict": "supported"
+      },
+      {
+       "text": "Birdeye commands significant financial scale, with reported metrics of $100M ARR and $93M raised.",
+       "cite": [
+        "GL-50bc20dd"
+       ],
+       "verdict": "supported"
       }
      ]
     },
@@ -2035,8 +2065,16 @@
      "title": "Openings for Weave",
      "claims": [
       {
-       "text": "Prospective SMB buyers are uncertain about Birdeye's return on investment for review collection, creating an opening for Weave's review solutions.",
+       "text": "Local business owners are seeking practical ways to collect Google reviews and weighing whether tools like Birdeye are worth it.",
        "cite": [
+        "GL-50e16263"
+       ],
+       "verdict": "supported"
+      },
+      {
+       "text": "Birdeye's focus on enterprise multi-location CX loops may leave local SMBs looking for simpler review solutions.",
+       "cite": [
+        "GL-27aa30b9",
         "GL-50e16263"
        ],
        "verdict": "partial"
@@ -2044,63 +2082,57 @@
      ]
     }
    ],
-   "archetype_read": {
-    "text": "Birdeye is framed as a Creator archetype through its introduction of upgraded AI Insights for multi-location brands, emphasizing continuous product innovation that Weave should counter with practical SMB usability.",
-    "cite": [
-     "GL-27aa30b9"
-    ],
-    "verdict": "partial"
-   },
    "actions": [
     {
-     "action": "Deploy competitive content addressing local business owners who question if tools like Birdeye are worth the cost for Google reviews.",
-     "why": "Prospective buyers on public forums are actively seeking validation on whether Birdeye provides enough value for review generation.",
+     "action": "Publish ROI-focused comparison content addressing SMB owners evaluating Birdeye for Google reviews.",
+     "why": "Local business owners are actively asking whether Birdeye is worth the investment to generate customer reviews.",
      "cite": [
       "GL-50e16263"
      ],
-     "verdict": "partial"
+     "verdict": "supported"
     },
     {
-     "action": "Analyze Birdeye's upgraded AI Insights release to benchmark Weave's customer experience and analytics messaging.",
-     "why": "Birdeye is using upgraded AI capabilities to position itself as a complete CX loop solution for multi-location brands.",
+     "action": "Audit Weave's multi-location reporting features against Birdeye's upgraded AI Insights release.",
+     "why": "Birdeye is targeting multi-location brands directly with upgraded AI CX intelligence capabilities.",
      "cite": [
       "GL-27aa30b9"
      ],
      "verdict": "supported"
     },
     {
-     "action": "Equip sales teams with positioning against Birdeye's $100M ARR scale by emphasizing tailored service for local practices.",
-     "why": "Birdeye's reported $100M ARR establishes high market presence that sales reps may encounter in competitive deals.",
+     "action": "Benchmark Weave's market positioning against Birdeye's reported $100M ARR scale.",
+     "why": "Competitor reporting confirms Birdeye reached $100M ARR backed by $93M in funding.",
      "cite": [
       "GL-50bc20dd"
      ],
-     "verdict": "partial"
+     "verdict": "supported"
     }
-   ]
+   ],
+   "archetype_read": null
   },
   "fact_check": {
-   "checker": "gemini-3.1-flash-lite",
+   "checker": "gemini-3-flash-preview",
    "check_error": null,
-   "status": "needs_review",
-   "groundedness": 0.667,
-   "claims_total": 12,
-   "supported": 5,
-   "partial": 6,
-   "unsupported": 1,
+   "status": "verified",
+   "groundedness": 0.955,
+   "claims_total": 11,
+   "supported": 10,
+   "partial": 1,
+   "unsupported": 0,
    "unverified": 0,
    "fabricated_citations": 0,
    "log": [
     {
      "where": "s0.0",
      "section": "What happened",
-     "text": "Birdeye announced upgraded AI Insights to close the CX loop for multi-location brands.",
+     "text": "Birdeye announced upgraded AI Insights designed to close the customer experience loop for multi-location brands.",
      "cite": [
       "GL-27aa30b9"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The cited record directly confirms the announcement of upgraded AI Insights for multi-location brands.",
-     "checked_by": "gemini-3.1-flash-lite"
+     "reason": "Directly stated in the cited record from EIN News.",
+     "checked_by": "gemini-3-flash-preview"
     },
     {
      "where": "s0.1",
@@ -2111,134 +2143,124 @@
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The cited record confirms the reported ARR and funding figures for 2023.",
-     "checked_by": "gemini-3.1-flash-lite"
+     "reason": "Directly stated in the cited record from GetLatka.",
+     "checked_by": "gemini-3-flash-preview"
     },
     {
      "where": "s1.0",
      "section": "How the brand is perceived",
-     "text": "Local business owners are questioning on Reddit whether paying for apps like Birdeye or Podium is worth it for getting Google reviews.",
+     "text": "Birdeye holds an average sentiment of 0.33 across 3 sources, reflecting a mix of 1 positive announcement and 2 neutral mentions.",
      "cite": [
-      "GL-50e16263"
+      "GL-27aa30b9",
+      "GL-50e16263",
+      "GL-50bc20dd"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The cited record confirms a Reddit user questioned the value of Birdeye and Podium for Google reviews.",
-     "checked_by": "gemini-3.1-flash-lite"
+     "reason": "Matches the STATS provided for sentiment and source counts.",
+     "checked_by": "gemini-3-flash-preview"
     },
     {
      "where": "s1.1",
      "section": "How the brand is perceived",
-     "text": "Birdeye's product announcement presents the brand as an AI-driven solution for multi-location customer experience management.",
+     "text": "Prospective SMB buyers on Reddit question whether Birdeye is worth the cost for collecting Google reviews without feeling awkward.",
+     "cite": [
+      "GL-50e16263"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "The Reddit record confirms a user asked if Birdeye is worth it for reviews.",
+     "checked_by": "gemini-3-flash-preview"
+    },
+    {
+     "where": "s2.0",
+     "section": "Risks to watch",
+     "text": "Birdeye is expanding its product capabilities for multi-location brands with upgraded AI Insights.",
      "cite": [
       "GL-27aa30b9"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The announcement of AI Insights for multi-location CX management supports this framing.",
-     "checked_by": "gemini-3.1-flash-lite"
-    },
-    {
-     "where": "s2.0",
-     "section": "Risks to watch",
-     "text": "Birdeye's reported scale of $100M ARR and $93M in funding gives it substantial resources to invest in product and marketing.",
-     "cite": [
-      "GL-50bc20dd"
-     ],
-     "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "The record confirms the financial figures, but the claim about investment strategy is an inference, not stated.",
-     "checked_by": "gemini-3.1-flash-lite"
+     "reason": "The EIN News record confirms the expansion of AI Insights for multi-location brands.",
+     "checked_by": "gemini-3-flash-preview"
     },
     {
      "where": "s2.1",
      "section": "Risks to watch",
-     "text": "Birdeye is expanding its feature set to attract larger, multi-location accounts through upgraded AI Insights.",
+     "text": "Birdeye commands significant financial scale, with reported metrics of $100M ARR and $93M raised.",
      "cite": [
-      "GL-27aa30b9"
+      "GL-50bc20dd"
      ],
      "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "The record confirms the product upgrade, but does not explicitly state the intent is to attract larger accounts.",
-     "checked_by": "gemini-3.1-flash-lite"
+     "verdict": "supported",
+     "reason": "The GetLatka record confirms the $100M ARR and $93M raised metrics.",
+     "checked_by": "gemini-3-flash-preview"
     },
     {
      "where": "s3.0",
      "section": "Openings for Weave",
-     "text": "Prospective SMB buyers are uncertain about Birdeye's return on investment for review collection, creating an opening for Weave's review solutions.",
+     "text": "Local business owners are seeking practical ways to collect Google reviews and weighing whether tools like Birdeye are worth it.",
      "cite": [
       "GL-50e16263"
      ],
      "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "The record shows user uncertainty, but does not explicitly state this creates an opening for Weave.",
-     "checked_by": "gemini-3.1-flash-lite"
+     "verdict": "supported",
+     "reason": "The Reddit record shows a business owner asking about review tools and value.",
+     "checked_by": "gemini-3-flash-preview"
     },
     {
      "where": "s3.1",
      "section": "Openings for Weave",
-     "text": "Birdeye's emphasis on multi-location brands may leave single-location and local SMBs feeling overlooked or overcharged.",
+     "text": "Birdeye's focus on enterprise multi-location CX loops may leave local SMBs looking for simpler review solutions.",
      "cite": [
       "GL-27aa30b9",
       "GL-50e16263"
      ],
      "fabricated_cites": [],
-     "verdict": "unsupported",
-     "reason": "The records do not state that SMBs feel overlooked or overcharged by Birdeye's focus.",
-     "checked_by": "gemini-3.1-flash-lite"
-    },
-    {
-     "where": "archetype",
-     "section": "Archetype read",
-     "text": "Birdeye is framed as a Creator archetype through its introduction of upgraded AI Insights for multi-location brands, emphasizing continuous product innovation that Weave should counter with practical SMB usability.",
-     "cite": [
-      "GL-27aa30b9"
-     ],
-     "fabricated_cites": [],
      "verdict": "partial",
-     "reason": "The record confirms the product update, but the 'Creator archetype' and Weave strategy are external interpretations.",
-     "checked_by": "gemini-3.1-flash-lite"
+     "reason": "Records show multi-location focus and SMB questions, but the 'leave looking for simpler' part is inference.",
+     "checked_by": "gemini-3-flash-preview"
     },
     {
      "where": "a0",
      "section": "Actions",
-     "text": "Deploy competitive content addressing local business owners who question if tools like Birdeye are worth the cost for Google reviews. - Prospective buyers on public forums are actively seeking validation on whether Birdeye provides enough value for review generation.",
+     "text": "Publish ROI-focused comparison content addressing SMB owners evaluating Birdeye for Google reviews. - Local business owners are actively asking whether Birdeye is worth the investment to generate customer reviews.",
      "cite": [
       "GL-50e16263"
      ],
      "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "The record confirms user questions, but the recommendation to deploy content is an external strategic suggestion.",
-     "checked_by": "gemini-3.1-flash-lite"
+     "verdict": "supported",
+     "reason": "The recommendation responds to a supported situation regarding SMB owners questioning Birdeye's value.",
+     "checked_by": "gemini-3-flash-preview"
     },
     {
      "where": "a1",
      "section": "Actions",
-     "text": "Analyze Birdeye's upgraded AI Insights release to benchmark Weave's customer experience and analytics messaging. - Birdeye is using upgraded AI capabilities to position itself as a complete CX loop solution for multi-location brands.",
+     "text": "Audit Weave's multi-location reporting features against Birdeye's upgraded AI Insights release. - Birdeye is targeting multi-location brands directly with upgraded AI CX intelligence capabilities.",
      "cite": [
       "GL-27aa30b9"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The record confirms the AI Insights release and its positioning as a CX loop solution.",
-     "checked_by": "gemini-3.1-flash-lite"
+     "reason": "The recommendation responds to the supported announcement of Birdeye's multi-location AI Insights.",
+     "checked_by": "gemini-3-flash-preview"
     },
     {
      "where": "a2",
      "section": "Actions",
-     "text": "Equip sales teams with positioning against Birdeye's $100M ARR scale by emphasizing tailored service for local practices. - Birdeye's reported $100M ARR establishes high market presence that sales reps may encounter in competitive deals.",
+     "text": "Benchmark Weave's market positioning against Birdeye's reported $100M ARR scale. - Competitor reporting confirms Birdeye reached $100M ARR backed by $93M in funding.",
      "cite": [
       "GL-50bc20dd"
      ],
      "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "The record confirms the financial scale, but the sales strategy recommendation is an external suggestion.",
-     "checked_by": "gemini-3.1-flash-lite"
+     "verdict": "supported",
+     "reason": "The recommendation responds to the supported financial metrics reported by GetLatka.",
+     "checked_by": "gemini-3-flash-preview"
     }
    ]
   },
   "written_by": "gemini-3.8-flash",
-  "created_at": "2026-10-21T23:40:24+00:00"
+  "created_at": "2026-10-24T00:32:14+00:00"
  },
  "Market|2026-07-11|2026-10-09|Customer posts (Reddit),Developer discussion (Hacker News),News and press,Research papers (arXiv)": {
   "mode": "live",

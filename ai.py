@@ -109,7 +109,6 @@ Return JSON:
               {"title": "How the brand is perceived", "claims": [...]},
               {"title": "Risks to watch", "claims": [...]},
               {"title": "Openings for Weave", "claims": [...]}],
- "archetype_read": {"text": "1-2 sentences: which brand archetype the coverage casts this company as, and whether that helps Weave", "cite": ["GL-..."]},
  "actions": [{"action": "a concrete next step for the Weave team", "why": "one sentence", "cite": ["GL-..."]}]}
 Use 2-4 claims per section (fewer if evidence is thin) and exactly 3 actions."""
 
@@ -147,12 +146,13 @@ def write_brief(req, on_try=None):
 
 # ── Fact-checker ─────────────────────────────────────────────────────────────
 CHECKER_SYSTEM = """You are a strict, independent fact-checker. You did NOT write these claims.
-For each claim you get the claim text and the source records it cites (title + key fact + source + date).
+For each claim you get the claim text and the source records it cites (title + key fact + source + date), plus STATS: the counts code computed from every record.
 Rule on what the cited records say - not on what is true in the world:
 - "supported": the cited records clearly state or directly imply the claim
 - "partial": some of the claim is supported, but part is overstated, generalized, or adds detail not in the records
 - "unsupported": the cited records do not back the claim
 Recommendations ("Weave should...") are "supported" when the situation they respond to is supported.
+Counts, averages and shares that match STATS are "supported": code computed STATS from all the records, so they need no article.
 Return JSON: {"checks":[{"n": <claim number>, "verdict": "supported|partial|unsupported", "reason": "<=20 words"}]}"""
 VERDICTS = ("supported", "partial", "unsupported")
 
@@ -193,7 +193,7 @@ def fact_check(brief, req, writer_model, on_try=None):
                 return "a verdict is needed for every claim"
             return None
         try:
-            data, checker = complete("checker", CHECKER_SYSTEM, json.dumps({"claims": payload}, ensure_ascii=False),
+            data, checker = complete("checker", CHECKER_SYSTEM, json.dumps({"STATS": req["stats"], "claims": payload}, ensure_ascii=False),
                                      validate=ok, avoid=writer_model, max_tokens=2000 + 150 * len(todo),
                                      temperature=0, deadline_s=70, request_timeout=50, on_try=on_try)
             for x in data["checks"]:

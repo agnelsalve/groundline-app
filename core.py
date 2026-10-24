@@ -13,7 +13,7 @@ DATA = pathlib.Path(__file__).parent / "data"
 # What the user picks in the "company" box -> how records are selected for it.
 SUBJECTS = {
     "Weave": {
-        "label": "Weave (our company)",
+        "label": "Weave (the company Groundline reports for)",
         "title": "Weave brand brief",
         "min_relevance": 1,
         "focus": "Weave's reputation, brand perception, risks and what the brand team should do next. "
