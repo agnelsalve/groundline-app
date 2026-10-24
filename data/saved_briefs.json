@@ -2711,33 +2711,33 @@
    ]
   },
   "brief": {
-   "headline": "AI front desk adoption grows despite significant patient frustration with accent and speech recognition",
-   "summary": "While major providers like BT and Yellow Pages are launching AI receptionists for SMBs, healthcare practices are seeing backlash due to poor speech recognition. Patients are skipping appointments or hanging up when AI fails to understand regional accents or medical conditions.",
+   "headline": "AI receptionist adoption grows despite significant patient frustration and accent recognition failures",
+   "summary": "While competitors like Numa and Vosita launch new AI front desk tools, healthcare providers are facing backlash over poor voice recognition. Patients are skipping appointments or hanging up when AI agents fail to understand regional accents or medical conditions.",
    "sections": [
     {
      "title": "What happened",
      "claims": [
       {
-       "text": "Major providers including BT Business and Yellow Pages launched AI receptionist services targeting SMBs and medical practices.",
+       "text": "Multiple competitors launched AI receptionists, including Numa's 'Operator' with precision routing and Vosita's medical-specific tool.",
        "cite": [
-        "GL-0df0c5f5",
-        "GL-736540f6",
+        "GL-1662bd60",
         "GL-f1d34e3d"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Funding for AI front desk technology continues to rise, with Medow Health raising AUD $3.5 million and Nous Research reaching a $1.5B valuation.",
+       "text": "Funding for AI front desk startups is active, with Medow Health raising AUD $3.5 million and Fulltime AI securing $1 million.",
        "cite": [
         "GL-dcc481b2",
-        "GL-c0c89846"
+        "GL-98e70ed8"
        ],
-       "verdict": "partial"
+       "verdict": "supported"
       },
       {
-       "text": "Flae Robotics reported over 3,400 autonomous hotel bookings via its AI receptionist during the summer season.",
+       "text": "Large providers like BT Business and Yellow Pages are entering the SMB AI receptionist market with new automated services.",
        "cite": [
-        "GL-95a62d85"
+        "GL-0df0c5f5",
+        "GL-736540f6"
        ],
        "verdict": "supported"
       }
@@ -2747,7 +2747,7 @@
      "title": "How the brand is perceived",
      "claims": [
       {
-       "text": "AI receptionists are being described as 'incredibly frustrating' by GP practices and patients due to technical failures.",
+       "text": "Patients report 'incredible frustration' with AI receptionists, leading some GP practices to ditch the technology entirely.",
        "cite": [
         "GL-0c0e8c63",
         "GL-a28960a4"
@@ -2755,17 +2755,17 @@
        "verdict": "supported"
       },
       {
-       "text": "There is a perception that current AI tools cannot handle regional accents, specifically Yorkshire, or patients with speech impairments after a stroke.",
+       "text": "AI tools are perceived as unreliable for patients with specific needs, such as those with regional accents or post-stroke speech difficulties.",
        "cite": [
-        "GL-28153e4b",
+        "GL-2b8d5da4",
         "GL-82c10b66"
        ],
        "verdict": "supported"
       },
       {
-       "text": "New entrants like Numa are positioning AI as a precision routing tool designed to ensure callers reach human hands.",
+       "text": "Despite failures, some sectors see success, such as Flae Robotics reporting over 3,400 autonomous hotel bookings.",
        "cite": [
-        "GL-1662bd60"
+        "GL-95a62d85"
        ],
        "verdict": "supported"
       }
@@ -2775,27 +2775,26 @@
      "title": "Risks to watch",
      "claims": [
       {
-       "text": "Patients are skipping doctor visits entirely because they cannot communicate effectively with AI receptionists.",
+       "text": "Poor AI comprehension is causing patients to skip doctor visits, directly harming patient access and trust.",
        "cite": [
         "GL-936b48de"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Regional accent recognition remains a critical failure point, leading to high hang-up rates among frustrated patients.",
+       "text": "Regional accent recognition remains a systemic failure, with reports of AI agents being 'baffled' by Yorkshire accents.",
        "cite": [
         "GL-2b8d5da4",
-        "GL-59d27d73"
+        "GL-d9b266a9"
        ],
        "verdict": "supported"
       },
       {
-       "text": "Increased competition from telecom giants like BT and established players like Yellow Pages threatens the SMB communication space.",
+       "text": "New entrants like Medow Health are specifically targeting specialist clinics with dedicated AI front desk solutions.",
        "cite": [
-        "GL-36ad4893",
-        "GL-cf6ab56f"
+        "GL-4ce500bd"
        ],
-       "verdict": "partial"
+       "verdict": "supported"
       }
      ]
     },
@@ -2803,35 +2802,28 @@
      "title": "Openings for Weave",
      "claims": [
       {
-       "text": "GP practices are actively ditching AI tools that fail to meet patient needs, creating a replacement market for reliable solutions.",
+       "text": "There is a high opportunity to provide human-backed or more reliable solutions as patients abandon practices using poor AI.",
        "cite": [
-        "GL-0c0e8c63",
-        "GL-a28960a4"
+        "GL-82c10b66",
+        "GL-0c0e8c63"
        ],
-       "verdict": "partial"
+       "verdict": "supported"
       },
       {
-       "text": "There is a specific demand for 24/7 dental call answering that ensures no patient calls are missed.",
+       "text": "Competitors are focusing on 24/7 availability and 'never missing a call,' which Weave can counter with superior accuracy.",
        "cite": [
-        "GL-23a1a6f2"
-       ],
-       "verdict": "partial"
-      },
-      {
-       "text": "Specialized clinics are a focus for new funding, suggesting a need for vertical-specific AI front desk solutions.",
-       "cite": [
-        "GL-4ce500bd"
+        "GL-23a1a6f2",
+        "GL-f1d34e3d"
        ],
        "verdict": "supported"
       }
      ]
     }
    ],
-   "archetype_read": null,
    "actions": [
     {
-     "action": "Audit current voice recognition capabilities for regional accents and speech impairments.",
-     "why": "Evidence shows patients are abandoning practices when AI cannot understand them due to accents or medical conditions.",
+     "action": "Audit voice recognition capabilities for regional accents and speech impediments.",
+     "why": "Multiple reports show patients hanging up or skipping visits when AI fails to parse non-standard speech.",
      "cite": [
       "GL-2b8d5da4",
       "GL-82c10b66"
@@ -2839,243 +2831,221 @@
      "verdict": "supported"
     },
     {
-     "action": "Develop a 'human-in-the-loop' marketing angle for AI routing.",
-     "why": "Competitors like Numa are already using precision routing to ensure callers reach the right human hands.",
-     "cite": [
-      "GL-1662bd60"
-     ],
-     "verdict": "supported"
-    },
-    {
-     "action": "Target GP practices that have recently abandoned AI receptionists.",
-     "why": "Multiple reports show practices are dropping frustrating AI tools due to patient complaints and missed appointments.",
+     "action": "Develop a human-in-the-loop fail-safe for medical AI agents.",
+     "why": "Practices are dropping AI tools due to frustration, creating a need for systems that can hand off to staff when comprehension fails.",
      "cite": [
       "GL-0c0e8c63",
       "GL-a28960a4"
      ],
      "verdict": "supported"
+    },
+    {
+     "action": "Monitor Medow Health's expansion into specialist clinics.",
+     "why": "They recently raised $2.5M specifically to target the medical front desk market with vertical-specific AI.",
+     "cite": [
+      "GL-4ce500bd",
+      "GL-dcc481b2"
+     ],
+     "verdict": "supported"
     }
-   ]
+   ],
+   "archetype_read": null
   },
   "fact_check": {
    "checker": "gemini-3.5-flash",
    "check_error": null,
-   "status": "needs_review",
-   "groundedness": 0.812,
-   "claims_total": 16,
-   "supported": 11,
-   "partial": 4,
-   "unsupported": 1,
+   "status": "verified",
+   "groundedness": 1.0,
+   "claims_total": 14,
+   "supported": 14,
+   "partial": 0,
+   "unsupported": 0,
    "unverified": 0,
    "fabricated_citations": 0,
    "log": [
     {
      "where": "s0.0",
      "section": "What happened",
-     "text": "Major providers including BT Business and Yellow Pages launched AI receptionist services targeting SMBs and medical practices.",
+     "text": "Multiple competitors launched AI receptionists, including Numa's 'Operator' with precision routing and Vosita's medical-specific tool.",
      "cite": [
-      "GL-0df0c5f5",
-      "GL-736540f6",
+      "GL-1662bd60",
       "GL-f1d34e3d"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "BT Business, Yellow Pages, and cited medical AI receptionists directly support all parts of this claim.",
+     "reason": "Cited records confirm Numa launched Operator with precision routing and Vosita launched an AI receptionist for medical practices.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s0.1",
      "section": "What happened",
-     "text": "Funding for AI front desk technology continues to rise, with Medow Health raising AUD $3.5 million and Nous Research reaching a $1.5B valuation.",
+     "text": "Funding for AI front desk startups is active, with Medow Health raising AUD $3.5 million and Fulltime AI securing $1 million.",
      "cite": [
       "GL-dcc481b2",
-      "GL-c0c89846"
+      "GL-98e70ed8"
      ],
      "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "Medow Health funding is supported, but Nous Research develops AI agents for business users, not specifically front desks.",
+     "verdict": "supported",
+     "reason": "Cited sources explicitly state Medow Health raised AUD $3.5 million and Fulltime AI secured $1 million.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s0.2",
      "section": "What happened",
-     "text": "Flae Robotics reported over 3,400 autonomous hotel bookings via its AI receptionist during the summer season.",
+     "text": "Large providers like BT Business and Yellow Pages are entering the SMB AI receptionist market with new automated services.",
      "cite": [
-      "GL-95a62d85"
+      "GL-0df0c5f5",
+      "GL-736540f6"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The cited record confirms Flae Robotics reported over 3,400 autonomous hotel bookings by its AI receptionist over summer.",
+     "reason": "Cited records confirm both BT Business and Yellow Pages launched AI receptionist services for businesses.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s1.0",
      "section": "How the brand is perceived",
-     "text": "AI receptionists are being described as 'incredibly frustrating' by GP practices and patients due to technical failures.",
+     "text": "Patients report 'incredible frustration' with AI receptionists, leading some GP practices to ditch the technology entirely.",
      "cite": [
       "GL-0c0e8c63",
       "GL-a28960a4"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited sources directly support that GP practices and patients described AI receptionists as frustrating and complained about them.",
+     "reason": "Cited articles confirm GP practices ditched AI receptionists after patient complaints about them being 'incredibly frustrating'.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s1.1",
      "section": "How the brand is perceived",
-     "text": "There is a perception that current AI tools cannot handle regional accents, specifically Yorkshire, or patients with speech impairments after a stroke.",
+     "text": "AI tools are perceived as unreliable for patients with specific needs, such as those with regional accents or post-stroke speech difficulties.",
      "cite": [
-      "GL-28153e4b",
+      "GL-2b8d5da4",
       "GL-82c10b66"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited articles document failure to understand Yorkshire accents and a patient with speech impairment after a stroke.",
+     "reason": "Cited sources report an AI receptionist failed with Yorkshire accents and another could not understand a post-stroke patient.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s1.2",
      "section": "How the brand is perceived",
-     "text": "New entrants like Numa are positioning AI as a precision routing tool designed to ensure callers reach human hands.",
+     "text": "Despite failures, some sectors see success, such as Flae Robotics reporting over 3,400 autonomous hotel bookings.",
      "cite": [
-      "GL-1662bd60"
+      "GL-95a62d85"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Numa's product release explicitly states its precision routing system puts every caller in the right hands.",
+     "reason": "Cited record directly supports Flae Robotics reporting over 3,400 autonomous hotel bookings.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s2.0",
      "section": "Risks to watch",
-     "text": "Patients are skipping doctor visits entirely because they cannot communicate effectively with AI receptionists.",
+     "text": "Poor AI comprehension is causing patients to skip doctor visits, directly harming patient access and trust.",
      "cite": [
       "GL-936b48de"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The cited source explicitly states patients skip doctor visits because AI receptionists cannot understand them.",
+     "reason": "Cited source directly states patients are skipping doctor visits due to poor AI receptionist comprehension.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s2.1",
      "section": "Risks to watch",
-     "text": "Regional accent recognition remains a critical failure point, leading to high hang-up rates among frustrated patients.",
+     "text": "Regional accent recognition remains a systemic failure, with reports of AI agents being 'baffled' by Yorkshire accents.",
      "cite": [
       "GL-2b8d5da4",
-      "GL-59d27d73"
+      "GL-d9b266a9"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited sources report patients hanging up and failing to book appointments due to regional accent misunderstandings.",
+     "reason": "Cited articles confirm reports that an AI receptionist was baffled by and could not understand Yorkshire accents.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s2.2",
      "section": "Risks to watch",
-     "text": "Increased competition from telecom giants like BT and established players like Yellow Pages threatens the SMB communication space.",
-     "cite": [
-      "GL-36ad4893",
-      "GL-cf6ab56f"
-     ],
-     "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "Launches by BT and Yellow Pages are supported, but claiming this 'threatens the SMB space' goes beyond cited sources.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s3.0",
-     "section": "Openings for Weave",
-     "text": "GP practices are actively ditching AI tools that fail to meet patient needs, creating a replacement market for reliable solutions.",
-     "cite": [
-      "GL-0c0e8c63",
-      "GL-a28960a4"
-     ],
-     "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "GP practices ditching AI receptionists is supported, but creating a 'replacement market' adds details not in records.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s3.1",
-     "section": "Openings for Weave",
-     "text": "There is a specific demand for 24/7 dental call answering that ensures no patient calls are missed.",
-     "cite": [
-      "GL-23a1a6f2"
-     ],
-     "fabricated_cites": [],
-     "verdict": "partial",
-     "reason": "Marketing of a 24/7 dental AI service is cited, but actual market demand is an unsupported extrapolation.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s3.2",
-     "section": "Openings for Weave",
-     "text": "Specialized clinics are a focus for new funding, suggesting a need for vertical-specific AI front desk solutions.",
+     "text": "New entrants like Medow Health are specifically targeting specialist clinics with dedicated AI front desk solutions.",
      "cite": [
       "GL-4ce500bd"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Medow Health's seed raise specifically targeted building an AI front desk for specialist clinics.",
+     "reason": "Cited source explicitly states Medow Health raised seed funding to build an AI front desk for specialist clinics.",
      "checked_by": "gemini-3.5-flash"
     },
     {
-     "where": "archetype",
-     "section": "Archetype read",
-     "text": "The market predominantly casts AI front desk providers as the Creator, focusing on innovation, but failures in patient care cast some as poor Caregivers. This allows Weave to position itself as the reliable alternative that prioritizes patient access.",
+     "where": "s3.0",
+     "section": "Openings for Weave",
+     "text": "There is a high opportunity to provide human-backed or more reliable solutions as patients abandon practices using poor AI.",
      "cite": [
-      "GL-936b48de",
-      "GL-1662bd60"
+      "GL-82c10b66",
+      "GL-0c0e8c63"
      ],
      "fabricated_cites": [],
-     "verdict": "unsupported",
-     "reason": "Cited records discuss patient issues and Numa's launch, but do not mention Creator/Caregiver archetypes or Weave.",
+     "verdict": "supported",
+     "reason": "Cited sources confirm patients facing comprehension issues and practices dropping AI, supporting this strategic opportunity.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s3.1",
+     "section": "Openings for Weave",
+     "text": "Competitors are focusing on 24/7 availability and 'never missing a call,' which Weave can counter with superior accuracy.",
+     "cite": [
+      "GL-23a1a6f2",
+      "GL-f1d34e3d"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Cited sources show competitors promoting 24/7 availability and 'never missing a call'.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "a0",
      "section": "Actions",
-     "text": "Audit current voice recognition capabilities for regional accents and speech impairments. - Evidence shows patients are abandoning practices when AI cannot understand them due to accents or medical conditions.",
+     "text": "Audit voice recognition capabilities for regional accents and speech impediments. - Multiple reports show patients hanging up or skipping visits when AI fails to parse non-standard speech.",
      "cite": [
       "GL-2b8d5da4",
       "GL-82c10b66"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Recommendation responds to supported evidence of patients hanging up due to accent and stroke communication issues.",
+     "reason": "Recommendation is supported by cited reports showing patients hanging up or struggling with accents and speech impediments.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "a1",
      "section": "Actions",
-     "text": "Develop a 'human-in-the-loop' marketing angle for AI routing. - Competitors like Numa are already using precision routing to ensure callers reach the right human hands.",
-     "cite": [
-      "GL-1662bd60"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Recommendation responds to supported evidence that competitor Numa uses precision routing to reach human hands.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "a2",
-     "section": "Actions",
-     "text": "Target GP practices that have recently abandoned AI receptionists. - Multiple reports show practices are dropping frustrating AI tools due to patient complaints and missed appointments.",
+     "text": "Develop a human-in-the-loop fail-safe for medical AI agents. - Practices are dropping AI tools due to frustration, creating a need for systems that can hand off to staff when comprehension fails.",
      "cite": [
       "GL-0c0e8c63",
       "GL-a28960a4"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Recommendation responds to supported evidence that GP practices are dropping frustrating AI receptionists after patient complaints.",
+     "reason": "Recommendation is supported by cited sources showing GP practices dropping frustrating AI receptionists.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "a2",
+     "section": "Actions",
+     "text": "Monitor Medow Health's expansion into specialist clinics. - They recently raised $2.5M specifically to target the medical front desk market with vertical-specific AI.",
+     "cite": [
+      "GL-4ce500bd",
+      "GL-dcc481b2"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Recommendation is supported by cited sources confirming Medow Health's funding specifically to target specialist clinics.",
      "checked_by": "gemini-3.5-flash"
     }
    ]
   },
   "written_by": "gemini-3-flash-preview",
-  "created_at": "2026-10-21T23:41:00+00:00"
+  "created_at": "2026-10-24T00:33:44+00:00"
  },
  "Market|2026-09-09|2026-10-09|Customer posts (Reddit),Developer discussion (Hacker News),News and press,Research papers (arXiv)": {
   "mode": "live",
@@ -3526,33 +3496,35 @@
    ]
   },
   "brief": {
-   "headline": "AI receptionist market surges with vertical competitors despite healthcare patient backlash",
-   "summary": "The market for AI front desk solutions is rapidly expanding with new launches from telecom providers and specialized medical startups. While adoption is growing in hospitality, some healthcare providers are abandoning AI receptionists due to patient frustration and privacy concerns.",
+   "headline": "AI receptionist market expands rapidly despite healthcare patient backlash and privacy concerns",
+   "summary": "Major telecom and tech providers are launching AI front desk tools for SMBs and medical practices. While adoption is high in hospitality, some healthcare providers are abandoning these tools due to patient frustration and privacy blunders.",
    "sections": [
     {
      "title": "What happened",
      "claims": [
       {
-       "text": "BT Business and Yellow Pages launched AI receptionists specifically targeting the SMB market.",
+       "text": "BT Business, Yellow Pages, and Numa launched AI receptionist services for SMBs and medical practices featuring precision routing and automated call handling.",
        "cite": [
         "GL-0df0c5f5",
-        "GL-736540f6"
+        "GL-736540f6",
+        "GL-1662bd60",
+        "GL-f1d34e3d"
        ],
        "verdict": "partial"
       },
       {
-       "text": "Specialized medical AI front desk solutions gained significant funding, including Medow Health raising $3.5 million AUD.",
+       "text": "Funding for AI front desk startups is active, with Medow Health raising a $2.5M seed and Fulltime AI securing $1M to scale across home services.",
        "cite": [
-        "GL-dcc481b2",
-        "GL-4ce500bd"
+        "GL-4ce500bd",
+        "GL-98e70ed8"
        ],
        "verdict": "supported"
       },
       {
-       "text": "New competitive features include precision routing from Numa and live Calendly booking from 800.com.",
+       "text": "New capabilities include booking Calendly appointments during live calls and interactive UI updates for AI agents that include charts and buttons.",
        "cite": [
-        "GL-1662bd60",
-        "GL-aa6977d7"
+        "GL-aa6977d7",
+        "GL-75bc8cc1"
        ],
        "verdict": "supported"
       }
@@ -3562,17 +3534,24 @@
      "title": "How the brand is perceived",
      "claims": [
       {
-       "text": "AI receptionists are being marketed as tools that never sleep to ensure practices never miss a patient call.",
+       "text": "AI receptionists are viewed as effective for high-volume booking, with one hotel bot completing over 3,400 autonomous bookings over the summer.",
        "cite": [
-        "GL-f1d34e3d",
-        "GL-23a1a6f2"
+        "GL-95a62d85"
        ],
        "verdict": "supported"
       },
       {
-       "text": "There is emerging skepticism in healthcare, where AI tools have been labeled incredibly frustrating by users.",
+       "text": "In healthcare, perception is mixed; some GP practices dropped AI receptionists after patients found them 'incredibly frustrating.'",
        "cite": [
-        "GL-0c0e8c63"
+        "GL-0c0e8c63",
+        "GL-a28960a4"
+       ],
+       "verdict": "supported"
+      },
+      {
+       "text": "Early users are showing skepticism toward personal AI agents, deleting them due to privacy scares and functional blunders.",
+       "cite": [
+        "GL-2928fda5"
        ],
        "verdict": "supported"
       }
@@ -3582,24 +3561,25 @@
      "title": "Risks to watch",
      "claims": [
       {
-       "text": "Patient resistance is a significant factor; one GP surgery ditched its AI receptionist following patient complaints.",
+       "text": "Established telecom providers like BT Business are entering the SMB market with AI call-handling services, increasing competitive pressure.",
+       "cite": [
+        "GL-7d8cc076",
+        "GL-fa717033"
+       ],
+       "verdict": "partial"
+      },
+      {
+       "text": "Patient resistance in medical settings remains a risk, as evidenced by surgeries reverting to human staff after complaints.",
        "cite": [
         "GL-a28960a4"
        ],
-       "verdict": "supported"
+       "verdict": "partial"
       },
       {
-       "text": "Privacy scares and technical blunders are causing some early users to delete their AI agents.",
+       "text": "Competitors are targeting specific niches like home care and specialist clinics with tailored AI front desk platforms.",
        "cite": [
-        "GL-2928fda5"
-       ],
-       "verdict": "supported"
-      },
-      {
-       "text": "Increased competition from large incumbents like BT Business and Yellow Pages is targeting the same SMB base.",
-       "cite": [
-        "GL-d1656b25",
-        "GL-cf6ab56f"
+        "GL-f62ba0f7",
+        "GL-4ce500bd"
        ],
        "verdict": "supported"
       }
@@ -3609,285 +3589,264 @@
      "title": "Openings for Weave",
      "claims": [
       {
-       "text": "High demand for automated booking is proven by Flae Robotics reporting over 3,400 autonomous bookings over the summer.",
-       "cite": [
-        "GL-95a62d85"
-       ],
-       "verdict": "supported"
-      },
-      {
-       "text": "There is a gap for precision routing that puts callers in the right hands, a feature recently launched by competitors.",
-       "cite": [
-        "GL-1662bd60"
-       ],
-       "verdict": "supported"
-      },
-      {
-       "text": "The failure of frustrating AI in medical practices creates an opening for a more reliable, healthcare-specific solution.",
+       "text": "There is a high-opportunity opening for reliable healthcare AI that avoids the frustrating user experience of current market failures.",
        "cite": [
         "GL-0c0e8c63"
        ],
        "verdict": "supported"
+      },
+      {
+       "text": "Integrating automated appointment booking into live calls is a validated demand, as seen in new features from 800.com.",
+       "cite": [
+        "GL-aa6977d7"
+       ],
+       "verdict": "supported"
+      },
+      {
+       "text": "The success of 24/7 dental call answering services suggests a strong market for 'never miss a call' positioning.",
+       "cite": [
+        "GL-23a1a6f2"
+       ],
+       "verdict": "partial"
       }
      ]
     }
    ],
-   "archetype_read": {
-    "text": "The market casts these companies as the Creator, focusing on rapid innovation. This validates demand for automation, but the lack of a Caregiver approach has led to patient backlash in medical settings.",
-    "cite": [
-     "STATS",
-     "GL-a28960a4"
-    ],
-    "verdict": "partial"
-   },
    "actions": [
     {
-     "action": "Audit current call routing capabilities against competitor precision routing systems.",
-     "why": "Competitors like Numa are using advanced routing as a key differentiator for their AI receptionists.",
+     "action": "Audit current call routing and AI interaction flows.",
+     "why": "Ensuring Weave does not mirror the 'frustrating' experiences reported by GP patients will prevent customer churn.",
      "cite": [
-      "GL-1662bd60"
+      "GL-0c0e8c63"
      ],
      "verdict": "supported"
     },
     {
-     "action": "Develop a marketing guide on human-centered AI to address patient frustration.",
-     "why": "Evidence shows healthcare practices are abandoning AI due to poor patient experiences and complaints.",
-     "cite": [
-      "GL-0c0e8c63",
-      "GL-a28960a4"
-     ],
-     "verdict": "supported"
-    },
-    {
-     "action": "Evaluate integrating live scheduling tools directly into AI interactions.",
-     "why": "Competitors are now offering live Calendly booking during calls to turn inquiries into opportunities.",
+     "action": "Evaluate the integration of live-call appointment booking.",
+     "why": "This feature is being adopted by competitors to turn inquiries into immediate opportunities.",
      "cite": [
       "GL-aa6977d7",
       "GL-736540f6"
      ],
      "verdict": "supported"
+    },
+    {
+     "action": "Monitor the rollout of BT Business's AI receptionist.",
+     "why": "Large telecom entrants validate the SMB demand but may have feature gaps Weave can exploit.",
+     "cite": [
+      "GL-0df0c5f5",
+      "GL-7d8cc076"
+     ],
+     "verdict": "supported"
     }
-   ]
+   ],
+   "archetype_read": null
   },
   "fact_check": {
    "checker": "gemini-3.5-flash",
    "check_error": null,
    "status": "verified",
-   "groundedness": 0.875,
-   "claims_total": 16,
-   "supported": 13,
-   "partial": 2,
-   "unsupported": 1,
+   "groundedness": 0.867,
+   "claims_total": 15,
+   "supported": 11,
+   "partial": 4,
+   "unsupported": 0,
    "unverified": 0,
-   "fabricated_citations": 2,
+   "fabricated_citations": 0,
    "log": [
     {
      "where": "s0.0",
      "section": "What happened",
-     "text": "BT Business and Yellow Pages launched AI receptionists specifically targeting the SMB market.",
+     "text": "BT Business, Yellow Pages, and Numa launched AI receptionist services for SMBs and medical practices featuring precision routing and automated call handling.",
      "cite": [
       "GL-0df0c5f5",
-      "GL-736540f6"
+      "GL-736540f6",
+      "GL-1662bd60",
+      "GL-f1d34e3d"
      ],
      "fabricated_cites": [],
      "verdict": "partial",
-     "reason": "Cited records state both launched AI receptionists, but do not mention targeting the SMB market specifically.",
+     "reason": "Vosita launched for medical practices; attributing this segment to BT, Yellow Pages, and Numa is inaccurate.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s0.1",
      "section": "What happened",
-     "text": "Specialized medical AI front desk solutions gained significant funding, including Medow Health raising $3.5 million AUD.",
+     "text": "Funding for AI front desk startups is active, with Medow Health raising a $2.5M seed and Fulltime AI securing $1M to scale across home services.",
      "cite": [
-      "GL-dcc481b2",
-      "GL-4ce500bd"
+      "GL-4ce500bd",
+      "GL-98e70ed8"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited sources verify Medow Health raised AUD $3.5 million for a specialist clinic AI front desk solution.",
+     "reason": "Cited records support both Medow Health and Fulltime AI funding amounts and targets.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s0.2",
      "section": "What happened",
-     "text": "New competitive features include precision routing from Numa and live Calendly booking from 800.com.",
+     "text": "New capabilities include booking Calendly appointments during live calls and interactive UI updates for AI agents that include charts and buttons.",
      "cite": [
-      "GL-1662bd60",
-      "GL-aa6977d7"
+      "GL-aa6977d7",
+      "GL-75bc8cc1"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited sources confirm Numa launched precision routing and 800.com added live Calendly booking.",
+     "reason": "Cited sources confirm 800.com Calendly booking and ChatGPT interactive UI updates.",
      "checked_by": "gemini-3.5-flash"
     },
     {
      "where": "s1.0",
      "section": "How the brand is perceived",
-     "text": "The market is largely viewed through the Creator archetype, with 25 records focusing on product innovation.",
-     "cite": [
-      "STATS"
-     ],
-     "fabricated_cites": [
-      "STATS"
-     ],
-     "verdict": "unsupported",
-     "reason": "cites no article from the evidence (made-up or missing citation)",
-     "checked_by": "rule"
-    },
-    {
-     "where": "s1.1",
-     "section": "How the brand is perceived",
-     "text": "AI receptionists are being marketed as tools that never sleep to ensure practices never miss a patient call.",
-     "cite": [
-      "GL-f1d34e3d",
-      "GL-23a1a6f2"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Cited sources show AI receptionists marketed as 'never sleeps' 24/7 tools to ensure no patient calls are missed.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s1.2",
-     "section": "How the brand is perceived",
-     "text": "There is emerging skepticism in healthcare, where AI tools have been labeled incredibly frustrating by users.",
-     "cite": [
-      "GL-0c0e8c63"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Cited record confirms a GP practice dropped an AI receptionist described as 'incredibly frustrating'.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s2.0",
-     "section": "Risks to watch",
-     "text": "Patient resistance is a significant factor; one GP surgery ditched its AI receptionist following patient complaints.",
-     "cite": [
-      "GL-a28960a4"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Cited source directly supports that a GP surgery ditched its AI receptionist following patient complaints.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s2.1",
-     "section": "Risks to watch",
-     "text": "Privacy scares and technical blunders are causing some early users to delete their AI agents.",
-     "cite": [
-      "GL-2928fda5"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Cited record confirms early users are deleting personal AI agents due to privacy scares and blunders.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s2.2",
-     "section": "Risks to watch",
-     "text": "Increased competition from large incumbents like BT Business and Yellow Pages is targeting the same SMB base.",
-     "cite": [
-      "GL-d1656b25",
-      "GL-cf6ab56f"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Cited sources verify both BT Business and Yellow Pages launched AI receptionists targeting SMBs.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s3.0",
-     "section": "Openings for Weave",
-     "text": "High demand for automated booking is proven by Flae Robotics reporting over 3,400 autonomous bookings over the summer.",
+     "text": "AI receptionists are viewed as effective for high-volume booking, with one hotel bot completing over 3,400 autonomous bookings over the summer.",
      "cite": [
       "GL-95a62d85"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "Cited source confirms Flae Robotics reported over 3,400 autonomous hotel bookings over the summer.",
+     "reason": "Cited record confirms Flae Robotics hotel bot completed over 3,400 bookings over summer.",
      "checked_by": "gemini-3.5-flash"
     },
     {
-     "where": "s3.1",
-     "section": "Openings for Weave",
-     "text": "There is a gap for precision routing that puts callers in the right hands, a feature recently launched by competitors.",
-     "cite": [
-      "GL-1662bd60"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "Cited source confirms Numa launched precision routing to put every caller in the right hands.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "s3.2",
-     "section": "Openings for Weave",
-     "text": "The failure of frustrating AI in medical practices creates an opening for a more reliable, healthcare-specific solution.",
-     "cite": [
-      "GL-0c0e8c63"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "The situation regarding frustrating AI in medical practices is fully supported by the cited record.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "archetype",
-     "section": "Archetype read",
-     "text": "The market casts these companies as the Creator, focusing on rapid innovation. This validates demand for automation, but the lack of a Caregiver approach has led to patient backlash in medical settings.",
-     "cite": [
-      "STATS",
-      "GL-a28960a4"
-     ],
-     "fabricated_cites": [
-      "STATS"
-     ],
-     "verdict": "partial",
-     "reason": "Patient backlash is supported, but claims about Creator and Caregiver archetypes add detail not in records.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "a0",
-     "section": "Actions",
-     "text": "Audit current call routing capabilities against competitor precision routing systems. - Competitors like Numa are using advanced routing as a key differentiator for their AI receptionists.",
-     "cite": [
-      "GL-1662bd60"
-     ],
-     "fabricated_cites": [],
-     "verdict": "supported",
-     "reason": "The recommendation responds directly to Numa's precision routing feature confirmed in the cited record.",
-     "checked_by": "gemini-3.5-flash"
-    },
-    {
-     "where": "a1",
-     "section": "Actions",
-     "text": "Develop a marketing guide on human-centered AI to address patient frustration. - Evidence shows healthcare practices are abandoning AI due to poor patient experiences and complaints.",
+     "where": "s1.1",
+     "section": "How the brand is perceived",
+     "text": "In healthcare, perception is mixed; some GP practices dropped AI receptionists after patients found them 'incredibly frustrating.'",
      "cite": [
       "GL-0c0e8c63",
       "GL-a28960a4"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The recommendation responds directly to supported evidence of healthcare practices abandoning AI after patient complaints.",
+     "reason": "Cited sources confirm GP practices dropped AI receptionists due to patient complaints and frustration.",
      "checked_by": "gemini-3.5-flash"
     },
     {
-     "where": "a2",
+     "where": "s1.2",
+     "section": "How the brand is perceived",
+     "text": "Early users are showing skepticism toward personal AI agents, deleting them due to privacy scares and functional blunders.",
+     "cite": [
+      "GL-2928fda5"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Cited record confirms users are deleting personal AI agents due to privacy scares and blunders.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s2.0",
+     "section": "Risks to watch",
+     "text": "Established telecom providers like BT Business are entering the SMB market with AI call-handling services, increasing competitive pressure.",
+     "cite": [
+      "GL-7d8cc076",
+      "GL-fa717033"
+     ],
+     "fabricated_cites": [],
+     "verdict": "partial",
+     "reason": "BT's rollout is supported, but increasing competitive pressure is not mentioned in cited records.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s2.1",
+     "section": "Risks to watch",
+     "text": "Patient resistance in medical settings remains a risk, as evidenced by surgeries reverting to human staff after complaints.",
+     "cite": [
+      "GL-a28960a4"
+     ],
+     "fabricated_cites": [],
+     "verdict": "partial",
+     "reason": "Records confirm surgery ditched AI receptionist, but do not state they reverted to human staff.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s2.2",
+     "section": "Risks to watch",
+     "text": "Competitors are targeting specific niches like home care and specialist clinics with tailored AI front desk platforms.",
+     "cite": [
+      "GL-f62ba0f7",
+      "GL-4ce500bd"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Cited records confirm tailored platforms for home care (AxisCare) and specialist clinics (Medow Health).",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s3.0",
+     "section": "Openings for Weave",
+     "text": "There is a high-opportunity opening for reliable healthcare AI that avoids the frustrating user experience of current market failures.",
+     "cite": [
+      "GL-0c0e8c63"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Supported opportunity statement responding to documented failure of frustrating GP AI receptionist.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s3.1",
+     "section": "Openings for Weave",
+     "text": "Integrating automated appointment booking into live calls is a validated demand, as seen in new features from 800.com.",
+     "cite": [
+      "GL-aa6977d7"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Cited record supports 800.com integrating live-call Calendly appointment booking.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "s3.2",
+     "section": "Openings for Weave",
+     "text": "The success of 24/7 dental call answering services suggests a strong market for 'never miss a call' positioning.",
+     "cite": [
+      "GL-23a1a6f2"
+     ],
+     "fabricated_cites": [],
+     "verdict": "partial",
+     "reason": "Record shows a service marketed to dentists, but does not state or prove its overall success.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "a0",
      "section": "Actions",
-     "text": "Evaluate integrating live scheduling tools directly into AI interactions. - Competitors are now offering live Calendly booking during calls to turn inquiries into opportunities.",
+     "text": "Audit current call routing and AI interaction flows. - Ensuring Weave does not mirror the 'frustrating' experiences reported by GP patients will prevent customer churn.",
+     "cite": [
+      "GL-0c0e8c63"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Supported recommendation responding to documented patient frustration with GP AI receptionists.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "a1",
+     "section": "Actions",
+     "text": "Evaluate the integration of live-call appointment booking. - This feature is being adopted by competitors to turn inquiries into immediate opportunities.",
      "cite": [
       "GL-aa6977d7",
       "GL-736540f6"
      ],
      "fabricated_cites": [],
      "verdict": "supported",
-     "reason": "The recommendation responds directly to cited competitor features like live Calendly booking during calls.",
+     "reason": "Supported recommendation responding to live-call appointment booking features launched by competitors.",
+     "checked_by": "gemini-3.5-flash"
+    },
+    {
+     "where": "a2",
+     "section": "Actions",
+     "text": "Monitor the rollout of BT Business's AI receptionist. - Large telecom entrants validate the SMB demand but may have feature gaps Weave can exploit.",
+     "cite": [
+      "GL-0df0c5f5",
+      "GL-7d8cc076"
+     ],
+     "fabricated_cites": [],
+     "verdict": "supported",
+     "reason": "Supported recommendation responding to BT Business entering the AI receptionist market.",
      "checked_by": "gemini-3.5-flash"
     }
    ]
   },
   "written_by": "gemini-3-flash-preview",
-  "created_at": "2026-10-21T23:41:56+00:00"
+  "created_at": "2026-10-24T00:34:14+00:00"
  }
 }
